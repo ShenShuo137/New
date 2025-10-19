@@ -112,11 +112,11 @@ def generate_anchored_scale_prediction_mcq(train_json_path, test_json_path, outp
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description='为TSU-跨度预测任务生成选择题格式的MS-SWIFT数据集')
     # 建议将默认输入文件指向更大的样本池文件
-    parser.add_argument('--train_json', type=str, default="/openbayes/home/0917/json/TSU/train_with_dates.json",
+    parser.add_argument('--train_json', type=str, default="/data/ss/benchmark/json/TSU/train_with_dates.json",
                         help='包含日期信息的训练集JSON文件路径')
-    parser.add_argument('--test_json', type=str, default="/openbayes/home/0917/json/TSU/test_with_dates.json",
+    parser.add_argument('--test_json', type=str, default="/data/ss/benchmark/json/TSU/test_with_dates.json",
                         help='包含日期信息的测试集JSON文件路径')
-    parser.add_argument('--output_dir', type=str, default="/openbayes/home/0917/json/TSU/task_datasets",
+    parser.add_argument('--output_dir', type=str, default="/data/ss/benchmark/json/TSU/task_datasets",
                         help='输出任务JSON文件的目录')
     parser.add_argument('--seed', type=int, default=42,
                         help='随机种子')

@@ -72,11 +72,11 @@ def split_dataset(input_json_path, train_json_path, test_json_path, train_ratio=
 if __name__ == "__main__":
     # 创建命令行参数解析器
     parser = argparse.ArgumentParser(description='将数据集划分为训练集和测试集')
-    parser.add_argument('--input', type=str, default="/openbayes/home/0917/json/TOU/dataset_full.json",
+    parser.add_argument('--input', type=str, default="/data/ss/benchmark/json/TOU/dataset_full.json",
                         help='输入的JSON文件路径 (默认: dataset_images.json)')
-    parser.add_argument('--train_output', type=str, default="/openbayes/home/0917/json/TOU/train_dataset.json",
+    parser.add_argument('--train_output', type=str, default="/data/ss/benchmark/json/TOU/train_dataset.json",
                         help='输出的训练集JSON文件路径 (默认: train_dataset.json)')
-    parser.add_argument('--test_output', type=str, default="/openbayes/home/0917/json/TOU/test_dataset.json",
+    parser.add_argument('--test_output', type=str, default="/data/ss/benchmark/json/TOU/test_dataset.json",
                         help='输出的测试集JSON文件路径 (默认: test_dataset.json)')
     parser.add_argument('--train_ratio', type=float, default=0.8,
                         help='训练集占总数据的比例 (默认: 0.8)')

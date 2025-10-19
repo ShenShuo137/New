@@ -114,9 +114,9 @@ def generate_pairwise_scale_comparison_cross_group_mcq(train_json_path, test_jso
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description='为TSU-跨度比较任务生成跨组选择题格式的MS-SWIFT数据集')
-    parser.add_argument('--train_json', type=str, default="/openbayes/home/0917/json/TSU/train_with_dates.json")
-    parser.add_argument('--test_json', type=str, default="/openbayes/home/0917/json/TSU/test_with_dates.json")
-    parser.add_argument('--output_dir', type=str, default="/openbayes/home/0917/json/TSU/task_datasets")
+    parser.add_argument('--train_json', type=str, default="/data/ss/benchmark/json/TSU/train_with_dates.json")
+    parser.add_argument('--test_json', type=str, default="/data/ss/benchmark/json/TSU/test_with_dates.json")
+    parser.add_argument('--output_dir', type=str, default="/data/ss/benchmark/json/TSU/task_datasets")
     parser.add_argument('--seed', type=int, default=42)
     args = parser.parse_args()
     generate_pairwise_scale_comparison_cross_group_mcq(args.train_json, args.test_json, args.output_dir, args.seed)

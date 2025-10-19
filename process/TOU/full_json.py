@@ -71,7 +71,7 @@ def generate_dataset_json(dataset_root_path, output_json_path):
 if __name__ == "__main__":
     # 设置数据集根目录和输出JSON文件路径
     # 根据您的描述，路径可能会变化，所以这里使用相对路径
-    dataset_root = "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear"  # 您可以根据实际情况修改此路径
-    output_json = "/openbayes/home/0917/json/TOU/dataset_full.json"
+    dataset_root = "/data/ss/benchmark/dataset/dataset/dataset"  # 您可以根据实际情况修改此路径
+    output_json = "/data/ss/benchmark/json/TOU/dataset_full.json"
     
     generate_dataset_json(dataset_root, output_json)

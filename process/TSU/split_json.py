@@ -108,9 +108,9 @@ def create_tsu_initial_datasets(dataset_root, output_dir, total_samples=1000, tr
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description='从TAMMs数据集生成TSU任务的初始JSON文件')
-    parser.add_argument('--dataset_root', type=str, default="/openbayes/home/dataset_256x256_20250723_154123/TAMMs",
+    parser.add_argument('--dataset_root', type=str, default="/data/ss/benchmark/dataset/dataset/TAMMs",
                         help='TAMMs数据集的根目录 (例如 D:\\dataset\\TAMMs\\TAMMs)')
-    parser.add_argument('--output_dir', type=str, default="/openbayes/home/0917/json/TSU",
+    parser.add_argument('--output_dir', type=str, default="/data/ss/benchmark/json/TSU",
                         help='输出JSON文件的目录 (默认: tsu_initial_jsons)')
     parser.add_argument('--total_samples', type=int, default=1250,
                         help='要抽取的总样本数 (默认: 1000)')
