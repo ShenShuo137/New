@@ -1,0 +1,3202 @@
+[
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0215/B.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0215/E.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0115/H.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0115/G.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/048/F.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/048/G.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/081/A.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/081/D.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0207/A.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0207/F.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/076/B.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/076/H.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/053/B.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/053/D.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0108/C.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0108/E.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0179/D.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0179/G.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/064/G.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/064/C.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0101/I.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0101/H.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0181/G.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0181/F.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/011/C.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/011/G.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0179/L.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0179/F.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/054/B.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/054/E.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0185/A.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0185/E.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0152/G.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0152/E.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/068/G.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/068/E.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/060/G.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/060/B.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/05/C.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/05/F.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/data-xiongan-withsum/01/D.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/data-xiongan-withsum/01/F.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/043/P.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/043/H.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/data-xiongan-withsum/038/G.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/data-xiongan-withsum/038/C.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/026/E.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/026/D.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0115/E.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0115/F.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/036/A.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/036/E.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/0197/A.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/0197/E.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0148/B.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0148/G.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/09/B.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/09/D.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/076/A.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/076/B.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0178/A.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0178/F.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0216/E.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0216/F.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0212/F.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0212/D.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0105/N.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0105/A.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/094/I.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/094/E.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/011/G.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/011/H.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0195/A.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0195/B.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0131/E.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0131/B.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/050/I.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/050/Q.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/0184/D.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/0184/C.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/0118/D.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/0118/E.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/056/I.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/056/K.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0226/A.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0226/G.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0153/F.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0153/G.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/0128/D.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/0128/A.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0136/B.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0136/Q.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/035/B.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/035/A.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0137/L.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0137/O.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/089/B.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/089/J.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/053/D.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/053/M.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/data-xiongan-withsum/011/F.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/data-xiongan-withsum/011/E.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0223/A.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0223/G.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0169/E.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0169/I.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/050/B.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/050/C.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0169/A.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0169/C.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/033/E.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/033/M.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/051/F.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/051/J.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/054/D.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/054/E.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0120/G.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0120/K.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/070/A.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/070/B.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/0155/C.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/0155/A.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/021/D.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/021/B.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/017/Q.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/017/N.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/0131/D.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/0131/C.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/059/G.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/059/K.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0141/C.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0141/O.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/080/B.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/080/H.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/072/D.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/072/E.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/039/I.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/039/C.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/0149/D.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/0149/B.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/081/E.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/081/A.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0192/D.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0192/C.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0202/C.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0202/A.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0116/D.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0116/B.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/041/Q.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/041/N.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/063/C.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/063/G.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0142/E.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0142/G.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0229/G.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0229/D.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/070/D.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/070/G.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/0162/B.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/0162/E.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/049/K.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/049/C.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/02/I.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/02/E.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0139/P.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0139/E.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0153/O.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0153/F.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0128/R.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0128/O.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/049/D.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/049/I.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/072/D.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/072/B.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/030/C.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/030/B.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/075/C.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/075/G.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/089/D.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/089/C.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/01/I.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/01/J.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/data-xiongan-withsum/024/F.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/data-xiongan-withsum/024/E.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0159/F.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0159/D.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/020/B.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/020/D.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0138/K.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0138/Q.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0197/C.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0197/B.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/050/N.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/050/G.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/039/D.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/039/J.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0186/B.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0186/E.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/0107/F.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/0107/A.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/099/L.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/099/D.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/019/C.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/019/J.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/029/E.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/029/D.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/0166/C.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/0166/B.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0115/C.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0115/G.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/038/A.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/038/D.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0132/E.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0132/D.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/047/I.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/047/K.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/0108/C.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/0108/A.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/025/B.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/025/F.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0213/B.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0213/F.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/043/L.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/043/N.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/043/D.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/043/A.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/077/B.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/077/C.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/050/E.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/050/G.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0164/H.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0164/D.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/076/I.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/076/C.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/062/D.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/062/A.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/0116/H.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/0116/A.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0187/L.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0187/C.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/02/D.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/02/F.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/098/I.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/098/H.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0127/D.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0127/J.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0133/I.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0133/G.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/014/A.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/014/M.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/0156/A.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/0156/C.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0111/B.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0111/F.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/096/B.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/096/F.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/041/I.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/041/C.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0197/H.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0197/G.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0109/F.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0109/D.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/0115/H.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/0115/D.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/data-xiongan-withsum/010/E.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/data-xiongan-withsum/010/B.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/047/N.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/047/M.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/0165/E.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/0165/B.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0107/J.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0107/B.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/data-xiongan-withsum/04/G.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/data-xiongan-withsum/04/E.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/0172/C.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/0172/B.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0114/I.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0114/K.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/095/F.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/095/J.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0175/D.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0175/E.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/023/L.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/023/R.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0195/C.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0195/J.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/0174/A.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/0174/C.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0128/C.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0128/A.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/02/B.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/02/A.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0154/G.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0154/C.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/0145/D.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/0145/B.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0173/H.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0173/I.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/093/B.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/093/F.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/0150/D.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/0150/C.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0141/C.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0141/D.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/046/L.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/046/A.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/025/D.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/025/G.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/075/F.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/075/E.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/0136/D.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/0136/E.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0155/G.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0155/D.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/054/A.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/054/K.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0121/D.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0121/C.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/02/E.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/02/B.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0177/D.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0177/G.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0177/B.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0177/H.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0208/C.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0208/E.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0156/C.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0156/E.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/057/A.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/057/H.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/013/A.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/013/H.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/0153/B.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/0153/C.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/032/O.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/032/B.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/0208/A.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/0208/D.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/085/B.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/085/A.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/030/I.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/030/M.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0146/C.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0146/N.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0121/N.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0121/G.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/028/B.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/028/L.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0100/J.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0100/I.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0136/C.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0136/E.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/02/B.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/02/H.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/08/A.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/08/D.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/0109/C.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/0109/F.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/095/B.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/095/D.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0146/D.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0146/G.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0161/H.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0161/G.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/019/E.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/019/L.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/0168/E.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/0168/D.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/080/O.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/080/B.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0104/F.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0104/E.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/data-xiongan-withsum/06/C.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/data-xiongan-withsum/06/D.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/033/G.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/033/F.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/074/I.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/074/L.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0193/B.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0193/F.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/04/B.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/04/G.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0122/J.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0122/I.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/057/K.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/057/L.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/022/E.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/022/P.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/065/I.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/065/A.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/015/O.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/015/A.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/08/K.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/08/C.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0134/D.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0134/G.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/035/F.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/035/C.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0196/B.png",
+      "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0196/E.png"
+    ]
+  }
+]

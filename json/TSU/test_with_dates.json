@@ -1,0 +1,5254 @@
+{
+  "image_groups": [
+    {
+      "group_id": "airport_hangar_818",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_hangar/airport_hangar_818/2016-9-18.jpg",
+          "date": "2016-09-18"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_hangar/airport_hangar_818/2016-12-13.jpg",
+          "date": "2016-12-13"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_hangar/airport_hangar_818/2017-2-7.jpg",
+          "date": "2017-02-07"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_hangar/airport_hangar_818/2017-2-25.jpg",
+          "date": "2017-02-25"
+        }
+      ]
+    },
+    {
+      "group_id": "factory_or_powerplant_269",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/factory_or_powerplant/factory_or_powerplant_269/2009-3-15.jpg",
+          "date": "2009-03-15"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/factory_or_powerplant/factory_or_powerplant_269/2011-5-20.jpg",
+          "date": "2011-05-20"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/factory_or_powerplant/factory_or_powerplant_269/2015-7-13.jpg",
+          "date": "2015-07-13"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/factory_or_powerplant/factory_or_powerplant_269/2016-7-28.jpg",
+          "date": "2016-07-28"
+        }
+      ]
+    },
+    {
+      "group_id": "hospital_96",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/hospital/hospital_96/2015-4-8.jpg",
+          "date": "2015-04-08"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/hospital/hospital_96/2016-4-28.jpg",
+          "date": "2016-04-28"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/hospital/hospital_96/2016-5-23.jpg",
+          "date": "2016-05-23"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/hospital/hospital_96/2016-8-10.jpg",
+          "date": "2016-08-10"
+        }
+      ]
+    },
+    {
+      "group_id": "military_facility_1529",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_1529/2015-4-6.jpg",
+          "date": "2015-04-06"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_1529/2015-6-22.jpg",
+          "date": "2015-06-22"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_1529/2015-8-5.jpg",
+          "date": "2015-08-05"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_1529/2017-4-30.jpg",
+          "date": "2017-04-30"
+        }
+      ]
+    },
+    {
+      "group_id": "military_facility_1022",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_1022/2011-2-3.jpg",
+          "date": "2011-02-03"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_1022/2011-4-27.jpg",
+          "date": "2011-04-27"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_1022/2015-7-8.jpg",
+          "date": "2015-07-08"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_1022/2016-4-1.jpg",
+          "date": "2016-04-01"
+        }
+      ]
+    },
+    {
+      "group_id": "military_facility_1050",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_1050/2016-5-2.jpg",
+          "date": "2016-05-02"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_1050/2016-6-11.jpg",
+          "date": "2016-06-11"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_1050/2016-6-12.jpg",
+          "date": "2016-06-12"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_1050/2017-2-6.jpg",
+          "date": "2017-02-06"
+        }
+      ]
+    },
+    {
+      "group_id": "multi-unit_residential_150",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/multi-unit_residential/multi-unit_residential_150/2009-9-9.jpg",
+          "date": "2009-09-09"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/multi-unit_residential/multi-unit_residential_150/2010-3-21.jpg",
+          "date": "2010-03-21"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/multi-unit_residential/multi-unit_residential_150/2014-9-12.jpg",
+          "date": "2014-09-12"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/multi-unit_residential/multi-unit_residential_150/2016-8-1.jpg",
+          "date": "2016-08-01"
+        }
+      ]
+    },
+    {
+      "group_id": "military_facility_1835",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_1835/2013-6-29.jpg",
+          "date": "2013-06-29"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_1835/2015-8-7.jpg",
+          "date": "2015-08-07"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_1835/2015-8-15.jpg",
+          "date": "2015-08-15"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_1835/2017-1-7.jpg",
+          "date": "2017-01-07"
+        }
+      ]
+    },
+    {
+      "group_id": "military_facility_2015",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_2015/2016-9-21.jpg",
+          "date": "2016-09-21"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_2015/2016-11-19.jpg",
+          "date": "2016-11-19"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_2015/2016-12-19.jpg",
+          "date": "2016-12-19"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_2015/2017-1-23.jpg",
+          "date": "2017-01-23"
+        }
+      ]
+    },
+    {
+      "group_id": "multi-unit_residential_192",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/multi-unit_residential/multi-unit_residential_192/2009-9-9.jpg",
+          "date": "2009-09-09"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/multi-unit_residential/multi-unit_residential_192/2010-3-21.jpg",
+          "date": "2010-03-21"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/multi-unit_residential/multi-unit_residential_192/2014-9-12.jpg",
+          "date": "2014-09-12"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/multi-unit_residential/multi-unit_residential_192/2016-8-1.jpg",
+          "date": "2016-08-01"
+        }
+      ]
+    },
+    {
+      "group_id": "military_facility_155",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_155/2014-5-13.jpg",
+          "date": "2014-05-13"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_155/2015-8-11.jpg",
+          "date": "2015-08-11"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_155/2016-7-21.jpg",
+          "date": "2016-07-21"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_155/2016-11-12.jpg",
+          "date": "2016-11-12"
+        }
+      ]
+    },
+    {
+      "group_id": "military_facility_825",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_825/2012-9-12.jpg",
+          "date": "2012-09-12"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_825/2015-6-2.jpg",
+          "date": "2015-06-02"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_825/2015-6-21.jpg",
+          "date": "2015-06-21"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_825/2016-7-7.jpg",
+          "date": "2016-07-07"
+        }
+      ]
+    },
+    {
+      "group_id": "multi-unit_residential_663",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/multi-unit_residential/multi-unit_residential_663/2013-8-14.jpg",
+          "date": "2013-08-14"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/multi-unit_residential/multi-unit_residential_663/2014-5-31.jpg",
+          "date": "2014-05-31"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/multi-unit_residential/multi-unit_residential_663/2014-11-4.jpg",
+          "date": "2014-11-04"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/multi-unit_residential/multi-unit_residential_663/2016-11-9.jpg",
+          "date": "2016-11-09"
+        }
+      ]
+    },
+    {
+      "group_id": "airport_hangar_358",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_hangar/airport_hangar_358/2014-12-13.jpg",
+          "date": "2014-12-13"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_hangar/airport_hangar_358/2015-1-8.jpg",
+          "date": "2015-01-08"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_hangar/airport_hangar_358/2015-1-23.jpg",
+          "date": "2015-01-23"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_hangar/airport_hangar_358/2015-12-11.jpg",
+          "date": "2015-12-11"
+        }
+      ]
+    },
+    {
+      "group_id": "multi-unit_residential_684",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/multi-unit_residential/multi-unit_residential_684/2016-7-22.jpg",
+          "date": "2016-07-22"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/multi-unit_residential/multi-unit_residential_684/2016-12-4.jpg",
+          "date": "2016-12-04"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/multi-unit_residential/multi-unit_residential_684/2016-12-29.jpg",
+          "date": "2016-12-29"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/multi-unit_residential/multi-unit_residential_684/2017-4-8.jpg",
+          "date": "2017-04-08"
+        }
+      ]
+    },
+    {
+      "group_id": "factory_or_powerplant_222",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/factory_or_powerplant/factory_or_powerplant_222/2013-10-20.jpg",
+          "date": "2013-10-20"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/factory_or_powerplant/factory_or_powerplant_222/2016-5-8.jpg",
+          "date": "2016-05-08"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/factory_or_powerplant/factory_or_powerplant_222/2017-1-6.jpg",
+          "date": "2017-01-06"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/factory_or_powerplant/factory_or_powerplant_222/2017-3-9.jpg",
+          "date": "2017-03-09"
+        }
+      ]
+    },
+    {
+      "group_id": "hospital_334",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/hospital/hospital_334/2016-3-15.jpg",
+          "date": "2016-03-15"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/hospital/hospital_334/2016-5-11.jpg",
+          "date": "2016-05-11"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/hospital/hospital_334/2016-9-24.jpg",
+          "date": "2016-09-24"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/hospital/hospital_334/2016-10-5.jpg",
+          "date": "2016-10-05"
+        }
+      ]
+    },
+    {
+      "group_id": "military_facility_1577",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_1577/2013-9-13.jpg",
+          "date": "2013-09-13"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_1577/2016-7-21.jpg",
+          "date": "2016-07-21"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_1577/2016-8-23.jpg",
+          "date": "2016-08-23"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_1577/2016-10-7.jpg",
+          "date": "2016-10-07"
+        }
+      ]
+    },
+    {
+      "group_id": "multi-unit_residential_55",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/multi-unit_residential/multi-unit_residential_55/2015-5-20.jpg",
+          "date": "2015-05-20"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/multi-unit_residential/multi-unit_residential_55/2016-7-14.jpg",
+          "date": "2016-07-14"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/multi-unit_residential/multi-unit_residential_55/2016-9-11.jpg",
+          "date": "2016-09-11"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/multi-unit_residential/multi-unit_residential_55/2016-9-30.jpg",
+          "date": "2016-09-30"
+        }
+      ]
+    },
+    {
+      "group_id": "military_facility_1821",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_1821/2017-1-10.jpg",
+          "date": "2017-01-10"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_1821/2017-4-7.jpg",
+          "date": "2017-04-07"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_1821/2017-4-9.jpg",
+          "date": "2017-04-09"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_1821/2017-4-10.jpg",
+          "date": "2017-04-10"
+        }
+      ]
+    },
+    {
+      "group_id": "airport_hangar_745",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_hangar/airport_hangar_745/2014-12-7.jpg",
+          "date": "2014-12-07"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_hangar/airport_hangar_745/2016-7-11.jpg",
+          "date": "2016-07-11"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_hangar/airport_hangar_745/2016-10-3.jpg",
+          "date": "2016-10-03"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_hangar/airport_hangar_745/2016-10-22.jpg",
+          "date": "2016-10-22"
+        }
+      ]
+    },
+    {
+      "group_id": "military_facility_716",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_716/2016-4-23.jpg",
+          "date": "2016-04-23"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_716/2016-8-18.jpg",
+          "date": "2016-08-18"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_716/2016-12-23.jpg",
+          "date": "2016-12-23"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_716/2016-12-26.jpg",
+          "date": "2016-12-26"
+        }
+      ]
+    },
+    {
+      "group_id": "office_building_894",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/office_building/office_building_894/2009-5-25.jpg",
+          "date": "2009-05-25"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/office_building/office_building_894/2010-12-6.jpg",
+          "date": "2010-12-06"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/office_building/office_building_894/2011-5-28.jpg",
+          "date": "2011-05-28"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/office_building/office_building_894/2015-2-11.jpg",
+          "date": "2015-02-11"
+        }
+      ]
+    },
+    {
+      "group_id": "multi-unit_residential_224",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/multi-unit_residential/multi-unit_residential_224/2015-4-25.jpg",
+          "date": "2015-04-25"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/multi-unit_residential/multi-unit_residential_224/2015-9-17.jpg",
+          "date": "2015-09-17"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/multi-unit_residential/multi-unit_residential_224/2015-12-15.jpg",
+          "date": "2015-12-15"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/multi-unit_residential/multi-unit_residential_224/2016-9-12.jpg",
+          "date": "2016-09-12"
+        }
+      ]
+    },
+    {
+      "group_id": "multi-unit_residential_243",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/multi-unit_residential/multi-unit_residential_243/2017-3-25.jpg",
+          "date": "2017-03-25"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/multi-unit_residential/multi-unit_residential_243/2017-4-23.jpg",
+          "date": "2017-04-23"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/multi-unit_residential/multi-unit_residential_243/2017-5-15.jpg",
+          "date": "2017-05-15"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/multi-unit_residential/multi-unit_residential_243/2017-5-20.jpg",
+          "date": "2017-05-20"
+        }
+      ]
+    },
+    {
+      "group_id": "multi-unit_residential_630",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/multi-unit_residential/multi-unit_residential_630/2015-7-30.jpg",
+          "date": "2015-07-30"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/multi-unit_residential/multi-unit_residential_630/2016-7-15.jpg",
+          "date": "2016-07-15"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/multi-unit_residential/multi-unit_residential_630/2016-7-22.jpg",
+          "date": "2016-07-22"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/multi-unit_residential/multi-unit_residential_630/2016-8-15.jpg",
+          "date": "2016-08-15"
+        }
+      ]
+    },
+    {
+      "group_id": "military_facility_1145",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_1145/2016-8-23.jpg",
+          "date": "2016-08-23"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_1145/2017-1-3.jpg",
+          "date": "2017-01-03"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_1145/2017-1-17.jpg",
+          "date": "2017-01-17"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_1145/2017-4-29.jpg",
+          "date": "2017-04-29"
+        }
+      ]
+    },
+    {
+      "group_id": "hospital_401",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/hospital/hospital_401/2016-12-27.jpg",
+          "date": "2016-12-27"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/hospital/hospital_401/2017-1-1.jpg",
+          "date": "2017-01-01"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/hospital/hospital_401/2017-1-12.jpg",
+          "date": "2017-01-12"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/hospital/hospital_401/2017-1-23.jpg",
+          "date": "2017-01-23"
+        }
+      ]
+    },
+    {
+      "group_id": "military_facility_1990",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_1990/2015-2-24.jpg",
+          "date": "2015-02-24"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_1990/2015-8-30.jpg",
+          "date": "2015-08-30"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_1990/2016-4-7.jpg",
+          "date": "2016-04-07"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_1990/2016-4-25.jpg",
+          "date": "2016-04-25"
+        }
+      ]
+    },
+    {
+      "group_id": "military_facility_1245",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_1245/2016-5-28.jpg",
+          "date": "2016-05-28"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_1245/2016-7-29.jpg",
+          "date": "2016-07-29"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_1245/2016-9-28.jpg",
+          "date": "2016-09-28"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_1245/2017-5-4.jpg",
+          "date": "2017-05-04"
+        }
+      ]
+    },
+    {
+      "group_id": "military_facility_241",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_241/2013-8-25.jpg",
+          "date": "2013-08-25"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_241/2014-5-13.jpg",
+          "date": "2014-05-13"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_241/2015-8-11.jpg",
+          "date": "2015-08-11"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_241/2016-7-21.jpg",
+          "date": "2016-07-21"
+        }
+      ]
+    },
+    {
+      "group_id": "airport_terminal_443",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_terminal/airport_terminal_443/2015-7-16.jpg",
+          "date": "2015-07-16"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_terminal/airport_terminal_443/2015-8-1.jpg",
+          "date": "2015-08-01"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_terminal/airport_terminal_443/2015-9-11.jpg",
+          "date": "2015-09-11"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_terminal/airport_terminal_443/2017-3-10.jpg",
+          "date": "2017-03-10"
+        }
+      ]
+    },
+    {
+      "group_id": "airport_terminal_376",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_terminal/airport_terminal_376/2004-3-29.jpg",
+          "date": "2004-03-29"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_terminal/airport_terminal_376/2011-12-28.jpg",
+          "date": "2011-12-28"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_terminal/airport_terminal_376/2012-10-13.jpg",
+          "date": "2012-10-13"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_terminal/airport_terminal_376/2013-12-13.jpg",
+          "date": "2013-12-13"
+        }
+      ]
+    },
+    {
+      "group_id": "office_building_460",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/office_building/office_building_460/2015-7-29.jpg",
+          "date": "2015-07-29"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/office_building/office_building_460/2015-10-18.jpg",
+          "date": "2015-10-18"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/office_building/office_building_460/2016-9-13.jpg",
+          "date": "2016-09-13"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/office_building/office_building_460/2017-3-27.jpg",
+          "date": "2017-03-27"
+        }
+      ]
+    },
+    {
+      "group_id": "military_facility_329",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_329/2015-9-4.jpg",
+          "date": "2015-09-04"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_329/2016-10-9.jpg",
+          "date": "2016-10-09"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_329/2016-10-31.jpg",
+          "date": "2016-10-31"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_329/2017-4-4.jpg",
+          "date": "2017-04-04"
+        }
+      ]
+    },
+    {
+      "group_id": "space_facility_8",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/space_facility/space_facility_8/2017-4-24.jpg",
+          "date": "2017-04-24"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/space_facility/space_facility_8/2017-4-29.jpg",
+          "date": "2017-04-29"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/space_facility/space_facility_8/2017-5-5.jpg",
+          "date": "2017-05-05"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/space_facility/space_facility_8/2017-5-17.jpg",
+          "date": "2017-05-17"
+        }
+      ]
+    },
+    {
+      "group_id": "hospital_80",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/hospital/hospital_80/2016-3-21.jpg",
+          "date": "2016-03-21"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/hospital/hospital_80/2016-8-14.jpg",
+          "date": "2016-08-14"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/hospital/hospital_80/2016-10-23.jpg",
+          "date": "2016-10-23"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/hospital/hospital_80/2017-2-14.jpg",
+          "date": "2017-02-14"
+        }
+      ]
+    },
+    {
+      "group_id": "airport_terminal_761",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_terminal/airport_terminal_761/2010-1-27.jpg",
+          "date": "2010-01-27"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_terminal/airport_terminal_761/2011-9-1.jpg",
+          "date": "2011-09-01"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_terminal/airport_terminal_761/2016-6-6.jpg",
+          "date": "2016-06-06"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_terminal/airport_terminal_761/2016-11-10.jpg",
+          "date": "2016-11-10"
+        }
+      ]
+    },
+    {
+      "group_id": "military_facility_1180",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_1180/2015-9-25.jpg",
+          "date": "2015-09-25"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_1180/2015-9-26.jpg",
+          "date": "2015-09-26"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_1180/2016-4-25.jpg",
+          "date": "2016-04-25"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_1180/2016-10-8.jpg",
+          "date": "2016-10-08"
+        }
+      ]
+    },
+    {
+      "group_id": "airport_hangar_729",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_hangar/airport_hangar_729/2010-10-5.jpg",
+          "date": "2010-10-05"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_hangar/airport_hangar_729/2015-4-29.jpg",
+          "date": "2015-04-29"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_hangar/airport_hangar_729/2016-2-27.jpg",
+          "date": "2016-02-27"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_hangar/airport_hangar_729/2016-6-9.jpg",
+          "date": "2016-06-09"
+        }
+      ]
+    },
+    {
+      "group_id": "hospital_738",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/hospital/hospital_738/2011-5-9.jpg",
+          "date": "2011-05-09"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/hospital/hospital_738/2013-2-23.jpg",
+          "date": "2013-02-23"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/hospital/hospital_738/2013-3-6.jpg",
+          "date": "2013-03-06"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/hospital/hospital_738/2013-3-28.jpg",
+          "date": "2013-03-28"
+        }
+      ]
+    },
+    {
+      "group_id": "multi-unit_residential_233",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/multi-unit_residential/multi-unit_residential_233/2012-6-7.jpg",
+          "date": "2012-06-07"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/multi-unit_residential/multi-unit_residential_233/2013-6-19.jpg",
+          "date": "2013-06-19"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/multi-unit_residential/multi-unit_residential_233/2014-6-27.jpg",
+          "date": "2014-06-27"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/multi-unit_residential/multi-unit_residential_233/2015-12-21.jpg",
+          "date": "2015-12-21"
+        }
+      ]
+    },
+    {
+      "group_id": "military_facility_373",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_373/2016-6-12.jpg",
+          "date": "2016-06-12"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_373/2016-6-24.jpg",
+          "date": "2016-06-24"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_373/2016-7-18.jpg",
+          "date": "2016-07-18"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_373/2016-11-8.jpg",
+          "date": "2016-11-08"
+        }
+      ]
+    },
+    {
+      "group_id": "military_facility_1310",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_1310/2016-4-16.jpg",
+          "date": "2016-04-16"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_1310/2016-6-11.jpg",
+          "date": "2016-06-11"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_1310/2016-6-18.jpg",
+          "date": "2016-06-18"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_1310/2016-11-11.jpg",
+          "date": "2016-11-11"
+        }
+      ]
+    },
+    {
+      "group_id": "airport_terminal_432",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_terminal/airport_terminal_432/2016-1-8.jpg",
+          "date": "2016-01-08"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_terminal/airport_terminal_432/2016-4-7.jpg",
+          "date": "2016-04-07"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_terminal/airport_terminal_432/2016-4-25.jpg",
+          "date": "2016-04-25"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_terminal/airport_terminal_432/2017-2-8.jpg",
+          "date": "2017-02-08"
+        }
+      ]
+    },
+    {
+      "group_id": "military_facility_2003",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_2003/2017-4-1.jpg",
+          "date": "2017-04-01"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_2003/2017-4-16.jpg",
+          "date": "2017-04-16"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_2003/2017-4-19.jpg",
+          "date": "2017-04-19"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_2003/2017-5-5.jpg",
+          "date": "2017-05-05"
+        }
+      ]
+    },
+    {
+      "group_id": "military_facility_1832",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_1832/2017-4-25.jpg",
+          "date": "2017-04-25"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_1832/2017-5-10.jpg",
+          "date": "2017-05-10"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_1832/2017-5-15.jpg",
+          "date": "2017-05-15"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_1832/2017-5-18.jpg",
+          "date": "2017-05-18"
+        }
+      ]
+    },
+    {
+      "group_id": "office_building_1020",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/office_building/office_building_1020/2011-10-14.jpg",
+          "date": "2011-10-14"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/office_building/office_building_1020/2012-1-17.jpg",
+          "date": "2012-01-17"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/office_building/office_building_1020/2012-5-27.jpg",
+          "date": "2012-05-27"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/office_building/office_building_1020/2014-8-27.jpg",
+          "date": "2014-08-27"
+        }
+      ]
+    },
+    {
+      "group_id": "multi-unit_residential_916",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/multi-unit_residential/multi-unit_residential_916/2010-3-22.jpg",
+          "date": "2010-03-22"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/multi-unit_residential/multi-unit_residential_916/2011-4-18.jpg",
+          "date": "2011-04-18"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/multi-unit_residential/multi-unit_residential_916/2015-10-7.jpg",
+          "date": "2015-10-07"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/multi-unit_residential/multi-unit_residential_916/2016-4-9.jpg",
+          "date": "2016-04-09"
+        }
+      ]
+    },
+    {
+      "group_id": "factory_or_powerplant_346",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/factory_or_powerplant/factory_or_powerplant_346/2009-6-16.jpg",
+          "date": "2009-06-16"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/factory_or_powerplant/factory_or_powerplant_346/2012-1-21.jpg",
+          "date": "2012-01-21"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/factory_or_powerplant/factory_or_powerplant_346/2017-4-19.jpg",
+          "date": "2017-04-19"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/factory_or_powerplant/factory_or_powerplant_346/2017-4-30.jpg",
+          "date": "2017-04-30"
+        }
+      ]
+    },
+    {
+      "group_id": "airport_terminal_406",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_terminal/airport_terminal_406/2011-6-21.jpg",
+          "date": "2011-06-21"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_terminal/airport_terminal_406/2015-5-11.jpg",
+          "date": "2015-05-11"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_terminal/airport_terminal_406/2016-4-1.jpg",
+          "date": "2016-04-01"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_terminal/airport_terminal_406/2016-4-29.jpg",
+          "date": "2016-04-29"
+        }
+      ]
+    },
+    {
+      "group_id": "office_building_54",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/office_building/office_building_54/2015-11-22.jpg",
+          "date": "2015-11-22"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/office_building/office_building_54/2016-6-7.jpg",
+          "date": "2016-06-07"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/office_building/office_building_54/2016-12-9.jpg",
+          "date": "2016-12-09"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/office_building/office_building_54/2017-4-11.jpg",
+          "date": "2017-04-11"
+        }
+      ]
+    },
+    {
+      "group_id": "airport_terminal_463",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_terminal/airport_terminal_463/2015-12-10.jpg",
+          "date": "2015-12-10"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_terminal/airport_terminal_463/2016-1-16.jpg",
+          "date": "2016-01-16"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_terminal/airport_terminal_463/2016-1-26.jpg",
+          "date": "2016-01-26"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_terminal/airport_terminal_463/2016-3-7.jpg",
+          "date": "2016-03-07"
+        }
+      ]
+    },
+    {
+      "group_id": "multi-unit_residential_393",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/multi-unit_residential/multi-unit_residential_393/2016-8-27.jpg",
+          "date": "2016-08-27"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/multi-unit_residential/multi-unit_residential_393/2016-9-3.jpg",
+          "date": "2016-09-03"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/multi-unit_residential/multi-unit_residential_393/2017-2-26.jpg",
+          "date": "2017-02-26"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/multi-unit_residential/multi-unit_residential_393/2017-5-18.jpg",
+          "date": "2017-05-18"
+        }
+      ]
+    },
+    {
+      "group_id": "airport_hangar_424",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_hangar/airport_hangar_424/2011-9-3.jpg",
+          "date": "2011-09-03"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_hangar/airport_hangar_424/2014-5-30.jpg",
+          "date": "2014-05-30"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_hangar/airport_hangar_424/2016-2-23.jpg",
+          "date": "2016-02-23"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_hangar/airport_hangar_424/2016-4-7.jpg",
+          "date": "2016-04-07"
+        }
+      ]
+    },
+    {
+      "group_id": "office_building_95",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/office_building/office_building_95/2014-2-11.jpg",
+          "date": "2014-02-11"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/office_building/office_building_95/2015-8-27.jpg",
+          "date": "2015-08-27"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/office_building/office_building_95/2016-9-1.jpg",
+          "date": "2016-09-01"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/office_building/office_building_95/2017-3-7.jpg",
+          "date": "2017-03-07"
+        }
+      ]
+    },
+    {
+      "group_id": "military_facility_1999",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_1999/2011-6-17.jpg",
+          "date": "2011-06-17"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_1999/2011-7-7.jpg",
+          "date": "2011-07-07"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_1999/2013-4-2.jpg",
+          "date": "2013-04-02"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_1999/2016-8-27.jpg",
+          "date": "2016-08-27"
+        }
+      ]
+    },
+    {
+      "group_id": "multi-unit_residential_956",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/multi-unit_residential/multi-unit_residential_956/2014-11-10.jpg",
+          "date": "2014-11-10"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/multi-unit_residential/multi-unit_residential_956/2015-3-30.jpg",
+          "date": "2015-03-30"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/multi-unit_residential/multi-unit_residential_956/2016-9-24.jpg",
+          "date": "2016-09-24"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/multi-unit_residential/multi-unit_residential_956/2016-10-5.jpg",
+          "date": "2016-10-05"
+        }
+      ]
+    },
+    {
+      "group_id": "multi-unit_residential_368",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/multi-unit_residential/multi-unit_residential_368/2017-3-23.jpg",
+          "date": "2017-03-23"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/multi-unit_residential/multi-unit_residential_368/2017-3-25.jpg",
+          "date": "2017-03-25"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/multi-unit_residential/multi-unit_residential_368/2017-4-1.jpg",
+          "date": "2017-04-01"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/multi-unit_residential/multi-unit_residential_368/2017-5-27.jpg",
+          "date": "2017-05-27"
+        }
+      ]
+    },
+    {
+      "group_id": "military_facility_544",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_544/2016-12-28.jpg",
+          "date": "2016-12-28"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_544/2017-1-5.jpg",
+          "date": "2017-01-05"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_544/2017-1-13.jpg",
+          "date": "2017-01-13"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_544/2017-1-16.jpg",
+          "date": "2017-01-16"
+        }
+      ]
+    },
+    {
+      "group_id": "multi-unit_residential_59",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/multi-unit_residential/multi-unit_residential_59/2013-7-21.jpg",
+          "date": "2013-07-21"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/multi-unit_residential/multi-unit_residential_59/2015-1-10.jpg",
+          "date": "2015-01-10"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/multi-unit_residential/multi-unit_residential_59/2015-2-22.jpg",
+          "date": "2015-02-22"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/multi-unit_residential/multi-unit_residential_59/2016-4-4.jpg",
+          "date": "2016-04-04"
+        }
+      ]
+    },
+    {
+      "group_id": "military_facility_1691",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_1691/2016-8-14.jpg",
+          "date": "2016-08-14"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_1691/2016-9-2.jpg",
+          "date": "2016-09-02"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_1691/2016-9-15.jpg",
+          "date": "2016-09-15"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_1691/2017-5-17.jpg",
+          "date": "2017-05-17"
+        }
+      ]
+    },
+    {
+      "group_id": "military_facility_851",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_851/2016-7-30.jpg",
+          "date": "2016-07-30"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_851/2016-12-3.jpg",
+          "date": "2016-12-03"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_851/2017-5-1.jpg",
+          "date": "2017-05-01"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_851/2017-6-2.jpg",
+          "date": "2017-06-02"
+        }
+      ]
+    },
+    {
+      "group_id": "factory_or_powerplant_46",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/factory_or_powerplant/factory_or_powerplant_46/2015-6-2.jpg",
+          "date": "2015-06-02"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/factory_or_powerplant/factory_or_powerplant_46/2015-7-2.jpg",
+          "date": "2015-07-02"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/factory_or_powerplant/factory_or_powerplant_46/2015-7-5.jpg",
+          "date": "2015-07-05"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/factory_or_powerplant/factory_or_powerplant_46/2017-6-8.jpg",
+          "date": "2017-06-08"
+        }
+      ]
+    },
+    {
+      "group_id": "hospital_106",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/hospital/hospital_106/2017-2-2.jpg",
+          "date": "2017-02-02"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/hospital/hospital_106/2017-3-9.jpg",
+          "date": "2017-03-09"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/hospital/hospital_106/2017-3-14.jpg",
+          "date": "2017-03-14"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/hospital/hospital_106/2017-3-19.jpg",
+          "date": "2017-03-19"
+        }
+      ]
+    },
+    {
+      "group_id": "airport_hangar_453",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_hangar/airport_hangar_453/2015-11-25.jpg",
+          "date": "2015-11-25"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_hangar/airport_hangar_453/2016-4-17.jpg",
+          "date": "2016-04-17"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_hangar/airport_hangar_453/2016-8-4.jpg",
+          "date": "2016-08-04"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_hangar/airport_hangar_453/2016-9-10.jpg",
+          "date": "2016-09-10"
+        }
+      ]
+    },
+    {
+      "group_id": "multi-unit_residential_868",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/multi-unit_residential/multi-unit_residential_868/2015-4-15.jpg",
+          "date": "2015-04-15"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/multi-unit_residential/multi-unit_residential_868/2017-1-1.jpg",
+          "date": "2017-01-01"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/multi-unit_residential/multi-unit_residential_868/2017-1-5.jpg",
+          "date": "2017-01-05"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/multi-unit_residential/multi-unit_residential_868/2017-3-1.jpg",
+          "date": "2017-03-01"
+        }
+      ]
+    },
+    {
+      "group_id": "multi-unit_residential_590",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/multi-unit_residential/multi-unit_residential_590/2016-4-2.jpg",
+          "date": "2016-04-02"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/multi-unit_residential/multi-unit_residential_590/2016-5-24.jpg",
+          "date": "2016-05-24"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/multi-unit_residential/multi-unit_residential_590/2016-9-13.jpg",
+          "date": "2016-09-13"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/multi-unit_residential/multi-unit_residential_590/2017-2-8.jpg",
+          "date": "2017-02-08"
+        }
+      ]
+    },
+    {
+      "group_id": "military_facility_577",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_577/2010-3-31.jpg",
+          "date": "2010-03-31"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_577/2011-5-15.jpg",
+          "date": "2011-05-15"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_577/2015-4-16.jpg",
+          "date": "2015-04-16"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_577/2016-8-3.jpg",
+          "date": "2016-08-03"
+        }
+      ]
+    },
+    {
+      "group_id": "military_facility_1200",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_1200/2016-12-30.jpg",
+          "date": "2016-12-30"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_1200/2017-1-10.jpg",
+          "date": "2017-01-10"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_1200/2017-1-12.jpg",
+          "date": "2017-01-12"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_1200/2017-1-23.jpg",
+          "date": "2017-01-23"
+        }
+      ]
+    },
+    {
+      "group_id": "multi-unit_residential_225",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/multi-unit_residential/multi-unit_residential_225/2013-10-15.jpg",
+          "date": "2013-10-15"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/multi-unit_residential/multi-unit_residential_225/2015-12-22.jpg",
+          "date": "2015-12-22"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/multi-unit_residential/multi-unit_residential_225/2016-7-21.jpg",
+          "date": "2016-07-21"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/multi-unit_residential/multi-unit_residential_225/2016-8-23.jpg",
+          "date": "2016-08-23"
+        }
+      ]
+    },
+    {
+      "group_id": "factory_or_powerplant_130",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/factory_or_powerplant/factory_or_powerplant_130/2010-4-18.jpg",
+          "date": "2010-04-18"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/factory_or_powerplant/factory_or_powerplant_130/2013-9-28.jpg",
+          "date": "2013-09-28"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/factory_or_powerplant/factory_or_powerplant_130/2014-1-7.jpg",
+          "date": "2014-01-07"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/factory_or_powerplant/factory_or_powerplant_130/2014-1-12.jpg",
+          "date": "2014-01-12"
+        }
+      ]
+    },
+    {
+      "group_id": "office_building_167",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/office_building/office_building_167/2014-9-20.jpg",
+          "date": "2014-09-20"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/office_building/office_building_167/2016-4-9.jpg",
+          "date": "2016-04-09"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/office_building/office_building_167/2016-4-15.jpg",
+          "date": "2016-04-15"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/office_building/office_building_167/2017-1-6.jpg",
+          "date": "2017-01-06"
+        }
+      ]
+    },
+    {
+      "group_id": "office_building_774",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/office_building/office_building_774/2016-10-12.jpg",
+          "date": "2016-10-12"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/office_building/office_building_774/2016-10-13.jpg",
+          "date": "2016-10-13"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/office_building/office_building_774/2016-10-25.jpg",
+          "date": "2016-10-25"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/office_building/office_building_774/2016-11-8.jpg",
+          "date": "2016-11-08"
+        }
+      ]
+    },
+    {
+      "group_id": "office_building_96",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/office_building/office_building_96/2016-1-10.jpg",
+          "date": "2016-01-10"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/office_building/office_building_96/2016-5-1.jpg",
+          "date": "2016-05-01"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/office_building/office_building_96/2016-7-14.jpg",
+          "date": "2016-07-14"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/office_building/office_building_96/2016-9-14.jpg",
+          "date": "2016-09-14"
+        }
+      ]
+    },
+    {
+      "group_id": "multi-unit_residential_615",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/multi-unit_residential/multi-unit_residential_615/2009-9-9.jpg",
+          "date": "2009-09-09"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/multi-unit_residential/multi-unit_residential_615/2010-3-21.jpg",
+          "date": "2010-03-21"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/multi-unit_residential/multi-unit_residential_615/2011-7-2.jpg",
+          "date": "2011-07-02"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/multi-unit_residential/multi-unit_residential_615/2016-10-8.jpg",
+          "date": "2016-10-08"
+        }
+      ]
+    },
+    {
+      "group_id": "military_facility_1387",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_1387/2004-6-25.jpg",
+          "date": "2004-06-25"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_1387/2013-7-2.jpg",
+          "date": "2013-07-02"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_1387/2013-8-23.jpg",
+          "date": "2013-08-23"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_1387/2015-5-21.jpg",
+          "date": "2015-05-21"
+        }
+      ]
+    },
+    {
+      "group_id": "factory_or_powerplant_202",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/factory_or_powerplant/factory_or_powerplant_202/2015-1-12.jpg",
+          "date": "2015-01-12"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/factory_or_powerplant/factory_or_powerplant_202/2015-11-29.jpg",
+          "date": "2015-11-29"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/factory_or_powerplant/factory_or_powerplant_202/2016-12-18.jpg",
+          "date": "2016-12-18"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/factory_or_powerplant/factory_or_powerplant_202/2017-1-25.jpg",
+          "date": "2017-01-25"
+        }
+      ]
+    },
+    {
+      "group_id": "military_facility_212",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_212/2016-12-26.jpg",
+          "date": "2016-12-26"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_212/2017-1-7.jpg",
+          "date": "2017-01-07"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_212/2017-2-17.jpg",
+          "date": "2017-02-17"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_212/2017-2-26.jpg",
+          "date": "2017-02-26"
+        }
+      ]
+    },
+    {
+      "group_id": "hospital_633",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/hospital/hospital_633/2012-6-2.jpg",
+          "date": "2012-06-02"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/hospital/hospital_633/2013-9-11.jpg",
+          "date": "2013-09-11"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/hospital/hospital_633/2014-5-23.jpg",
+          "date": "2014-05-23"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/hospital/hospital_633/2015-7-25.jpg",
+          "date": "2015-07-25"
+        }
+      ]
+    },
+    {
+      "group_id": "multi-unit_residential_38",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/multi-unit_residential/multi-unit_residential_38/2011-4-27.jpg",
+          "date": "2011-04-27"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/multi-unit_residential/multi-unit_residential_38/2016-4-14.jpg",
+          "date": "2016-04-14"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/multi-unit_residential/multi-unit_residential_38/2016-6-5.jpg",
+          "date": "2016-06-05"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/multi-unit_residential/multi-unit_residential_38/2016-8-12.jpg",
+          "date": "2016-08-12"
+        }
+      ]
+    },
+    {
+      "group_id": "airport_hangar_552",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_hangar/airport_hangar_552/2013-8-25.jpg",
+          "date": "2013-08-25"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_hangar/airport_hangar_552/2013-10-4.jpg",
+          "date": "2013-10-04"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_hangar/airport_hangar_552/2016-1-26.jpg",
+          "date": "2016-01-26"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_hangar/airport_hangar_552/2017-1-31.jpg",
+          "date": "2017-01-31"
+        }
+      ]
+    },
+    {
+      "group_id": "office_building_247",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/office_building/office_building_247/2003-5-16.jpg",
+          "date": "2003-05-16"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/office_building/office_building_247/2010-3-9.jpg",
+          "date": "2010-03-09"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/office_building/office_building_247/2016-7-26.jpg",
+          "date": "2016-07-26"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/office_building/office_building_247/2016-8-18.jpg",
+          "date": "2016-08-18"
+        }
+      ]
+    },
+    {
+      "group_id": "military_facility_2276",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_2276/2016-9-21.jpg",
+          "date": "2016-09-21"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_2276/2016-9-25.jpg",
+          "date": "2016-09-25"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_2276/2016-11-27.jpg",
+          "date": "2016-11-27"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_2276/2016-12-24.jpg",
+          "date": "2016-12-24"
+        }
+      ]
+    },
+    {
+      "group_id": "hospital_473",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/hospital/hospital_473/2006-9-21.jpg",
+          "date": "2006-09-21"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/hospital/hospital_473/2008-3-27.jpg",
+          "date": "2008-03-27"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/hospital/hospital_473/2012-8-8.jpg",
+          "date": "2012-08-08"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/hospital/hospital_473/2014-9-12.jpg",
+          "date": "2014-09-12"
+        }
+      ]
+    },
+    {
+      "group_id": "airport_hangar_351",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_hangar/airport_hangar_351/2009-7-28.jpg",
+          "date": "2009-07-28"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_hangar/airport_hangar_351/2011-8-7.jpg",
+          "date": "2011-08-07"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_hangar/airport_hangar_351/2011-8-18.jpg",
+          "date": "2011-08-18"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_hangar/airport_hangar_351/2014-9-18.jpg",
+          "date": "2014-09-18"
+        }
+      ]
+    },
+    {
+      "group_id": "hospital_429",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/hospital/hospital_429/2012-12-9.jpg",
+          "date": "2012-12-09"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/hospital/hospital_429/2014-1-10.jpg",
+          "date": "2014-01-10"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/hospital/hospital_429/2015-1-14.jpg",
+          "date": "2015-01-14"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/hospital/hospital_429/2016-1-16.jpg",
+          "date": "2016-01-16"
+        }
+      ]
+    },
+    {
+      "group_id": "military_facility_64",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_64/2010-11-3.jpg",
+          "date": "2010-11-03"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_64/2011-3-4.jpg",
+          "date": "2011-03-04"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_64/2014-8-27.jpg",
+          "date": "2014-08-27"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_64/2014-9-2.jpg",
+          "date": "2014-09-02"
+        }
+      ]
+    },
+    {
+      "group_id": "hospital_140",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/hospital/hospital_140/2010-10-17.jpg",
+          "date": "2010-10-17"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/hospital/hospital_140/2013-8-14.jpg",
+          "date": "2013-08-14"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/hospital/hospital_140/2014-5-31.jpg",
+          "date": "2014-05-31"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/hospital/hospital_140/2014-11-4.jpg",
+          "date": "2014-11-04"
+        }
+      ]
+    },
+    {
+      "group_id": "office_building_32",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/office_building/office_building_32/2015-11-10.jpg",
+          "date": "2015-11-10"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/office_building/office_building_32/2015-11-21.jpg",
+          "date": "2015-11-21"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/office_building/office_building_32/2017-2-15.jpg",
+          "date": "2017-02-15"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/office_building/office_building_32/2017-4-22.jpg",
+          "date": "2017-04-22"
+        }
+      ]
+    },
+    {
+      "group_id": "factory_or_powerplant_289",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/factory_or_powerplant/factory_or_powerplant_289/2016-7-1.jpg",
+          "date": "2016-07-01"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/factory_or_powerplant/factory_or_powerplant_289/2016-7-25.jpg",
+          "date": "2016-07-25"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/factory_or_powerplant/factory_or_powerplant_289/2016-8-16.jpg",
+          "date": "2016-08-16"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/factory_or_powerplant/factory_or_powerplant_289/2017-1-10.jpg",
+          "date": "2017-01-10"
+        }
+      ]
+    },
+    {
+      "group_id": "military_facility_1199",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_1199/2009-6-30.jpg",
+          "date": "2009-06-30"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_1199/2009-7-27.jpg",
+          "date": "2009-07-27"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_1199/2014-4-20.jpg",
+          "date": "2014-04-20"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_1199/2015-9-21.jpg",
+          "date": "2015-09-21"
+        }
+      ]
+    },
+    {
+      "group_id": "multi-unit_residential_517",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/multi-unit_residential/multi-unit_residential_517/2015-9-25.jpg",
+          "date": "2015-09-25"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/multi-unit_residential/multi-unit_residential_517/2015-9-26.jpg",
+          "date": "2015-09-26"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/multi-unit_residential/multi-unit_residential_517/2016-4-25.jpg",
+          "date": "2016-04-25"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/multi-unit_residential/multi-unit_residential_517/2016-10-8.jpg",
+          "date": "2016-10-08"
+        }
+      ]
+    },
+    {
+      "group_id": "multi-unit_residential_880",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/multi-unit_residential/multi-unit_residential_880/2010-7-7.jpg",
+          "date": "2010-07-07"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/multi-unit_residential/multi-unit_residential_880/2012-9-5.jpg",
+          "date": "2012-09-05"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/multi-unit_residential/multi-unit_residential_880/2015-7-25.jpg",
+          "date": "2015-07-25"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/multi-unit_residential/multi-unit_residential_880/2016-10-8.jpg",
+          "date": "2016-10-08"
+        }
+      ]
+    },
+    {
+      "group_id": "hospital_170",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/hospital/hospital_170/2012-10-1.jpg",
+          "date": "2012-10-01"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/hospital/hospital_170/2013-6-21.jpg",
+          "date": "2013-06-21"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/hospital/hospital_170/2013-10-26.jpg",
+          "date": "2013-10-26"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/hospital/hospital_170/2016-5-28.jpg",
+          "date": "2016-05-28"
+        }
+      ]
+    },
+    {
+      "group_id": "military_facility_1430",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_1430/2016-12-17.jpg",
+          "date": "2016-12-17"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_1430/2016-12-20.jpg",
+          "date": "2016-12-20"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_1430/2016-12-28.jpg",
+          "date": "2016-12-28"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_1430/2017-3-19.jpg",
+          "date": "2017-03-19"
+        }
+      ]
+    },
+    {
+      "group_id": "military_facility_200",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_200/2015-8-13.jpg",
+          "date": "2015-08-13"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_200/2016-10-13.jpg",
+          "date": "2016-10-13"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_200/2016-10-19.jpg",
+          "date": "2016-10-19"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_200/2016-10-20.jpg",
+          "date": "2016-10-20"
+        }
+      ]
+    },
+    {
+      "group_id": "multi-unit_residential_654",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/multi-unit_residential/multi-unit_residential_654/2011-4-30.jpg",
+          "date": "2011-04-30"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/multi-unit_residential/multi-unit_residential_654/2011-7-2.jpg",
+          "date": "2011-07-02"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/multi-unit_residential/multi-unit_residential_654/2015-7-25.jpg",
+          "date": "2015-07-25"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/multi-unit_residential/multi-unit_residential_654/2016-10-8.jpg",
+          "date": "2016-10-08"
+        }
+      ]
+    },
+    {
+      "group_id": "office_building_233",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/office_building/office_building_233/2015-3-2.jpg",
+          "date": "2015-03-02"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/office_building/office_building_233/2015-3-8.jpg",
+          "date": "2015-03-08"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/office_building/office_building_233/2015-4-21.jpg",
+          "date": "2015-04-21"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/office_building/office_building_233/2016-10-10.jpg",
+          "date": "2016-10-10"
+        }
+      ]
+    },
+    {
+      "group_id": "military_facility_1013",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_1013/2016-2-7.jpg",
+          "date": "2016-02-07"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_1013/2016-11-17.jpg",
+          "date": "2016-11-17"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_1013/2017-2-25.jpg",
+          "date": "2017-02-25"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_1013/2017-3-19.jpg",
+          "date": "2017-03-19"
+        }
+      ]
+    },
+    {
+      "group_id": "multi-unit_residential_197",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/multi-unit_residential/multi-unit_residential_197/2011-4-18.jpg",
+          "date": "2011-04-18"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/multi-unit_residential/multi-unit_residential_197/2011-9-30.jpg",
+          "date": "2011-09-30"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/multi-unit_residential/multi-unit_residential_197/2016-4-9.jpg",
+          "date": "2016-04-09"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/multi-unit_residential/multi-unit_residential_197/2016-4-15.jpg",
+          "date": "2016-04-15"
+        }
+      ]
+    },
+    {
+      "group_id": "military_facility_876",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_876/2010-11-3.jpg",
+          "date": "2010-11-03"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_876/2011-3-4.jpg",
+          "date": "2011-03-04"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_876/2014-8-27.jpg",
+          "date": "2014-08-27"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_876/2014-9-2.jpg",
+          "date": "2014-09-02"
+        }
+      ]
+    },
+    {
+      "group_id": "hospital_753",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/hospital/hospital_753/2013-12-21.jpg",
+          "date": "2013-12-21"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/hospital/hospital_753/2016-1-23.jpg",
+          "date": "2016-01-23"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/hospital/hospital_753/2016-12-13.jpg",
+          "date": "2016-12-13"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/hospital/hospital_753/2017-2-23.jpg",
+          "date": "2017-02-23"
+        }
+      ]
+    },
+    {
+      "group_id": "airport_terminal_408",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_terminal/airport_terminal_408/2013-1-26.jpg",
+          "date": "2013-01-26"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_terminal/airport_terminal_408/2015-2-25.jpg",
+          "date": "2015-02-25"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_terminal/airport_terminal_408/2016-1-22.jpg",
+          "date": "2016-01-22"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_terminal/airport_terminal_408/2016-11-30.jpg",
+          "date": "2016-11-30"
+        }
+      ]
+    },
+    {
+      "group_id": "multi-unit_residential_753",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/multi-unit_residential/multi-unit_residential_753/2016-4-28.jpg",
+          "date": "2016-04-28"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/multi-unit_residential/multi-unit_residential_753/2016-7-21.jpg",
+          "date": "2016-07-21"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/multi-unit_residential/multi-unit_residential_753/2016-10-7.jpg",
+          "date": "2016-10-07"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/multi-unit_residential/multi-unit_residential_753/2016-10-29.jpg",
+          "date": "2016-10-29"
+        }
+      ]
+    },
+    {
+      "group_id": "military_facility_179",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_179/2017-4-25.jpg",
+          "date": "2017-04-25"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_179/2017-5-19.jpg",
+          "date": "2017-05-19"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_179/2017-5-27.jpg",
+          "date": "2017-05-27"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_179/2017-5-30.jpg",
+          "date": "2017-05-30"
+        }
+      ]
+    },
+    {
+      "group_id": "airport_hangar_217",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_hangar/airport_hangar_217/2012-5-27.jpg",
+          "date": "2012-05-27"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_hangar/airport_hangar_217/2016-3-25.jpg",
+          "date": "2016-03-25"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_hangar/airport_hangar_217/2016-6-13.jpg",
+          "date": "2016-06-13"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_hangar/airport_hangar_217/2016-6-15.jpg",
+          "date": "2016-06-15"
+        }
+      ]
+    },
+    {
+      "group_id": "airport_hangar_930",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_hangar/airport_hangar_930/2014-3-18.jpg",
+          "date": "2014-03-18"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_hangar/airport_hangar_930/2015-1-6.jpg",
+          "date": "2015-01-06"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_hangar/airport_hangar_930/2015-10-4.jpg",
+          "date": "2015-10-04"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_hangar/airport_hangar_930/2016-1-20.jpg",
+          "date": "2016-01-20"
+        }
+      ]
+    },
+    {
+      "group_id": "airport_hangar_228",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_hangar/airport_hangar_228/2012-8-21.jpg",
+          "date": "2012-08-21"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_hangar/airport_hangar_228/2014-3-22.jpg",
+          "date": "2014-03-22"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_hangar/airport_hangar_228/2014-6-14.jpg",
+          "date": "2014-06-14"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_hangar/airport_hangar_228/2016-1-21.jpg",
+          "date": "2016-01-21"
+        }
+      ]
+    },
+    {
+      "group_id": "military_facility_872",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_872/2015-4-11.jpg",
+          "date": "2015-04-11"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_872/2016-3-3.jpg",
+          "date": "2016-03-03"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_872/2016-3-9.jpg",
+          "date": "2016-03-09"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_872/2017-4-11.jpg",
+          "date": "2017-04-11"
+        }
+      ]
+    },
+    {
+      "group_id": "multi-unit_residential_953",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/multi-unit_residential/multi-unit_residential_953/2015-6-2.jpg",
+          "date": "2015-06-02"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/multi-unit_residential/multi-unit_residential_953/2015-6-21.jpg",
+          "date": "2015-06-21"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/multi-unit_residential/multi-unit_residential_953/2016-7-7.jpg",
+          "date": "2016-07-07"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/multi-unit_residential/multi-unit_residential_953/2016-10-7.jpg",
+          "date": "2016-10-07"
+        }
+      ]
+    },
+    {
+      "group_id": "airport_hangar_993",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_hangar/airport_hangar_993/2010-11-7.jpg",
+          "date": "2010-11-07"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_hangar/airport_hangar_993/2016-7-7.jpg",
+          "date": "2016-07-07"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_hangar/airport_hangar_993/2016-9-6.jpg",
+          "date": "2016-09-06"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_hangar/airport_hangar_993/2016-10-11.jpg",
+          "date": "2016-10-11"
+        }
+      ]
+    },
+    {
+      "group_id": "office_building_124",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/office_building/office_building_124/2013-3-12.jpg",
+          "date": "2013-03-12"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/office_building/office_building_124/2017-3-16.jpg",
+          "date": "2017-03-16"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/office_building/office_building_124/2017-3-24.jpg",
+          "date": "2017-03-24"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/office_building/office_building_124/2017-5-23.jpg",
+          "date": "2017-05-23"
+        }
+      ]
+    },
+    {
+      "group_id": "hospital_121",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/hospital/hospital_121/2015-8-22.jpg",
+          "date": "2015-08-22"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/hospital/hospital_121/2016-8-11.jpg",
+          "date": "2016-08-11"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/hospital/hospital_121/2016-8-27.jpg",
+          "date": "2016-08-27"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/hospital/hospital_121/2016-11-23.jpg",
+          "date": "2016-11-23"
+        }
+      ]
+    },
+    {
+      "group_id": "military_facility_1935",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_1935/2016-3-30.jpg",
+          "date": "2016-03-30"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_1935/2016-4-8.jpg",
+          "date": "2016-04-08"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_1935/2016-4-24.jpg",
+          "date": "2016-04-24"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_1935/2017-5-10.jpg",
+          "date": "2017-05-10"
+        }
+      ]
+    },
+    {
+      "group_id": "military_facility_730",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_730/2015-5-23.jpg",
+          "date": "2015-05-23"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_730/2015-8-20.jpg",
+          "date": "2015-08-20"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_730/2015-8-28.jpg",
+          "date": "2015-08-28"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_730/2015-11-9.jpg",
+          "date": "2015-11-09"
+        }
+      ]
+    },
+    {
+      "group_id": "airport_hangar_119",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_hangar/airport_hangar_119/2013-10-1.jpg",
+          "date": "2013-10-01"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_hangar/airport_hangar_119/2015-12-4.jpg",
+          "date": "2015-12-04"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_hangar/airport_hangar_119/2016-2-29.jpg",
+          "date": "2016-02-29"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_hangar/airport_hangar_119/2016-9-27.jpg",
+          "date": "2016-09-27"
+        }
+      ]
+    },
+    {
+      "group_id": "airport_terminal_21",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_terminal/airport_terminal_21/2005-5-12.jpg",
+          "date": "2005-05-12"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_terminal/airport_terminal_21/2006-4-9.jpg",
+          "date": "2006-04-09"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_terminal/airport_terminal_21/2012-11-9.jpg",
+          "date": "2012-11-09"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_terminal/airport_terminal_21/2013-3-12.jpg",
+          "date": "2013-03-12"
+        }
+      ]
+    },
+    {
+      "group_id": "airport_terminal_244",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_terminal/airport_terminal_244/2016-3-11.jpg",
+          "date": "2016-03-11"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_terminal/airport_terminal_244/2016-7-11.jpg",
+          "date": "2016-07-11"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_terminal/airport_terminal_244/2016-10-8.jpg",
+          "date": "2016-10-08"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_terminal/airport_terminal_244/2016-10-16.jpg",
+          "date": "2016-10-16"
+        }
+      ]
+    },
+    {
+      "group_id": "airport_hangar_357",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_hangar/airport_hangar_357/2015-6-23.jpg",
+          "date": "2015-06-23"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_hangar/airport_hangar_357/2015-11-6.jpg",
+          "date": "2015-11-06"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_hangar/airport_hangar_357/2016-10-10.jpg",
+          "date": "2016-10-10"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_hangar/airport_hangar_357/2016-11-17.jpg",
+          "date": "2016-11-17"
+        }
+      ]
+    },
+    {
+      "group_id": "multi-unit_residential_383",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/multi-unit_residential/multi-unit_residential_383/2008-6-8.jpg",
+          "date": "2008-06-08"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/multi-unit_residential/multi-unit_residential_383/2010-3-21.jpg",
+          "date": "2010-03-21"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/multi-unit_residential/multi-unit_residential_383/2014-9-12.jpg",
+          "date": "2014-09-12"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/multi-unit_residential/multi-unit_residential_383/2016-10-8.jpg",
+          "date": "2016-10-08"
+        }
+      ]
+    },
+    {
+      "group_id": "factory_or_powerplant_722",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/factory_or_powerplant/factory_or_powerplant_722/2013-6-19.jpg",
+          "date": "2013-06-19"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/factory_or_powerplant/factory_or_powerplant_722/2015-5-20.jpg",
+          "date": "2015-05-20"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/factory_or_powerplant/factory_or_powerplant_722/2016-8-4.jpg",
+          "date": "2016-08-04"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/factory_or_powerplant/factory_or_powerplant_722/2016-10-12.jpg",
+          "date": "2016-10-12"
+        }
+      ]
+    },
+    {
+      "group_id": "factory_or_powerplant_619",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/factory_or_powerplant/factory_or_powerplant_619/2016-6-22.jpg",
+          "date": "2016-06-22"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/factory_or_powerplant/factory_or_powerplant_619/2016-9-19.jpg",
+          "date": "2016-09-19"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/factory_or_powerplant/factory_or_powerplant_619/2017-3-16.jpg",
+          "date": "2017-03-16"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/factory_or_powerplant/factory_or_powerplant_619/2017-3-24.jpg",
+          "date": "2017-03-24"
+        }
+      ]
+    },
+    {
+      "group_id": "factory_or_powerplant_573",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/factory_or_powerplant/factory_or_powerplant_573/2015-1-1.jpg",
+          "date": "2015-01-01"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/factory_or_powerplant/factory_or_powerplant_573/2015-1-9.jpg",
+          "date": "2015-01-09"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/factory_or_powerplant/factory_or_powerplant_573/2016-2-9.jpg",
+          "date": "2016-02-09"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/factory_or_powerplant/factory_or_powerplant_573/2017-1-21.jpg",
+          "date": "2017-01-21"
+        }
+      ]
+    },
+    {
+      "group_id": "military_facility_22",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_22/2016-8-17.jpg",
+          "date": "2016-08-17"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_22/2016-12-17.jpg",
+          "date": "2016-12-17"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_22/2017-1-30.jpg",
+          "date": "2017-01-30"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_22/2017-5-27.jpg",
+          "date": "2017-05-27"
+        }
+      ]
+    },
+    {
+      "group_id": "hospital_789",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/hospital/hospital_789/2015-12-4.jpg",
+          "date": "2015-12-04"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/hospital/hospital_789/2016-2-14.jpg",
+          "date": "2016-02-14"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/hospital/hospital_789/2016-10-11.jpg",
+          "date": "2016-10-11"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/hospital/hospital_789/2016-11-7.jpg",
+          "date": "2016-11-07"
+        }
+      ]
+    },
+    {
+      "group_id": "airport_hangar_2",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_hangar/airport_hangar_2/2008-4-30.jpg",
+          "date": "2008-04-30"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_hangar/airport_hangar_2/2008-5-5.jpg",
+          "date": "2008-05-05"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_hangar/airport_hangar_2/2010-7-14.jpg",
+          "date": "2010-07-14"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_hangar/airport_hangar_2/2011-4-25.jpg",
+          "date": "2011-04-25"
+        }
+      ]
+    },
+    {
+      "group_id": "multi-unit_residential_764",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/multi-unit_residential/multi-unit_residential_764/2013-9-13.jpg",
+          "date": "2013-09-13"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/multi-unit_residential/multi-unit_residential_764/2015-6-2.jpg",
+          "date": "2015-06-02"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/multi-unit_residential/multi-unit_residential_764/2016-7-7.jpg",
+          "date": "2016-07-07"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/multi-unit_residential/multi-unit_residential_764/2016-10-7.jpg",
+          "date": "2016-10-07"
+        }
+      ]
+    },
+    {
+      "group_id": "factory_or_powerplant_442",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/factory_or_powerplant/factory_or_powerplant_442/2016-8-8.jpg",
+          "date": "2016-08-08"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/factory_or_powerplant/factory_or_powerplant_442/2016-10-31.jpg",
+          "date": "2016-10-31"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/factory_or_powerplant/factory_or_powerplant_442/2016-11-2.jpg",
+          "date": "2016-11-02"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/factory_or_powerplant/factory_or_powerplant_442/2017-1-15.jpg",
+          "date": "2017-01-15"
+        }
+      ]
+    },
+    {
+      "group_id": "military_facility_1267",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_1267/2014-4-13.jpg",
+          "date": "2014-04-13"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_1267/2015-5-25.jpg",
+          "date": "2015-05-25"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_1267/2016-6-22.jpg",
+          "date": "2016-06-22"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_1267/2016-7-24.jpg",
+          "date": "2016-07-24"
+        }
+      ]
+    },
+    {
+      "group_id": "military_facility_1106",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_1106/2014-11-18.jpg",
+          "date": "2014-11-18"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_1106/2016-4-9.jpg",
+          "date": "2016-04-09"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_1106/2016-11-11.jpg",
+          "date": "2016-11-11"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_1106/2017-2-12.jpg",
+          "date": "2017-02-12"
+        }
+      ]
+    },
+    {
+      "group_id": "military_facility_122",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_122/2012-2-4.jpg",
+          "date": "2012-02-04"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_122/2013-7-10.jpg",
+          "date": "2013-07-10"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_122/2016-9-12.jpg",
+          "date": "2016-09-12"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_122/2016-10-17.jpg",
+          "date": "2016-10-17"
+        }
+      ]
+    },
+    {
+      "group_id": "office_building_526",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/office_building/office_building_526/2016-9-11.jpg",
+          "date": "2016-09-11"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/office_building/office_building_526/2017-4-19.jpg",
+          "date": "2017-04-19"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/office_building/office_building_526/2017-4-27.jpg",
+          "date": "2017-04-27"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/office_building/office_building_526/2017-6-9.jpg",
+          "date": "2017-06-09"
+        }
+      ]
+    },
+    {
+      "group_id": "military_facility_248",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_248/2014-5-13.jpg",
+          "date": "2014-05-13"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_248/2016-3-24.jpg",
+          "date": "2016-03-24"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_248/2016-7-21.jpg",
+          "date": "2016-07-21"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_248/2016-8-23.jpg",
+          "date": "2016-08-23"
+        }
+      ]
+    },
+    {
+      "group_id": "military_facility_1626",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_1626/2012-6-5.jpg",
+          "date": "2012-06-05"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_1626/2012-10-4.jpg",
+          "date": "2012-10-04"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_1626/2013-5-23.jpg",
+          "date": "2013-05-23"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_1626/2016-3-2.jpg",
+          "date": "2016-03-02"
+        }
+      ]
+    },
+    {
+      "group_id": "office_building_517",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/office_building/office_building_517/2015-3-19.jpg",
+          "date": "2015-03-19"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/office_building/office_building_517/2015-5-1.jpg",
+          "date": "2015-05-01"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/office_building/office_building_517/2016-4-10.jpg",
+          "date": "2016-04-10"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/office_building/office_building_517/2017-2-4.jpg",
+          "date": "2017-02-04"
+        }
+      ]
+    },
+    {
+      "group_id": "multi-unit_residential_896",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/multi-unit_residential/multi-unit_residential_896/2013-12-21.jpg",
+          "date": "2013-12-21"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/multi-unit_residential/multi-unit_residential_896/2016-2-8.jpg",
+          "date": "2016-02-08"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/multi-unit_residential/multi-unit_residential_896/2016-7-15.jpg",
+          "date": "2016-07-15"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/multi-unit_residential/multi-unit_residential_896/2016-7-16.jpg",
+          "date": "2016-07-16"
+        }
+      ]
+    },
+    {
+      "group_id": "military_facility_1450",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_1450/2009-3-20.jpg",
+          "date": "2009-03-20"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_1450/2011-8-13.jpg",
+          "date": "2011-08-13"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_1450/2016-3-30.jpg",
+          "date": "2016-03-30"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_1450/2016-7-30.jpg",
+          "date": "2016-07-30"
+        }
+      ]
+    },
+    {
+      "group_id": "hospital_266",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/hospital/hospital_266/2014-9-12.jpg",
+          "date": "2014-09-12"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/hospital/hospital_266/2015-7-25.jpg",
+          "date": "2015-07-25"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/hospital/hospital_266/2015-7-26.jpg",
+          "date": "2015-07-26"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/hospital/hospital_266/2016-8-1.jpg",
+          "date": "2016-08-01"
+        }
+      ]
+    },
+    {
+      "group_id": "office_building_256",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/office_building/office_building_256/2016-10-1.jpg",
+          "date": "2016-10-01"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/office_building/office_building_256/2016-10-10.jpg",
+          "date": "2016-10-10"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/office_building/office_building_256/2016-11-10.jpg",
+          "date": "2016-11-10"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/office_building/office_building_256/2017-3-9.jpg",
+          "date": "2017-03-09"
+        }
+      ]
+    },
+    {
+      "group_id": "multi-unit_residential_989",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/multi-unit_residential/multi-unit_residential_989/2016-3-24.jpg",
+          "date": "2016-03-24"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/multi-unit_residential/multi-unit_residential_989/2016-4-28.jpg",
+          "date": "2016-04-28"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/multi-unit_residential/multi-unit_residential_989/2016-10-7.jpg",
+          "date": "2016-10-07"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/multi-unit_residential/multi-unit_residential_989/2017-3-9.jpg",
+          "date": "2017-03-09"
+        }
+      ]
+    },
+    {
+      "group_id": "multi-unit_residential_909",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/multi-unit_residential/multi-unit_residential_909/2015-5-20.jpg",
+          "date": "2015-05-20"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/multi-unit_residential/multi-unit_residential_909/2016-8-29.jpg",
+          "date": "2016-08-29"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/multi-unit_residential/multi-unit_residential_909/2016-9-11.jpg",
+          "date": "2016-09-11"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/multi-unit_residential/multi-unit_residential_909/2016-9-30.jpg",
+          "date": "2016-09-30"
+        }
+      ]
+    },
+    {
+      "group_id": "airport_hangar_142",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_hangar/airport_hangar_142/2014-9-2.jpg",
+          "date": "2014-09-02"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_hangar/airport_hangar_142/2014-10-26.jpg",
+          "date": "2014-10-26"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_hangar/airport_hangar_142/2015-5-12.jpg",
+          "date": "2015-05-12"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_hangar/airport_hangar_142/2016-10-3.jpg",
+          "date": "2016-10-03"
+        }
+      ]
+    },
+    {
+      "group_id": "military_facility_1744",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_1744/2012-7-4.jpg",
+          "date": "2012-07-04"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_1744/2012-9-4.jpg",
+          "date": "2012-09-04"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_1744/2014-4-19.jpg",
+          "date": "2014-04-19"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_1744/2015-3-11.jpg",
+          "date": "2015-03-11"
+        }
+      ]
+    },
+    {
+      "group_id": "airport_terminal_904",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_terminal/airport_terminal_904/2011-9-9.jpg",
+          "date": "2011-09-09"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_terminal/airport_terminal_904/2015-1-8.jpg",
+          "date": "2015-01-08"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_terminal/airport_terminal_904/2015-6-3.jpg",
+          "date": "2015-06-03"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_terminal/airport_terminal_904/2016-8-6.jpg",
+          "date": "2016-08-06"
+        }
+      ]
+    },
+    {
+      "group_id": "military_facility_346",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_346/2016-12-17.jpg",
+          "date": "2016-12-17"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_346/2017-1-21.jpg",
+          "date": "2017-01-21"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_346/2017-1-25.jpg",
+          "date": "2017-01-25"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_346/2017-2-4.jpg",
+          "date": "2017-02-04"
+        }
+      ]
+    },
+    {
+      "group_id": "military_facility_518",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_518/2017-1-20.jpg",
+          "date": "2017-01-20"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_518/2017-3-21.jpg",
+          "date": "2017-03-21"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_518/2017-4-16.jpg",
+          "date": "2017-04-16"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_518/2017-5-6.jpg",
+          "date": "2017-05-06"
+        }
+      ]
+    },
+    {
+      "group_id": "airport_hangar_337",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_hangar/airport_hangar_337/2015-9-3.jpg",
+          "date": "2015-09-03"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_hangar/airport_hangar_337/2016-10-19.jpg",
+          "date": "2016-10-19"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_hangar/airport_hangar_337/2016-11-5.jpg",
+          "date": "2016-11-05"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_hangar/airport_hangar_337/2016-11-7.jpg",
+          "date": "2016-11-07"
+        }
+      ]
+    },
+    {
+      "group_id": "office_building_515",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/office_building/office_building_515/2013-3-20.jpg",
+          "date": "2013-03-20"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/office_building/office_building_515/2015-11-4.jpg",
+          "date": "2015-11-04"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/office_building/office_building_515/2016-5-21.jpg",
+          "date": "2016-05-21"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/office_building/office_building_515/2016-9-26.jpg",
+          "date": "2016-09-26"
+        }
+      ]
+    },
+    {
+      "group_id": "military_facility_1496",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_1496/2016-12-30.jpg",
+          "date": "2016-12-30"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_1496/2017-1-10.jpg",
+          "date": "2017-01-10"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_1496/2017-1-12.jpg",
+          "date": "2017-01-12"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_1496/2017-1-23.jpg",
+          "date": "2017-01-23"
+        }
+      ]
+    },
+    {
+      "group_id": "military_facility_1440",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_1440/2016-9-16.jpg",
+          "date": "2016-09-16"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_1440/2016-9-17.jpg",
+          "date": "2016-09-17"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_1440/2016-11-28.jpg",
+          "date": "2016-11-28"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_1440/2017-1-5.jpg",
+          "date": "2017-01-05"
+        }
+      ]
+    },
+    {
+      "group_id": "military_facility_1052",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_1052/2016-6-15.jpg",
+          "date": "2016-06-15"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_1052/2016-7-1.jpg",
+          "date": "2016-07-01"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_1052/2016-7-14.jpg",
+          "date": "2016-07-14"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_1052/2017-4-5.jpg",
+          "date": "2017-04-05"
+        }
+      ]
+    },
+    {
+      "group_id": "airport_terminal_100",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_terminal/airport_terminal_100/2014-7-31.jpg",
+          "date": "2014-07-31"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_terminal/airport_terminal_100/2014-12-16.jpg",
+          "date": "2014-12-16"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_terminal/airport_terminal_100/2015-12-15.jpg",
+          "date": "2015-12-15"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_terminal/airport_terminal_100/2016-1-11.jpg",
+          "date": "2016-01-11"
+        }
+      ]
+    },
+    {
+      "group_id": "factory_or_powerplant_506",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/factory_or_powerplant/factory_or_powerplant_506/2003-8-12.jpg",
+          "date": "2003-08-12"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/factory_or_powerplant/factory_or_powerplant_506/2011-5-31.jpg",
+          "date": "2011-05-31"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/factory_or_powerplant/factory_or_powerplant_506/2014-1-11.jpg",
+          "date": "2014-01-11"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/factory_or_powerplant/factory_or_powerplant_506/2016-5-21.jpg",
+          "date": "2016-05-21"
+        }
+      ]
+    },
+    {
+      "group_id": "military_facility_1192",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_1192/2016-4-22.jpg",
+          "date": "2016-04-22"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_1192/2016-5-2.jpg",
+          "date": "2016-05-02"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_1192/2016-6-11.jpg",
+          "date": "2016-06-11"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_1192/2016-6-12.jpg",
+          "date": "2016-06-12"
+        }
+      ]
+    },
+    {
+      "group_id": "military_facility_763",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_763/2016-2-29.jpg",
+          "date": "2016-02-29"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_763/2016-3-5.jpg",
+          "date": "2016-03-05"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_763/2016-3-30.jpg",
+          "date": "2016-03-30"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_763/2016-4-12.jpg",
+          "date": "2016-04-12"
+        }
+      ]
+    },
+    {
+      "group_id": "military_facility_1353",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_1353/2016-11-5.jpg",
+          "date": "2016-11-05"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_1353/2017-1-19.jpg",
+          "date": "2017-01-19"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_1353/2017-2-19.jpg",
+          "date": "2017-02-19"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_1353/2017-3-5.jpg",
+          "date": "2017-03-05"
+        }
+      ]
+    },
+    {
+      "group_id": "multi-unit_residential_506",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/multi-unit_residential/multi-unit_residential_506/2011-4-27.jpg",
+          "date": "2011-04-27"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/multi-unit_residential/multi-unit_residential_506/2016-4-14.jpg",
+          "date": "2016-04-14"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/multi-unit_residential/multi-unit_residential_506/2016-6-5.jpg",
+          "date": "2016-06-05"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/multi-unit_residential/multi-unit_residential_506/2016-8-12.jpg",
+          "date": "2016-08-12"
+        }
+      ]
+    },
+    {
+      "group_id": "factory_or_powerplant_555",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/factory_or_powerplant/factory_or_powerplant_555/2015-10-23.jpg",
+          "date": "2015-10-23"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/factory_or_powerplant/factory_or_powerplant_555/2016-3-19.jpg",
+          "date": "2016-03-19"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/factory_or_powerplant/factory_or_powerplant_555/2016-11-5.jpg",
+          "date": "2016-11-05"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/factory_or_powerplant/factory_or_powerplant_555/2016-11-30.jpg",
+          "date": "2016-11-30"
+        }
+      ]
+    },
+    {
+      "group_id": "hospital_192",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/hospital/hospital_192/2015-7-10.jpg",
+          "date": "2015-07-10"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/hospital/hospital_192/2016-4-6.jpg",
+          "date": "2016-04-06"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/hospital/hospital_192/2016-4-28.jpg",
+          "date": "2016-04-28"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/hospital/hospital_192/2017-3-9.jpg",
+          "date": "2017-03-09"
+        }
+      ]
+    },
+    {
+      "group_id": "military_facility_769",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_769/2014-8-2.jpg",
+          "date": "2014-08-02"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_769/2016-6-29.jpg",
+          "date": "2016-06-29"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_769/2016-7-2.jpg",
+          "date": "2016-07-02"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_769/2016-8-17.jpg",
+          "date": "2016-08-17"
+        }
+      ]
+    },
+    {
+      "group_id": "office_building_4",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/office_building/office_building_4/2015-12-2.jpg",
+          "date": "2015-12-02"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/office_building/office_building_4/2015-12-23.jpg",
+          "date": "2015-12-23"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/office_building/office_building_4/2016-10-6.jpg",
+          "date": "2016-10-06"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/office_building/office_building_4/2017-3-9.jpg",
+          "date": "2017-03-09"
+        }
+      ]
+    },
+    {
+      "group_id": "military_facility_510",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_510/2016-8-11.jpg",
+          "date": "2016-08-11"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_510/2016-8-22.jpg",
+          "date": "2016-08-22"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_510/2016-9-4.jpg",
+          "date": "2016-09-04"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_510/2016-9-15.jpg",
+          "date": "2016-09-15"
+        }
+      ]
+    },
+    {
+      "group_id": "military_facility_654",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_654/2014-7-26.jpg",
+          "date": "2014-07-26"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_654/2015-4-26.jpg",
+          "date": "2015-04-26"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_654/2016-7-22.jpg",
+          "date": "2016-07-22"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_654/2016-11-21.jpg",
+          "date": "2016-11-21"
+        }
+      ]
+    },
+    {
+      "group_id": "military_facility_1357",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_1357/2010-10-25.jpg",
+          "date": "2010-10-25"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_1357/2011-4-12.jpg",
+          "date": "2011-04-12"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_1357/2014-9-13.jpg",
+          "date": "2014-09-13"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_1357/2014-9-22.jpg",
+          "date": "2014-09-22"
+        }
+      ]
+    },
+    {
+      "group_id": "military_facility_59",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_59/2014-1-22.jpg",
+          "date": "2014-01-22"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_59/2016-3-5.jpg",
+          "date": "2016-03-05"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_59/2016-3-13.jpg",
+          "date": "2016-03-13"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_59/2016-3-21.jpg",
+          "date": "2016-03-21"
+        }
+      ]
+    },
+    {
+      "group_id": "airport_hangar_298",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_hangar/airport_hangar_298/2015-8-4.jpg",
+          "date": "2015-08-04"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_hangar/airport_hangar_298/2016-2-5.jpg",
+          "date": "2016-02-05"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_hangar/airport_hangar_298/2016-5-28.jpg",
+          "date": "2016-05-28"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_hangar/airport_hangar_298/2016-10-20.jpg",
+          "date": "2016-10-20"
+        }
+      ]
+    },
+    {
+      "group_id": "multi-unit_residential_672",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/multi-unit_residential/multi-unit_residential_672/2016-9-22.jpg",
+          "date": "2016-09-22"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/multi-unit_residential/multi-unit_residential_672/2016-10-3.jpg",
+          "date": "2016-10-03"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/multi-unit_residential/multi-unit_residential_672/2016-12-29.jpg",
+          "date": "2016-12-29"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/multi-unit_residential/multi-unit_residential_672/2017-4-8.jpg",
+          "date": "2017-04-08"
+        }
+      ]
+    },
+    {
+      "group_id": "factory_or_powerplant_255",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/factory_or_powerplant/factory_or_powerplant_255/2015-6-11.jpg",
+          "date": "2015-06-11"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/factory_or_powerplant/factory_or_powerplant_255/2016-1-7.jpg",
+          "date": "2016-01-07"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/factory_or_powerplant/factory_or_powerplant_255/2016-5-22.jpg",
+          "date": "2016-05-22"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/factory_or_powerplant/factory_or_powerplant_255/2016-9-2.jpg",
+          "date": "2016-09-02"
+        }
+      ]
+    },
+    {
+      "group_id": "hospital_5",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/hospital/hospital_5/2015-9-4.jpg",
+          "date": "2015-09-04"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/hospital/hospital_5/2015-10-29.jpg",
+          "date": "2015-10-29"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/hospital/hospital_5/2016-1-22.jpg",
+          "date": "2016-01-22"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/hospital/hospital_5/2016-2-2.jpg",
+          "date": "2016-02-02"
+        }
+      ]
+    },
+    {
+      "group_id": "hospital_11",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/hospital/hospital_11/2013-12-21.jpg",
+          "date": "2013-12-21"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/hospital/hospital_11/2016-2-9.jpg",
+          "date": "2016-02-09"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/hospital/hospital_11/2016-4-17.jpg",
+          "date": "2016-04-17"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/hospital/hospital_11/2016-6-6.jpg",
+          "date": "2016-06-06"
+        }
+      ]
+    },
+    {
+      "group_id": "military_facility_1006",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_1006/2014-1-13.jpg",
+          "date": "2014-01-13"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_1006/2014-5-17.jpg",
+          "date": "2014-05-17"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_1006/2014-9-19.jpg",
+          "date": "2014-09-19"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_1006/2017-3-7.jpg",
+          "date": "2017-03-07"
+        }
+      ]
+    },
+    {
+      "group_id": "military_facility_435",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_435/2017-4-18.jpg",
+          "date": "2017-04-18"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_435/2017-5-18.jpg",
+          "date": "2017-05-18"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_435/2017-5-28.jpg",
+          "date": "2017-05-28"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_435/2017-5-30.jpg",
+          "date": "2017-05-30"
+        }
+      ]
+    },
+    {
+      "group_id": "office_building_292",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/office_building/office_building_292/2016-8-10.jpg",
+          "date": "2016-08-10"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/office_building/office_building_292/2017-1-17.jpg",
+          "date": "2017-01-17"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/office_building/office_building_292/2017-3-28.jpg",
+          "date": "2017-03-28"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/office_building/office_building_292/2017-4-8.jpg",
+          "date": "2017-04-08"
+        }
+      ]
+    },
+    {
+      "group_id": "airport_terminal_74",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_terminal/airport_terminal_74/2011-4-22.jpg",
+          "date": "2011-04-22"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_terminal/airport_terminal_74/2014-8-24.jpg",
+          "date": "2014-08-24"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_terminal/airport_terminal_74/2015-6-13.jpg",
+          "date": "2015-06-13"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_terminal/airport_terminal_74/2016-6-5.jpg",
+          "date": "2016-06-05"
+        }
+      ]
+    },
+    {
+      "group_id": "airport_hangar_567",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_hangar/airport_hangar_567/2014-5-28.jpg",
+          "date": "2014-05-28"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_hangar/airport_hangar_567/2014-7-29.jpg",
+          "date": "2014-07-29"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_hangar/airport_hangar_567/2016-4-5.jpg",
+          "date": "2016-04-05"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_hangar/airport_hangar_567/2016-11-13.jpg",
+          "date": "2016-11-13"
+        }
+      ]
+    },
+    {
+      "group_id": "airport_terminal_51",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_terminal/airport_terminal_51/2012-11-21.jpg",
+          "date": "2012-11-21"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_terminal/airport_terminal_51/2012-12-3.jpg",
+          "date": "2012-12-03"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_terminal/airport_terminal_51/2015-8-15.jpg",
+          "date": "2015-08-15"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_terminal/airport_terminal_51/2015-10-31.jpg",
+          "date": "2015-10-31"
+        }
+      ]
+    },
+    {
+      "group_id": "hospital_931",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/hospital/hospital_931/2011-12-27.jpg",
+          "date": "2011-12-27"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/hospital/hospital_931/2012-12-2.jpg",
+          "date": "2012-12-02"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/hospital/hospital_931/2017-4-7.jpg",
+          "date": "2017-04-07"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/hospital/hospital_931/2017-5-14.jpg",
+          "date": "2017-05-14"
+        }
+      ]
+    },
+    {
+      "group_id": "hospital_380",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/hospital/hospital_380/2016-8-10.jpg",
+          "date": "2016-08-10"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/hospital/hospital_380/2016-9-14.jpg",
+          "date": "2016-09-14"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/hospital/hospital_380/2016-10-14.jpg",
+          "date": "2016-10-14"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/hospital/hospital_380/2016-11-12.jpg",
+          "date": "2016-11-12"
+        }
+      ]
+    },
+    {
+      "group_id": "military_facility_533",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_533/2014-10-4.jpg",
+          "date": "2014-10-04"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_533/2016-7-10.jpg",
+          "date": "2016-07-10"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_533/2016-11-11.jpg",
+          "date": "2016-11-11"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_533/2017-2-12.jpg",
+          "date": "2017-02-12"
+        }
+      ]
+    },
+    {
+      "group_id": "hospital_388",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/hospital/hospital_388/2011-2-17.jpg",
+          "date": "2011-02-17"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/hospital/hospital_388/2012-6-16.jpg",
+          "date": "2012-06-16"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/hospital/hospital_388/2014-2-11.jpg",
+          "date": "2014-02-11"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/hospital/hospital_388/2015-8-27.jpg",
+          "date": "2015-08-27"
+        }
+      ]
+    },
+    {
+      "group_id": "factory_or_powerplant_21",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/factory_or_powerplant/factory_or_powerplant_21/2016-4-15.jpg",
+          "date": "2016-04-15"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/factory_or_powerplant/factory_or_powerplant_21/2016-4-20.jpg",
+          "date": "2016-04-20"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/factory_or_powerplant/factory_or_powerplant_21/2016-4-28.jpg",
+          "date": "2016-04-28"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/factory_or_powerplant/factory_or_powerplant_21/2016-5-12.jpg",
+          "date": "2016-05-12"
+        }
+      ]
+    },
+    {
+      "group_id": "office_building_632",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/office_building/office_building_632/2002-7-29.jpg",
+          "date": "2002-07-29"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/office_building/office_building_632/2002-9-3.jpg",
+          "date": "2002-09-03"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/office_building/office_building_632/2004-4-27.jpg",
+          "date": "2004-04-27"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/office_building/office_building_632/2012-6-4.jpg",
+          "date": "2012-06-04"
+        }
+      ]
+    },
+    {
+      "group_id": "factory_or_powerplant_109",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/factory_or_powerplant/factory_or_powerplant_109/2014-2-24.jpg",
+          "date": "2014-02-24"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/factory_or_powerplant/factory_or_powerplant_109/2014-8-27.jpg",
+          "date": "2014-08-27"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/factory_or_powerplant/factory_or_powerplant_109/2016-9-25.jpg",
+          "date": "2016-09-25"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/factory_or_powerplant/factory_or_powerplant_109/2016-11-28.jpg",
+          "date": "2016-11-28"
+        }
+      ]
+    },
+    {
+      "group_id": "airport_terminal_14",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_terminal/airport_terminal_14/2015-9-4.jpg",
+          "date": "2015-09-04"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_terminal/airport_terminal_14/2016-1-22.jpg",
+          "date": "2016-01-22"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_terminal/airport_terminal_14/2016-2-2.jpg",
+          "date": "2016-02-02"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_terminal/airport_terminal_14/2016-9-20.jpg",
+          "date": "2016-09-20"
+        }
+      ]
+    },
+    {
+      "group_id": "airport_terminal_489",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_terminal/airport_terminal_489/2015-8-10.jpg",
+          "date": "2015-08-10"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_terminal/airport_terminal_489/2016-6-7.jpg",
+          "date": "2016-06-07"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_terminal/airport_terminal_489/2016-7-9.jpg",
+          "date": "2016-07-09"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_terminal/airport_terminal_489/2016-9-9.jpg",
+          "date": "2016-09-09"
+        }
+      ]
+    },
+    {
+      "group_id": "airport_terminal_147",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_terminal/airport_terminal_147/2015-1-19.jpg",
+          "date": "2015-01-19"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_terminal/airport_terminal_147/2016-3-20.jpg",
+          "date": "2016-03-20"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_terminal/airport_terminal_147/2016-10-4.jpg",
+          "date": "2016-10-04"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_terminal/airport_terminal_147/2016-11-15.jpg",
+          "date": "2016-11-15"
+        }
+      ]
+    },
+    {
+      "group_id": "airport_terminal_610",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_terminal/airport_terminal_610/2016-1-28.jpg",
+          "date": "2016-01-28"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_terminal/airport_terminal_610/2016-3-28.jpg",
+          "date": "2016-03-28"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_terminal/airport_terminal_610/2016-7-15.jpg",
+          "date": "2016-07-15"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_terminal/airport_terminal_610/2016-11-19.jpg",
+          "date": "2016-11-19"
+        }
+      ]
+    },
+    {
+      "group_id": "military_facility_1183",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_1183/2015-8-11.jpg",
+          "date": "2015-08-11"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_1183/2016-7-21.jpg",
+          "date": "2016-07-21"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_1183/2016-8-23.jpg",
+          "date": "2016-08-23"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_1183/2016-10-7.jpg",
+          "date": "2016-10-07"
+        }
+      ]
+    },
+    {
+      "group_id": "airport_hangar_548",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_hangar/airport_hangar_548/2014-9-6.jpg",
+          "date": "2014-09-06"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_hangar/airport_hangar_548/2016-4-5.jpg",
+          "date": "2016-04-05"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_hangar/airport_hangar_548/2016-6-7.jpg",
+          "date": "2016-06-07"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_hangar/airport_hangar_548/2016-10-25.jpg",
+          "date": "2016-10-25"
+        }
+      ]
+    },
+    {
+      "group_id": "military_facility_602",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_602/2014-1-25.jpg",
+          "date": "2014-01-25"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_602/2014-11-2.jpg",
+          "date": "2014-11-02"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_602/2016-4-14.jpg",
+          "date": "2016-04-14"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_602/2016-12-4.jpg",
+          "date": "2016-12-04"
+        }
+      ]
+    },
+    {
+      "group_id": "hospital_831",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/hospital/hospital_831/2015-10-29.jpg",
+          "date": "2015-10-29"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/hospital/hospital_831/2016-1-22.jpg",
+          "date": "2016-01-22"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/hospital/hospital_831/2016-2-2.jpg",
+          "date": "2016-02-02"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/hospital/hospital_831/2016-9-20.jpg",
+          "date": "2016-09-20"
+        }
+      ]
+    },
+    {
+      "group_id": "airport_hangar_540",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_hangar/airport_hangar_540/2011-10-1.jpg",
+          "date": "2011-10-01"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_hangar/airport_hangar_540/2014-5-3.jpg",
+          "date": "2014-05-03"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_hangar/airport_hangar_540/2016-1-25.jpg",
+          "date": "2016-01-25"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_hangar/airport_hangar_540/2016-5-1.jpg",
+          "date": "2016-05-01"
+        }
+      ]
+    },
+    {
+      "group_id": "factory_or_powerplant_516",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/factory_or_powerplant/factory_or_powerplant_516/2016-5-9.jpg",
+          "date": "2016-05-09"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/factory_or_powerplant/factory_or_powerplant_516/2017-1-16.jpg",
+          "date": "2017-01-16"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/factory_or_powerplant/factory_or_powerplant_516/2017-1-24.jpg",
+          "date": "2017-01-24"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/factory_or_powerplant/factory_or_powerplant_516/2017-3-28.jpg",
+          "date": "2017-03-28"
+        }
+      ]
+    },
+    {
+      "group_id": "airport_hangar_606",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_hangar/airport_hangar_606/2014-7-26.jpg",
+          "date": "2014-07-26"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_hangar/airport_hangar_606/2014-12-30.jpg",
+          "date": "2014-12-30"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_hangar/airport_hangar_606/2016-5-1.jpg",
+          "date": "2016-05-01"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_hangar/airport_hangar_606/2016-10-11.jpg",
+          "date": "2016-10-11"
+        }
+      ]
+    },
+    {
+      "group_id": "office_building_627",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/office_building/office_building_627/2015-7-11.jpg",
+          "date": "2015-07-11"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/office_building/office_building_627/2015-10-29.jpg",
+          "date": "2015-10-29"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/office_building/office_building_627/2016-6-18.jpg",
+          "date": "2016-06-18"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/office_building/office_building_627/2017-1-1.jpg",
+          "date": "2017-01-01"
+        }
+      ]
+    },
+    {
+      "group_id": "hospital_607",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/hospital/hospital_607/2016-12-20.jpg",
+          "date": "2016-12-20"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/hospital/hospital_607/2017-2-25.jpg",
+          "date": "2017-02-25"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/hospital/hospital_607/2017-3-2.jpg",
+          "date": "2017-03-02"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/hospital/hospital_607/2017-3-3.jpg",
+          "date": "2017-03-03"
+        }
+      ]
+    },
+    {
+      "group_id": "office_building_417",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/office_building/office_building_417/2012-12-9.jpg",
+          "date": "2012-12-09"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/office_building/office_building_417/2014-1-10.jpg",
+          "date": "2014-01-10"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/office_building/office_building_417/2014-2-16.jpg",
+          "date": "2014-02-16"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/office_building/office_building_417/2015-10-25.jpg",
+          "date": "2015-10-25"
+        }
+      ]
+    },
+    {
+      "group_id": "military_facility_255",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_255/2012-9-14.jpg",
+          "date": "2012-09-14"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_255/2012-9-30.jpg",
+          "date": "2012-09-30"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_255/2013-5-19.jpg",
+          "date": "2013-05-19"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_255/2016-10-13.jpg",
+          "date": "2016-10-13"
+        }
+      ]
+    },
+    {
+      "group_id": "military_facility_93",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_93/2016-9-1.jpg",
+          "date": "2016-09-01"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_93/2016-10-26.jpg",
+          "date": "2016-10-26"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_93/2016-12-15.jpg",
+          "date": "2016-12-15"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_93/2017-2-7.jpg",
+          "date": "2017-02-07"
+        }
+      ]
+    },
+    {
+      "group_id": "multi-unit_residential_644",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/multi-unit_residential/multi-unit_residential_644/2011-7-21.jpg",
+          "date": "2011-07-21"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/multi-unit_residential/multi-unit_residential_644/2014-8-10.jpg",
+          "date": "2014-08-10"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/multi-unit_residential/multi-unit_residential_644/2015-10-7.jpg",
+          "date": "2015-10-07"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/multi-unit_residential/multi-unit_residential_644/2016-6-4.jpg",
+          "date": "2016-06-04"
+        }
+      ]
+    },
+    {
+      "group_id": "multi-unit_residential_342",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/multi-unit_residential/multi-unit_residential_342/2009-7-24.jpg",
+          "date": "2009-07-24"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/multi-unit_residential/multi-unit_residential_342/2011-4-30.jpg",
+          "date": "2011-04-30"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/multi-unit_residential/multi-unit_residential_342/2014-9-12.jpg",
+          "date": "2014-09-12"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/multi-unit_residential/multi-unit_residential_342/2016-8-1.jpg",
+          "date": "2016-08-01"
+        }
+      ]
+    },
+    {
+      "group_id": "hospital_405",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/hospital/hospital_405/2015-10-1.jpg",
+          "date": "2015-10-01"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/hospital/hospital_405/2015-12-25.jpg",
+          "date": "2015-12-25"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/hospital/hospital_405/2016-4-21.jpg",
+          "date": "2016-04-21"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/hospital/hospital_405/2016-11-8.jpg",
+          "date": "2016-11-08"
+        }
+      ]
+    },
+    {
+      "group_id": "military_facility_299",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_299/2016-7-15.jpg",
+          "date": "2016-07-15"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_299/2016-7-20.jpg",
+          "date": "2016-07-20"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_299/2017-1-9.jpg",
+          "date": "2017-01-09"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_299/2017-4-21.jpg",
+          "date": "2017-04-21"
+        }
+      ]
+    },
+    {
+      "group_id": "office_building_418",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/office_building/office_building_418/2015-4-26.jpg",
+          "date": "2015-04-26"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/office_building/office_building_418/2015-10-27.jpg",
+          "date": "2015-10-27"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/office_building/office_building_418/2015-12-11.jpg",
+          "date": "2015-12-11"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/office_building/office_building_418/2015-12-23.jpg",
+          "date": "2015-12-23"
+        }
+      ]
+    },
+    {
+      "group_id": "hospital_313",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/hospital/hospital_313/2015-1-8.jpg",
+          "date": "2015-01-08"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/hospital/hospital_313/2016-8-17.jpg",
+          "date": "2016-08-17"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/hospital/hospital_313/2016-10-25.jpg",
+          "date": "2016-10-25"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/hospital/hospital_313/2017-2-9.jpg",
+          "date": "2017-02-09"
+        }
+      ]
+    },
+    {
+      "group_id": "airport_hangar_40",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_hangar/airport_hangar_40/2016-2-4.jpg",
+          "date": "2016-02-04"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_hangar/airport_hangar_40/2016-5-31.jpg",
+          "date": "2016-05-31"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_hangar/airport_hangar_40/2016-12-29.jpg",
+          "date": "2016-12-29"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_hangar/airport_hangar_40/2017-1-6.jpg",
+          "date": "2017-01-06"
+        }
+      ]
+    },
+    {
+      "group_id": "military_facility_875",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_875/2006-9-25.jpg",
+          "date": "2006-09-25"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_875/2013-10-23.jpg",
+          "date": "2013-10-23"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_875/2015-1-6.jpg",
+          "date": "2015-01-06"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_875/2016-3-24.jpg",
+          "date": "2016-03-24"
+        }
+      ]
+    },
+    {
+      "group_id": "military_facility_515",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_515/2014-2-20.jpg",
+          "date": "2014-02-20"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_515/2015-9-29.jpg",
+          "date": "2015-09-29"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_515/2016-7-21.jpg",
+          "date": "2016-07-21"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_515/2016-8-23.jpg",
+          "date": "2016-08-23"
+        }
+      ]
+    },
+    {
+      "group_id": "hospital_603",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/hospital/hospital_603/2015-5-12.jpg",
+          "date": "2015-05-12"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/hospital/hospital_603/2016-4-13.jpg",
+          "date": "2016-04-13"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/hospital/hospital_603/2016-6-8.jpg",
+          "date": "2016-06-08"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/hospital/hospital_603/2016-6-21.jpg",
+          "date": "2016-06-21"
+        }
+      ]
+    },
+    {
+      "group_id": "multi-unit_residential_1005",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/multi-unit_residential/multi-unit_residential_1005/2015-7-14.jpg",
+          "date": "2015-07-14"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/multi-unit_residential/multi-unit_residential_1005/2016-3-6.jpg",
+          "date": "2016-03-06"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/multi-unit_residential/multi-unit_residential_1005/2016-3-23.jpg",
+          "date": "2016-03-23"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/multi-unit_residential/multi-unit_residential_1005/2016-6-1.jpg",
+          "date": "2016-06-01"
+        }
+      ]
+    },
+    {
+      "group_id": "hospital_138",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/hospital/hospital_138/2013-4-10.jpg",
+          "date": "2013-04-10"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/hospital/hospital_138/2014-4-17.jpg",
+          "date": "2014-04-17"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/hospital/hospital_138/2015-5-9.jpg",
+          "date": "2015-05-09"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/hospital/hospital_138/2017-3-9.jpg",
+          "date": "2017-03-09"
+        }
+      ]
+    },
+    {
+      "group_id": "multi-unit_residential_242",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/multi-unit_residential/multi-unit_residential_242/2016-7-27.jpg",
+          "date": "2016-07-27"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/multi-unit_residential/multi-unit_residential_242/2016-7-30.jpg",
+          "date": "2016-07-30"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/multi-unit_residential/multi-unit_residential_242/2016-8-17.jpg",
+          "date": "2016-08-17"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/multi-unit_residential/multi-unit_residential_242/2016-10-13.jpg",
+          "date": "2016-10-13"
+        }
+      ]
+    },
+    {
+      "group_id": "office_building_310",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/office_building/office_building_310/2015-2-25.jpg",
+          "date": "2015-02-25"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/office_building/office_building_310/2015-9-17.jpg",
+          "date": "2015-09-17"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/office_building/office_building_310/2016-7-25.jpg",
+          "date": "2016-07-25"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/office_building/office_building_310/2016-8-27.jpg",
+          "date": "2016-08-27"
+        }
+      ]
+    },
+    {
+      "group_id": "factory_or_powerplant_103",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/factory_or_powerplant/factory_or_powerplant_103/2011-11-18.jpg",
+          "date": "2011-11-18"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/factory_or_powerplant/factory_or_powerplant_103/2014-12-15.jpg",
+          "date": "2014-12-15"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/factory_or_powerplant/factory_or_powerplant_103/2015-2-8.jpg",
+          "date": "2015-02-08"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/factory_or_powerplant/factory_or_powerplant_103/2015-2-27.jpg",
+          "date": "2015-02-27"
+        }
+      ]
+    },
+    {
+      "group_id": "hospital_263",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/hospital/hospital_263/2011-4-25.jpg",
+          "date": "2011-04-25"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/hospital/hospital_263/2011-4-27.jpg",
+          "date": "2011-04-27"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/hospital/hospital_263/2012-2-9.jpg",
+          "date": "2012-02-09"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/hospital/hospital_263/2016-3-14.jpg",
+          "date": "2016-03-14"
+        }
+      ]
+    },
+    {
+      "group_id": "military_facility_1292",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_1292/2017-4-9.jpg",
+          "date": "2017-04-09"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_1292/2017-4-10.jpg",
+          "date": "2017-04-10"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_1292/2017-4-29.jpg",
+          "date": "2017-04-29"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_1292/2017-5-15.jpg",
+          "date": "2017-05-15"
+        }
+      ]
+    },
+    {
+      "group_id": "factory_or_powerplant_529",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/factory_or_powerplant/factory_or_powerplant_529/2012-8-30.jpg",
+          "date": "2012-08-30"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/factory_or_powerplant/factory_or_powerplant_529/2013-6-15.jpg",
+          "date": "2013-06-15"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/factory_or_powerplant/factory_or_powerplant_529/2013-12-12.jpg",
+          "date": "2013-12-12"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/factory_or_powerplant/factory_or_powerplant_529/2014-1-8.jpg",
+          "date": "2014-01-08"
+        }
+      ]
+    },
+    {
+      "group_id": "hospital_226",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/hospital/hospital_226/2013-5-4.jpg",
+          "date": "2013-05-04"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/hospital/hospital_226/2013-8-2.jpg",
+          "date": "2013-08-02"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/hospital/hospital_226/2013-9-8.jpg",
+          "date": "2013-09-08"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/hospital/hospital_226/2016-6-5.jpg",
+          "date": "2016-06-05"
+        }
+      ]
+    },
+    {
+      "group_id": "airport_hangar_28",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_hangar/airport_hangar_28/2015-6-23.jpg",
+          "date": "2015-06-23"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_hangar/airport_hangar_28/2015-11-6.jpg",
+          "date": "2015-11-06"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_hangar/airport_hangar_28/2016-10-10.jpg",
+          "date": "2016-10-10"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_hangar/airport_hangar_28/2016-11-17.jpg",
+          "date": "2016-11-17"
+        }
+      ]
+    },
+    {
+      "group_id": "multi-unit_residential_767",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/multi-unit_residential/multi-unit_residential_767/2017-3-4.jpg",
+          "date": "2017-03-04"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/multi-unit_residential/multi-unit_residential_767/2017-3-9.jpg",
+          "date": "2017-03-09"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/multi-unit_residential/multi-unit_residential_767/2017-3-25.jpg",
+          "date": "2017-03-25"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/multi-unit_residential/multi-unit_residential_767/2017-5-13.jpg",
+          "date": "2017-05-13"
+        }
+      ]
+    },
+    {
+      "group_id": "multi-unit_residential_407",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/multi-unit_residential/multi-unit_residential_407/2014-5-13.jpg",
+          "date": "2014-05-13"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/multi-unit_residential/multi-unit_residential_407/2015-7-29.jpg",
+          "date": "2015-07-29"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/multi-unit_residential/multi-unit_residential_407/2015-10-18.jpg",
+          "date": "2015-10-18"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/multi-unit_residential/multi-unit_residential_407/2016-9-13.jpg",
+          "date": "2016-09-13"
+        }
+      ]
+    },
+    {
+      "group_id": "hospital_394",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/hospital/hospital_394/2014-11-22.jpg",
+          "date": "2014-11-22"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/hospital/hospital_394/2016-1-1.jpg",
+          "date": "2016-01-01"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/hospital/hospital_394/2016-4-16.jpg",
+          "date": "2016-04-16"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/hospital/hospital_394/2016-10-16.jpg",
+          "date": "2016-10-16"
+        }
+      ]
+    },
+    {
+      "group_id": "airport_terminal_367",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_terminal/airport_terminal_367/2016-10-31.jpg",
+          "date": "2016-10-31"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_terminal/airport_terminal_367/2017-1-18.jpg",
+          "date": "2017-01-18"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_terminal/airport_terminal_367/2017-1-27.jpg",
+          "date": "2017-01-27"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_terminal/airport_terminal_367/2017-2-12.jpg",
+          "date": "2017-02-12"
+        }
+      ]
+    },
+    {
+      "group_id": "military_facility_1100",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_1100/2015-1-12.jpg",
+          "date": "2015-01-12"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_1100/2016-4-20.jpg",
+          "date": "2016-04-20"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_1100/2016-5-23.jpg",
+          "date": "2016-05-23"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_1100/2017-5-7.jpg",
+          "date": "2017-05-07"
+        }
+      ]
+    },
+    {
+      "group_id": "airport_terminal_496",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_terminal/airport_terminal_496/2013-8-25.jpg",
+          "date": "2013-08-25"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_terminal/airport_terminal_496/2014-2-20.jpg",
+          "date": "2014-02-20"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_terminal/airport_terminal_496/2016-7-21.jpg",
+          "date": "2016-07-21"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_terminal/airport_terminal_496/2016-8-23.jpg",
+          "date": "2016-08-23"
+        }
+      ]
+    },
+    {
+      "group_id": "space_facility_20",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/space_facility/space_facility_20/2004-4-9.jpg",
+          "date": "2004-04-09"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/space_facility/space_facility_20/2013-6-22.jpg",
+          "date": "2013-06-22"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/space_facility/space_facility_20/2015-8-19.jpg",
+          "date": "2015-08-19"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/space_facility/space_facility_20/2016-6-23.jpg",
+          "date": "2016-06-23"
+        }
+      ]
+    },
+    {
+      "group_id": "office_building_52",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/office_building/office_building_52/2013-4-26.jpg",
+          "date": "2013-04-26"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/office_building/office_building_52/2014-8-20.jpg",
+          "date": "2014-08-20"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/office_building/office_building_52/2014-11-28.jpg",
+          "date": "2014-11-28"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/office_building/office_building_52/2016-2-14.jpg",
+          "date": "2016-02-14"
+        }
+      ]
+    },
+    {
+      "group_id": "hospital_178",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/hospital/hospital_178/2014-7-12.jpg",
+          "date": "2014-07-12"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/hospital/hospital_178/2015-1-14.jpg",
+          "date": "2015-01-14"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/hospital/hospital_178/2016-1-16.jpg",
+          "date": "2016-01-16"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/hospital/hospital_178/2017-1-20.jpg",
+          "date": "2017-01-20"
+        }
+      ]
+    },
+    {
+      "group_id": "multi-unit_residential_703",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/multi-unit_residential/multi-unit_residential_703/2015-10-18.jpg",
+          "date": "2015-10-18"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/multi-unit_residential/multi-unit_residential_703/2016-9-11.jpg",
+          "date": "2016-09-11"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/multi-unit_residential/multi-unit_residential_703/2016-9-13.jpg",
+          "date": "2016-09-13"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/multi-unit_residential/multi-unit_residential_703/2017-3-27.jpg",
+          "date": "2017-03-27"
+        }
+      ]
+    },
+    {
+      "group_id": "office_building_98",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/office_building/office_building_98/2016-4-25.jpg",
+          "date": "2016-04-25"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/office_building/office_building_98/2016-6-30.jpg",
+          "date": "2016-06-30"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/office_building/office_building_98/2016-7-24.jpg",
+          "date": "2016-07-24"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/office_building/office_building_98/2016-9-6.jpg",
+          "date": "2016-09-06"
+        }
+      ]
+    },
+    {
+      "group_id": "military_facility_1445",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_1445/2013-9-13.jpg",
+          "date": "2013-09-13"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_1445/2014-5-13.jpg",
+          "date": "2014-05-13"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_1445/2015-8-11.jpg",
+          "date": "2015-08-11"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_1445/2016-7-21.jpg",
+          "date": "2016-07-21"
+        }
+      ]
+    },
+    {
+      "group_id": "factory_or_powerplant_485",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/factory_or_powerplant/factory_or_powerplant_485/2012-8-9.jpg",
+          "date": "2012-08-09"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/factory_or_powerplant/factory_or_powerplant_485/2013-6-25.jpg",
+          "date": "2013-06-25"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/factory_or_powerplant/factory_or_powerplant_485/2015-5-12.jpg",
+          "date": "2015-05-12"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/factory_or_powerplant/factory_or_powerplant_485/2016-4-18.jpg",
+          "date": "2016-04-18"
+        }
+      ]
+    },
+    {
+      "group_id": "office_building_756",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/office_building/office_building_756/2016-6-5.jpg",
+          "date": "2016-06-05"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/office_building/office_building_756/2016-6-21.jpg",
+          "date": "2016-06-21"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/office_building/office_building_756/2016-9-23.jpg",
+          "date": "2016-09-23"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/office_building/office_building_756/2016-9-24.jpg",
+          "date": "2016-09-24"
+        }
+      ]
+    },
+    {
+      "group_id": "office_building_170",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/office_building/office_building_170/2016-2-19.jpg",
+          "date": "2016-02-19"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/office_building/office_building_170/2016-6-20.jpg",
+          "date": "2016-06-20"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/office_building/office_building_170/2016-9-1.jpg",
+          "date": "2016-09-01"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/office_building/office_building_170/2017-1-16.jpg",
+          "date": "2017-01-16"
+        }
+      ]
+    },
+    {
+      "group_id": "airport_terminal_486",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_terminal/airport_terminal_486/2016-10-28.jpg",
+          "date": "2016-10-28"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_terminal/airport_terminal_486/2016-10-29.jpg",
+          "date": "2016-10-29"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_terminal/airport_terminal_486/2017-1-6.jpg",
+          "date": "2017-01-06"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_terminal/airport_terminal_486/2017-2-9.jpg",
+          "date": "2017-02-09"
+        }
+      ]
+    },
+    {
+      "group_id": "military_facility_1488",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_1488/2013-9-13.jpg",
+          "date": "2013-09-13"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_1488/2014-5-13.jpg",
+          "date": "2014-05-13"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_1488/2015-8-11.jpg",
+          "date": "2015-08-11"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_1488/2016-7-21.jpg",
+          "date": "2016-07-21"
+        }
+      ]
+    },
+    {
+      "group_id": "multi-unit_residential_1081",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/multi-unit_residential/multi-unit_residential_1081/2015-9-16.jpg",
+          "date": "2015-09-16"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/multi-unit_residential/multi-unit_residential_1081/2016-5-27.jpg",
+          "date": "2016-05-27"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/multi-unit_residential/multi-unit_residential_1081/2016-7-16.jpg",
+          "date": "2016-07-16"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/multi-unit_residential/multi-unit_residential_1081/2016-8-9.jpg",
+          "date": "2016-08-09"
+        }
+      ]
+    },
+    {
+      "group_id": "military_facility_1870",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_1870/2015-12-1.jpg",
+          "date": "2015-12-01"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_1870/2016-4-17.jpg",
+          "date": "2016-04-17"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_1870/2016-5-25.jpg",
+          "date": "2016-05-25"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_1870/2016-9-13.jpg",
+          "date": "2016-09-13"
+        }
+      ]
+    },
+    {
+      "group_id": "military_facility_415",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_415/2015-12-22.jpg",
+          "date": "2015-12-22"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_415/2016-4-28.jpg",
+          "date": "2016-04-28"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_415/2016-8-23.jpg",
+          "date": "2016-08-23"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_415/2016-10-29.jpg",
+          "date": "2016-10-29"
+        }
+      ]
+    },
+    {
+      "group_id": "multi-unit_residential_946",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/multi-unit_residential/multi-unit_residential_946/2017-4-26.jpg",
+          "date": "2017-04-26"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/multi-unit_residential/multi-unit_residential_946/2017-5-14.jpg",
+          "date": "2017-05-14"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/multi-unit_residential/multi-unit_residential_946/2017-5-28.jpg",
+          "date": "2017-05-28"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/multi-unit_residential/multi-unit_residential_946/2017-6-8.jpg",
+          "date": "2017-06-08"
+        }
+      ]
+    },
+    {
+      "group_id": "military_facility_889",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_889/2015-6-2.jpg",
+          "date": "2015-06-02"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_889/2016-5-4.jpg",
+          "date": "2016-05-04"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_889/2016-7-2.jpg",
+          "date": "2016-07-02"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_889/2016-7-21.jpg",
+          "date": "2016-07-21"
+        }
+      ]
+    },
+    {
+      "group_id": "military_facility_774",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_774/2014-9-3.jpg",
+          "date": "2014-09-03"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_774/2014-9-21.jpg",
+          "date": "2014-09-21"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_774/2016-4-9.jpg",
+          "date": "2016-04-09"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_774/2016-7-17.jpg",
+          "date": "2016-07-17"
+        }
+      ]
+    },
+    {
+      "group_id": "military_facility_11",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_11/2017-4-17.jpg",
+          "date": "2017-04-17"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_11/2017-4-20.jpg",
+          "date": "2017-04-20"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_11/2017-5-6.jpg",
+          "date": "2017-05-06"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_11/2017-5-25.jpg",
+          "date": "2017-05-25"
+        }
+      ]
+    },
+    {
+      "group_id": "hospital_169",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/hospital/hospital_169/2004-7-19.jpg",
+          "date": "2004-07-19"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/hospital/hospital_169/2011-8-22.jpg",
+          "date": "2011-08-22"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/hospital/hospital_169/2011-9-24.jpg",
+          "date": "2011-09-24"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/hospital/hospital_169/2012-11-13.jpg",
+          "date": "2012-11-13"
+        }
+      ]
+    },
+    {
+      "group_id": "airport_hangar_669",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_hangar/airport_hangar_669/2013-9-1.jpg",
+          "date": "2013-09-01"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_hangar/airport_hangar_669/2015-4-2.jpg",
+          "date": "2015-04-02"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_hangar/airport_hangar_669/2016-11-17.jpg",
+          "date": "2016-11-17"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_hangar/airport_hangar_669/2016-12-24.jpg",
+          "date": "2016-12-24"
+        }
+      ]
+    },
+    {
+      "group_id": "hospital_65",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/hospital/hospital_65/2015-7-16.jpg",
+          "date": "2015-07-16"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/hospital/hospital_65/2015-9-11.jpg",
+          "date": "2015-09-11"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/hospital/hospital_65/2016-7-17.jpg",
+          "date": "2016-07-17"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/hospital/hospital_65/2016-10-22.jpg",
+          "date": "2016-10-22"
+        }
+      ]
+    },
+    {
+      "group_id": "airport_terminal_850",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_terminal/airport_terminal_850/2015-10-8.jpg",
+          "date": "2015-10-08"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_terminal/airport_terminal_850/2015-11-22.jpg",
+          "date": "2015-11-22"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_terminal/airport_terminal_850/2016-3-22.jpg",
+          "date": "2016-03-22"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/airport_terminal/airport_terminal_850/2016-6-7.jpg",
+          "date": "2016-06-07"
+        }
+      ]
+    },
+    {
+      "group_id": "military_facility_1850",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_1850/2013-1-10.jpg",
+          "date": "2013-01-10"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_1850/2014-7-26.jpg",
+          "date": "2014-07-26"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_1850/2015-4-26.jpg",
+          "date": "2015-04-26"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/military_facility/military_facility_1850/2016-11-21.jpg",
+          "date": "2016-11-21"
+        }
+      ]
+    },
+    {
+      "group_id": "multi-unit_residential_757",
+      "images": [
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/multi-unit_residential/multi-unit_residential_757/2017-4-30.jpg",
+          "date": "2017-04-30"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/multi-unit_residential/multi-unit_residential_757/2017-5-25.jpg",
+          "date": "2017-05-25"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/multi-unit_residential/multi-unit_residential_757/2017-6-5.jpg",
+          "date": "2017-06-05"
+        },
+        {
+          "path": "/output/dataset_256x256_20250723_154123/TAMMs/multi-unit_residential/multi-unit_residential_757/2017-6-6.jpg",
+          "date": "2017-06-06"
+        }
+      ]
+    }
+  ]
+}

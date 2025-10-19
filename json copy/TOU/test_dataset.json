@@ -1,0 +1,2953 @@
+{
+  "image_groups": [
+    {
+      "group_id": "dataset-2023-615-withsum/0215",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0215/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0215/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0215/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0215/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0215/E.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0215/F.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0215/G.png"
+      ]
+    },
+    {
+      "group_id": "modified_select_chop/0115",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0115/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0115/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0115/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0115/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0115/E.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0115/F.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0115/G.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0115/H.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0115/I.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0115/J.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0115/K.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0115/L.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0115/M.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0115/N.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0115/O.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0115/P.png"
+      ]
+    },
+    {
+      "group_id": "modified_select_chop/048",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/048/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/048/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/048/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/048/E.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/048/F.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/048/G.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/048/H.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/048/I.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/048/J.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/048/K.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/048/L.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/048/M.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/048/N.png"
+      ]
+    },
+    {
+      "group_id": "modified_select_chop(2)/081",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/081/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/081/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/081/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/081/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/081/E.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/081/F.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/081/G.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/081/H.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/081/I.png"
+      ]
+    },
+    {
+      "group_id": "dataset-2023-615-withsum/0207",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0207/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0207/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0207/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0207/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0207/E.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0207/F.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0207/G.png"
+      ]
+    },
+    {
+      "group_id": "modified_select_chop(2)/076",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/076/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/076/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/076/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/076/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/076/E.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/076/F.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/076/G.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/076/H.png"
+      ]
+    },
+    {
+      "group_id": "dataset-tianhe-withsum/053",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/053/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/053/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/053/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/053/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/053/E.png"
+      ]
+    },
+    {
+      "group_id": "dataset-2023-615-withsum/0108",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0108/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0108/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0108/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0108/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0108/E.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0108/F.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0108/G.png"
+      ]
+    },
+    {
+      "group_id": "dataset-2023-615-withsum/0179",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0179/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0179/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0179/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0179/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0179/E.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0179/F.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0179/G.png"
+      ]
+    },
+    {
+      "group_id": "dataset-2023-615-withsum/064",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/064/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/064/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/064/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/064/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/064/E.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/064/F.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/064/G.png"
+      ]
+    },
+    {
+      "group_id": "modified_select_chop/0101",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0101/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0101/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0101/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0101/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0101/E.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0101/F.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0101/G.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0101/H.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0101/I.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0101/J.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0101/K.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0101/L.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0101/M.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0101/N.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0101/O.png"
+      ]
+    },
+    {
+      "group_id": "dataset-2023-615-withsum/0181",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0181/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0181/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0181/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0181/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0181/E.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0181/F.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0181/G.png"
+      ]
+    },
+    {
+      "group_id": "dataset-2023-615-withsum/011",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/011/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/011/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/011/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/011/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/011/E.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/011/F.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/011/G.png"
+      ]
+    },
+    {
+      "group_id": "modified_select_chop/0179",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0179/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0179/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0179/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0179/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0179/E.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0179/F.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0179/G.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0179/H.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0179/I.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0179/J.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0179/K.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0179/L.png"
+      ]
+    },
+    {
+      "group_id": "dataset-2023-615-withsum/054",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/054/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/054/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/054/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/054/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/054/E.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/054/F.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/054/G.png"
+      ]
+    },
+    {
+      "group_id": "modified_select_chop/0185",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0185/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0185/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0185/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0185/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0185/E.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0185/F.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0185/G.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0185/H.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0185/I.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0185/J.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0185/K.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0185/L.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0185/M.png"
+      ]
+    },
+    {
+      "group_id": "modified_select_chop(2)/0152",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0152/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0152/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0152/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0152/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0152/E.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0152/F.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0152/G.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0152/H.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0152/I.png"
+      ]
+    },
+    {
+      "group_id": "modified_select_chop/068",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/068/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/068/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/068/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/068/E.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/068/F.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/068/G.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/068/H.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/068/I.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/068/J.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/068/K.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/068/L.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/068/M.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/068/N.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/068/O.png"
+      ]
+    },
+    {
+      "group_id": "dataset-2023-615-withsum/060",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/060/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/060/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/060/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/060/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/060/E.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/060/F.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/060/G.png"
+      ]
+    },
+    {
+      "group_id": "modified_select_chop(2)/05",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/05/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/05/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/05/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/05/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/05/E.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/05/F.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/05/G.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/05/H.png"
+      ]
+    },
+    {
+      "group_id": "data-xiongan-withsum/01",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/data-xiongan-withsum/01/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/data-xiongan-withsum/01/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/data-xiongan-withsum/01/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/data-xiongan-withsum/01/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/data-xiongan-withsum/01/E.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/data-xiongan-withsum/01/F.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/data-xiongan-withsum/01/G.png"
+      ]
+    },
+    {
+      "group_id": "modified_select_chop(3)/043",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/043/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/043/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/043/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/043/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/043/E.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/043/F.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/043/G.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/043/H.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/043/I.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/043/J.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/043/K.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/043/L.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/043/M.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/043/N.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/043/O.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/043/P.png"
+      ]
+    },
+    {
+      "group_id": "data-xiongan-withsum/038",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/data-xiongan-withsum/038/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/data-xiongan-withsum/038/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/data-xiongan-withsum/038/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/data-xiongan-withsum/038/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/data-xiongan-withsum/038/E.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/data-xiongan-withsum/038/F.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/data-xiongan-withsum/038/G.png"
+      ]
+    },
+    {
+      "group_id": "dataset-tianhe-withsum/026",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/026/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/026/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/026/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/026/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/026/E.png"
+      ]
+    },
+    {
+      "group_id": "dataset-2023-615-withsum/0115",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0115/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0115/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0115/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0115/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0115/E.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0115/F.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0115/G.png"
+      ]
+    },
+    {
+      "group_id": "dataset-tianhe-withsum/036",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/036/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/036/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/036/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/036/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/036/E.png"
+      ]
+    },
+    {
+      "group_id": "dataset-tianhe-withsum/0197",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/0197/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/0197/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/0197/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/0197/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/0197/E.png"
+      ]
+    },
+    {
+      "group_id": "modified_select_chop(2)/0148",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0148/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0148/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0148/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0148/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0148/E.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0148/F.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0148/G.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0148/H.png"
+      ]
+    },
+    {
+      "group_id": "modified_select_chop/09",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/09/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/09/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/09/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/09/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/09/E.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/09/F.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/09/G.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/09/I.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/09/J.png"
+      ]
+    },
+    {
+      "group_id": "dataset-2023-615-withsum/076",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/076/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/076/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/076/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/076/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/076/E.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/076/F.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/076/G.png"
+      ]
+    },
+    {
+      "group_id": "modified_select_chop/0178",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0178/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0178/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0178/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0178/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0178/E.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0178/F.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0178/G.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0178/H.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0178/I.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0178/J.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0178/K.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0178/L.png"
+      ]
+    },
+    {
+      "group_id": "dataset-2023-615-withsum/0216",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0216/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0216/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0216/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0216/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0216/E.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0216/F.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0216/G.png"
+      ]
+    },
+    {
+      "group_id": "dataset-2023-615-withsum/0212",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0212/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0212/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0212/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0212/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0212/E.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0212/F.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0212/G.png"
+      ]
+    },
+    {
+      "group_id": "modified_select_chop/0105",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0105/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0105/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0105/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0105/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0105/E.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0105/F.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0105/G.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0105/H.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0105/I.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0105/J.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0105/K.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0105/L.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0105/M.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0105/N.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0105/O.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0105/P.png"
+      ]
+    },
+    {
+      "group_id": "modified_select_chop(2)/094",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/094/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/094/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/094/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/094/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/094/E.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/094/F.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/094/G.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/094/H.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/094/I.png"
+      ]
+    },
+    {
+      "group_id": "modified_select_chop(2)/011",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/011/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/011/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/011/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/011/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/011/E.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/011/F.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/011/G.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/011/H.png"
+      ]
+    },
+    {
+      "group_id": "modified_select_chop(2)/0195",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0195/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0195/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0195/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0195/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0195/E.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0195/F.png"
+      ]
+    },
+    {
+      "group_id": "dataset-2023-615-withsum/0131",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0131/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0131/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0131/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0131/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0131/E.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0131/F.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0131/G.png"
+      ]
+    },
+    {
+      "group_id": "modified_select_chop(2)/050",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/050/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/050/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/050/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/050/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/050/E.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/050/F.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/050/G.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/050/H.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/050/I.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/050/J.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/050/K.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/050/L.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/050/M.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/050/N.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/050/O.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/050/P.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/050/Q.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/050/S.png"
+      ]
+    },
+    {
+      "group_id": "dataset-tianhe-withsum/0184",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/0184/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/0184/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/0184/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/0184/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/0184/E.png"
+      ]
+    },
+    {
+      "group_id": "dataset-tianhe-withsum/0118",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/0118/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/0118/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/0118/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/0118/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/0118/E.png"
+      ]
+    },
+    {
+      "group_id": "modified_select_chop(2)/056",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/056/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/056/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/056/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/056/E.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/056/F.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/056/G.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/056/H.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/056/I.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/056/J.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/056/K.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/056/L.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/056/M.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/056/N.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/056/O.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/056/P.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/056/Q.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/056/R.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/056/T.png"
+      ]
+    },
+    {
+      "group_id": "dataset-2023-615-withsum/0226",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0226/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0226/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0226/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0226/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0226/E.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0226/F.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0226/G.png"
+      ]
+    },
+    {
+      "group_id": "dataset-2023-615-withsum/0153",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0153/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0153/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0153/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0153/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0153/E.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0153/F.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0153/G.png"
+      ]
+    },
+    {
+      "group_id": "dataset-tianhe-withsum/0128",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/0128/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/0128/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/0128/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/0128/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/0128/E.png"
+      ]
+    },
+    {
+      "group_id": "modified_select_chop/0136",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0136/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0136/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0136/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0136/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0136/E.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0136/F.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0136/H.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0136/I.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0136/J.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0136/K.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0136/L.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0136/M.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0136/N.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0136/O.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0136/P.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0136/Q.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0136/R.png"
+      ]
+    },
+    {
+      "group_id": "dataset-tianhe-withsum/035",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/035/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/035/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/035/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/035/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/035/E.png"
+      ]
+    },
+    {
+      "group_id": "modified_select_chop/0137",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0137/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0137/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0137/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0137/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0137/E.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0137/F.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0137/H.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0137/I.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0137/J.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0137/K.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0137/L.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0137/M.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0137/N.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0137/O.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0137/P.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0137/Q.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0137/R.png"
+      ]
+    },
+    {
+      "group_id": "modified_select_chop/089",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/089/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/089/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/089/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/089/E.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/089/F.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/089/G.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/089/H.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/089/I.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/089/J.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/089/K.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/089/L.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/089/M.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/089/N.png"
+      ]
+    },
+    {
+      "group_id": "modified_select_chop(3)/053",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/053/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/053/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/053/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/053/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/053/E.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/053/F.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/053/G.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/053/H.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/053/I.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/053/J.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/053/K.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/053/L.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/053/M.png"
+      ]
+    },
+    {
+      "group_id": "data-xiongan-withsum/011",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/data-xiongan-withsum/011/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/data-xiongan-withsum/011/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/data-xiongan-withsum/011/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/data-xiongan-withsum/011/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/data-xiongan-withsum/011/E.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/data-xiongan-withsum/011/F.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/data-xiongan-withsum/011/G.png"
+      ]
+    },
+    {
+      "group_id": "dataset-2023-615-withsum/0223",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0223/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0223/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0223/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0223/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0223/E.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0223/F.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0223/G.png"
+      ]
+    },
+    {
+      "group_id": "modified_select_chop/0169",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0169/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0169/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0169/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0169/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0169/E.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0169/F.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0169/G.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0169/H.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0169/I.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0169/J.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0169/K.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0169/L.png"
+      ]
+    },
+    {
+      "group_id": "modified_select_chop(3)/050",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/050/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/050/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/050/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/050/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/050/E.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/050/F.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/050/G.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/050/H.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/050/I.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/050/J.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/050/K.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/050/L.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/050/M.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/050/N.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/050/O.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/050/P.png"
+      ]
+    },
+    {
+      "group_id": "dataset-2023-615-withsum/0169",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0169/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0169/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0169/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0169/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0169/E.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0169/F.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0169/G.png"
+      ]
+    },
+    {
+      "group_id": "modified_select_chop(3)/033",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/033/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/033/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/033/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/033/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/033/E.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/033/F.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/033/G.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/033/H.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/033/I.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/033/J.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/033/K.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/033/L.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/033/M.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/033/N.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/033/O.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/033/P.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/033/Q.png"
+      ]
+    },
+    {
+      "group_id": "modified_select_chop(2)/051",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/051/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/051/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/051/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/051/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/051/E.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/051/F.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/051/G.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/051/H.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/051/I.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/051/J.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/051/K.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/051/L.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/051/M.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/051/N.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/051/O.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/051/P.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/051/R.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/051/S.png"
+      ]
+    },
+    {
+      "group_id": "dataset-tianhe-withsum/054",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/054/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/054/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/054/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/054/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/054/E.png"
+      ]
+    },
+    {
+      "group_id": "modified_select_chop/0120",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0120/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0120/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0120/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0120/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0120/E.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0120/F.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0120/G.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0120/H.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0120/I.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0120/J.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0120/K.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0120/L.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0120/M.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0120/N.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0120/O.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0120/P.png"
+      ]
+    },
+    {
+      "group_id": "dataset-tianhe-withsum/070",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/070/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/070/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/070/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/070/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/070/E.png"
+      ]
+    },
+    {
+      "group_id": "dataset-tianhe-withsum/0155",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/0155/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/0155/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/0155/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/0155/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/0155/E.png"
+      ]
+    },
+    {
+      "group_id": "modified_select_chop/021",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/021/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/021/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/021/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/021/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/021/F.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/021/I.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/021/J.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/021/K.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/021/L.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/021/M.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/021/N.png"
+      ]
+    },
+    {
+      "group_id": "modified_select_chop(3)/017",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/017/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/017/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/017/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/017/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/017/E.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/017/F.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/017/G.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/017/H.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/017/I.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/017/J.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/017/K.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/017/M.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/017/N.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/017/O.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/017/P.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/017/Q.png"
+      ]
+    },
+    {
+      "group_id": "dataset-tianhe-withsum/0131",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/0131/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/0131/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/0131/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/0131/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/0131/E.png"
+      ]
+    },
+    {
+      "group_id": "modified_select_chop/059",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/059/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/059/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/059/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/059/E.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/059/F.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/059/G.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/059/I.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/059/J.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/059/K.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/059/L.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/059/M.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/059/N.png"
+      ]
+    },
+    {
+      "group_id": "modified_select_chop/0141",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0141/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0141/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0141/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0141/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0141/E.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0141/F.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0141/H.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0141/I.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0141/J.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0141/K.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0141/L.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0141/M.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0141/N.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0141/O.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0141/P.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0141/R.png"
+      ]
+    },
+    {
+      "group_id": "modified_select_chop(3)/080",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/080/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/080/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/080/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/080/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/080/F.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/080/G.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/080/H.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/080/I.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/080/J.png"
+      ]
+    },
+    {
+      "group_id": "modified_select_chop(2)/072",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/072/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/072/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/072/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/072/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/072/E.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/072/F.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/072/G.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/072/H.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/072/I.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/072/J.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/072/K.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/072/L.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/072/M.png"
+      ]
+    },
+    {
+      "group_id": "modified_select_chop(3)/039",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/039/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/039/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/039/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/039/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/039/E.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/039/F.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/039/G.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/039/H.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/039/I.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/039/J.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/039/K.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/039/L.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/039/M.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/039/N.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/039/O.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/039/P.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/039/Q.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/039/R.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/039/S.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/039/T.png"
+      ]
+    },
+    {
+      "group_id": "dataset-tianhe-withsum/0149",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/0149/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/0149/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/0149/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/0149/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/0149/E.png"
+      ]
+    },
+    {
+      "group_id": "dataset-tianhe-withsum/081",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/081/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/081/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/081/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/081/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/081/E.png"
+      ]
+    },
+    {
+      "group_id": "dataset-2023-615-withsum/0192",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0192/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0192/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0192/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0192/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0192/E.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0192/F.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0192/G.png"
+      ]
+    },
+    {
+      "group_id": "dataset-2023-615-withsum/0202",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0202/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0202/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0202/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0202/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0202/E.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0202/F.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0202/G.png"
+      ]
+    },
+    {
+      "group_id": "dataset-2023-615-withsum/0116",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0116/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0116/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0116/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0116/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0116/E.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0116/F.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0116/G.png"
+      ]
+    },
+    {
+      "group_id": "modified_select_chop(3)/041",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/041/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/041/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/041/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/041/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/041/E.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/041/F.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/041/G.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/041/H.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/041/I.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/041/J.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/041/K.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/041/L.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/041/M.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/041/N.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/041/O.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/041/P.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/041/Q.png"
+      ]
+    },
+    {
+      "group_id": "modified_select_chop(2)/063",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/063/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/063/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/063/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/063/E.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/063/F.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/063/G.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/063/H.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/063/I.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/063/K.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/063/L.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/063/M.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/063/O.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/063/P.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/063/Q.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/063/S.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/063/T.png"
+      ]
+    },
+    {
+      "group_id": "dataset-2023-615-withsum/0142",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0142/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0142/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0142/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0142/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0142/E.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0142/F.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0142/G.png"
+      ]
+    },
+    {
+      "group_id": "dataset-2023-615-withsum/0229",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0229/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0229/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0229/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0229/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0229/E.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0229/F.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0229/G.png"
+      ]
+    },
+    {
+      "group_id": "dataset-2023-615-withsum/070",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/070/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/070/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/070/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/070/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/070/E.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/070/F.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/070/G.png"
+      ]
+    },
+    {
+      "group_id": "dataset-tianhe-withsum/0162",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/0162/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/0162/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/0162/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/0162/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/0162/E.png"
+      ]
+    },
+    {
+      "group_id": "modified_select_chop/049",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/049/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/049/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/049/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/049/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/049/E.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/049/F.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/049/G.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/049/H.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/049/I.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/049/J.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/049/K.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/049/L.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/049/M.png"
+      ]
+    },
+    {
+      "group_id": "modified_select_chop(3)/02",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/02/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/02/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/02/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/02/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/02/E.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/02/F.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/02/G.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/02/H.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/02/I.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/02/J.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/02/K.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/02/L.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/02/M.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/02/N.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/02/O.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/02/P.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/02/Q.png"
+      ]
+    },
+    {
+      "group_id": "modified_select_chop/0139",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0139/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0139/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0139/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0139/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0139/E.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0139/F.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0139/G.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0139/H.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0139/I.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0139/J.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0139/K.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0139/L.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0139/M.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0139/N.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0139/O.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0139/P.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0139/Q.png"
+      ]
+    },
+    {
+      "group_id": "modified_select_chop/0153",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0153/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0153/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0153/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0153/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0153/F.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0153/G.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0153/H.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0153/I.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0153/J.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0153/K.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0153/L.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0153/M.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0153/N.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0153/O.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0153/P.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0153/Q.png"
+      ]
+    },
+    {
+      "group_id": "modified_select_chop/0128",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0128/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0128/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0128/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0128/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0128/E.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0128/H.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0128/I.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0128/J.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0128/K.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0128/L.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0128/M.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0128/N.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0128/O.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0128/P.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0128/Q.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0128/R.png"
+      ]
+    },
+    {
+      "group_id": "modified_select_chop(3)/049",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/049/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/049/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/049/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/049/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/049/E.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/049/F.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/049/G.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/049/H.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/049/I.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/049/J.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/049/K.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/049/L.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/049/M.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/049/N.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/049/O.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/049/P.png"
+      ]
+    },
+    {
+      "group_id": "dataset-tianhe-withsum/072",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/072/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/072/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/072/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/072/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/072/E.png"
+      ]
+    },
+    {
+      "group_id": "dataset-tianhe-withsum/030",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/030/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/030/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/030/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/030/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/030/E.png"
+      ]
+    },
+    {
+      "group_id": "modified_select_chop(2)/075",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/075/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/075/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/075/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/075/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/075/E.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/075/F.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/075/G.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/075/H.png"
+      ]
+    },
+    {
+      "group_id": "dataset-2023-615-withsum/089",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/089/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/089/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/089/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/089/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/089/E.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/089/F.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/089/G.png"
+      ]
+    },
+    {
+      "group_id": "modified_select_chop/01",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/01/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/01/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/01/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/01/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/01/E.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/01/G.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/01/I.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/01/J.png"
+      ]
+    },
+    {
+      "group_id": "data-xiongan-withsum/024",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/data-xiongan-withsum/024/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/data-xiongan-withsum/024/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/data-xiongan-withsum/024/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/data-xiongan-withsum/024/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/data-xiongan-withsum/024/E.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/data-xiongan-withsum/024/F.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/data-xiongan-withsum/024/G.png"
+      ]
+    },
+    {
+      "group_id": "modified_select_chop(2)/0159",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0159/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0159/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0159/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0159/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0159/E.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0159/F.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0159/G.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0159/H.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0159/I.png"
+      ]
+    },
+    {
+      "group_id": "dataset-2023-615-withsum/020",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/020/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/020/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/020/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/020/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/020/E.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/020/F.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/020/G.png"
+      ]
+    },
+    {
+      "group_id": "modified_select_chop/0138",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0138/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0138/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0138/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0138/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0138/E.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0138/F.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0138/H.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0138/I.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0138/J.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0138/K.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0138/L.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0138/M.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0138/N.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0138/O.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0138/P.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0138/Q.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0138/R.png"
+      ]
+    },
+    {
+      "group_id": "modified_select_chop(2)/0197",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0197/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0197/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0197/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0197/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0197/E.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0197/F.png"
+      ]
+    },
+    {
+      "group_id": "modified_select_chop/050",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/050/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/050/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/050/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/050/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/050/E.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/050/F.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/050/G.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/050/I.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/050/J.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/050/K.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/050/L.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/050/M.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/050/N.png"
+      ]
+    },
+    {
+      "group_id": "modified_select_chop/039",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/039/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/039/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/039/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/039/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/039/E.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/039/F.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/039/G.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/039/H.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/039/I.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/039/J.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/039/K.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/039/L.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/039/M.png"
+      ]
+    },
+    {
+      "group_id": "dataset-2023-615-withsum/0186",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0186/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0186/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0186/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0186/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0186/E.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0186/F.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0186/G.png"
+      ]
+    },
+    {
+      "group_id": "modified_select_chop(3)/0107",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/0107/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/0107/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/0107/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/0107/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/0107/E.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/0107/F.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/0107/G.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/0107/H.png"
+      ]
+    },
+    {
+      "group_id": "modified_select_chop/099",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/099/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/099/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/099/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/099/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/099/E.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/099/F.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/099/G.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/099/H.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/099/I.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/099/J.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/099/K.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/099/L.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/099/M.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/099/N.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/099/O.png"
+      ]
+    },
+    {
+      "group_id": "modified_select_chop(3)/019",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/019/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/019/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/019/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/019/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/019/E.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/019/F.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/019/G.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/019/H.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/019/I.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/019/J.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/019/K.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/019/L.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/019/M.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/019/N.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/019/O.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/019/P.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/019/Q.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/019/R.png"
+      ]
+    },
+    {
+      "group_id": "dataset-tianhe-withsum/029",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/029/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/029/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/029/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/029/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/029/E.png"
+      ]
+    },
+    {
+      "group_id": "dataset-tianhe-withsum/0166",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/0166/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/0166/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/0166/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/0166/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/0166/E.png"
+      ]
+    },
+    {
+      "group_id": "modified_select_chop(2)/0115",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0115/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0115/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0115/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0115/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0115/E.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0115/F.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0115/G.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0115/H.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0115/I.png"
+      ]
+    },
+    {
+      "group_id": "dataset-tianhe-withsum/038",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/038/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/038/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/038/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/038/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/038/E.png"
+      ]
+    },
+    {
+      "group_id": "dataset-2023-615-withsum/0132",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0132/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0132/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0132/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0132/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0132/E.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0132/F.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0132/G.png"
+      ]
+    },
+    {
+      "group_id": "modified_select_chop/047",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/047/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/047/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/047/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/047/E.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/047/G.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/047/H.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/047/I.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/047/J.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/047/K.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/047/L.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/047/M.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/047/N.png"
+      ]
+    },
+    {
+      "group_id": "dataset-tianhe-withsum/0108",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/0108/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/0108/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/0108/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/0108/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/0108/E.png"
+      ]
+    },
+    {
+      "group_id": "dataset-2023-615-withsum/025",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/025/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/025/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/025/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/025/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/025/E.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/025/F.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/025/G.png"
+      ]
+    },
+    {
+      "group_id": "dataset-2023-615-withsum/0213",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0213/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0213/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0213/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0213/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0213/E.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0213/F.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0213/G.png"
+      ]
+    },
+    {
+      "group_id": "modified_select_chop(2)/043",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/043/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/043/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/043/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/043/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/043/E.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/043/F.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/043/G.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/043/H.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/043/J.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/043/K.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/043/L.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/043/M.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/043/N.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/043/O.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/043/P.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/043/R.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/043/S.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/043/T.png"
+      ]
+    },
+    {
+      "group_id": "dataset-2023-615-withsum/043",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/043/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/043/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/043/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/043/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/043/E.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/043/F.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/043/G.png"
+      ]
+    },
+    {
+      "group_id": "dataset-2023-615-withsum/077",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/077/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/077/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/077/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/077/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/077/E.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/077/F.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/077/G.png"
+      ]
+    },
+    {
+      "group_id": "dataset-2023-615-withsum/050",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/050/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/050/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/050/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/050/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/050/E.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/050/F.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/050/G.png"
+      ]
+    },
+    {
+      "group_id": "modified_select_chop(2)/0164",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0164/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0164/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0164/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0164/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0164/E.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0164/F.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0164/G.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0164/H.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0164/I.png"
+      ]
+    },
+    {
+      "group_id": "modified_select_chop(3)/076",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/076/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/076/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/076/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/076/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/076/F.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/076/G.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/076/H.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/076/I.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/076/J.png"
+      ]
+    },
+    {
+      "group_id": "dataset-2023-615-withsum/062",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/062/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/062/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/062/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/062/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/062/E.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/062/F.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/062/G.png"
+      ]
+    },
+    {
+      "group_id": "modified_select_chop(3)/0116",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/0116/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/0116/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/0116/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/0116/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/0116/E.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/0116/F.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/0116/H.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/0116/I.png"
+      ]
+    },
+    {
+      "group_id": "modified_select_chop/0187",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0187/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0187/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0187/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0187/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0187/E.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0187/F.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0187/G.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0187/H.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0187/I.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0187/J.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0187/K.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0187/L.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0187/M.png"
+      ]
+    },
+    {
+      "group_id": "modified_select_chop(2)/02",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/02/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/02/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/02/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/02/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/02/E.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/02/F.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/02/G.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/02/H.png"
+      ]
+    },
+    {
+      "group_id": "modified_select_chop(2)/098",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/098/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/098/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/098/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/098/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/098/E.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/098/F.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/098/G.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/098/H.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/098/I.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/098/J.png"
+      ]
+    },
+    {
+      "group_id": "modified_select_chop/0127",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0127/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0127/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0127/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0127/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0127/E.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0127/H.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0127/I.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0127/J.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0127/K.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0127/L.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0127/M.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0127/N.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0127/O.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0127/P.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0127/Q.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0127/R.png"
+      ]
+    },
+    {
+      "group_id": "modified_select_chop(2)/0133",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0133/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0133/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0133/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0133/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0133/E.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0133/G.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0133/H.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0133/I.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0133/J.png"
+      ]
+    },
+    {
+      "group_id": "modified_select_chop/014",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/014/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/014/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/014/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/014/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/014/E.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/014/F.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/014/G.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/014/H.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/014/I.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/014/J.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/014/K.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/014/L.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/014/M.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/014/N.png"
+      ]
+    },
+    {
+      "group_id": "dataset-tianhe-withsum/0156",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/0156/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/0156/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/0156/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/0156/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/0156/E.png"
+      ]
+    },
+    {
+      "group_id": "dataset-2023-615-withsum/0111",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0111/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0111/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0111/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0111/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0111/E.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0111/F.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0111/G.png"
+      ]
+    },
+    {
+      "group_id": "dataset-2023-615-withsum/096",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/096/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/096/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/096/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/096/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/096/E.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/096/F.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/096/G.png"
+      ]
+    },
+    {
+      "group_id": "modified_select_chop/041",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/041/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/041/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/041/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/041/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/041/E.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/041/F.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/041/G.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/041/H.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/041/I.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/041/J.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/041/K.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/041/L.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/041/M.png"
+      ]
+    },
+    {
+      "group_id": "modified_select_chop/0197",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0197/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0197/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0197/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0197/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0197/E.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0197/F.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0197/G.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0197/H.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0197/I.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0197/J.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0197/K.png"
+      ]
+    },
+    {
+      "group_id": "dataset-2023-615-withsum/0109",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0109/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0109/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0109/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0109/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0109/E.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0109/F.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0109/G.png"
+      ]
+    },
+    {
+      "group_id": "modified_select_chop(3)/0115",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/0115/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/0115/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/0115/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/0115/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/0115/E.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/0115/F.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/0115/H.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/0115/I.png"
+      ]
+    },
+    {
+      "group_id": "data-xiongan-withsum/010",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/data-xiongan-withsum/010/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/data-xiongan-withsum/010/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/data-xiongan-withsum/010/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/data-xiongan-withsum/010/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/data-xiongan-withsum/010/E.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/data-xiongan-withsum/010/F.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/data-xiongan-withsum/010/G.png"
+      ]
+    },
+    {
+      "group_id": "modified_select_chop(2)/047",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/047/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/047/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/047/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/047/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/047/E.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/047/F.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/047/G.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/047/H.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/047/I.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/047/J.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/047/K.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/047/L.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/047/M.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/047/N.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/047/O.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/047/P.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/047/Q.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/047/S.png"
+      ]
+    },
+    {
+      "group_id": "dataset-tianhe-withsum/0165",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/0165/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/0165/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/0165/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/0165/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/0165/E.png"
+      ]
+    },
+    {
+      "group_id": "modified_select_chop(2)/0107",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0107/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0107/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0107/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0107/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0107/E.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0107/F.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0107/G.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0107/H.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0107/I.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0107/J.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0107/K.png"
+      ]
+    },
+    {
+      "group_id": "data-xiongan-withsum/04",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/data-xiongan-withsum/04/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/data-xiongan-withsum/04/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/data-xiongan-withsum/04/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/data-xiongan-withsum/04/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/data-xiongan-withsum/04/E.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/data-xiongan-withsum/04/F.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/data-xiongan-withsum/04/G.png"
+      ]
+    },
+    {
+      "group_id": "dataset-tianhe-withsum/0172",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/0172/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/0172/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/0172/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/0172/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/0172/E.png"
+      ]
+    },
+    {
+      "group_id": "modified_select_chop/0114",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0114/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0114/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0114/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0114/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0114/E.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0114/F.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0114/G.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0114/H.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0114/I.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0114/J.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0114/K.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0114/L.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0114/M.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0114/N.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0114/O.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0114/P.png"
+      ]
+    },
+    {
+      "group_id": "modified_select_chop(2)/095",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/095/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/095/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/095/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/095/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/095/E.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/095/F.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/095/G.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/095/I.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/095/J.png"
+      ]
+    },
+    {
+      "group_id": "dataset-2023-615-withsum/0175",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0175/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0175/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0175/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0175/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0175/E.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0175/F.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0175/G.png"
+      ]
+    },
+    {
+      "group_id": "modified_select_chop(3)/023",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/023/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/023/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/023/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/023/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/023/E.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/023/F.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/023/G.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/023/H.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/023/I.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/023/J.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/023/K.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/023/L.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/023/M.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/023/N.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/023/O.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/023/P.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/023/Q.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/023/R.png"
+      ]
+    },
+    {
+      "group_id": "modified_select_chop/0195",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0195/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0195/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0195/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0195/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0195/E.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0195/F.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0195/G.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0195/H.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0195/I.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0195/J.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0195/K.png"
+      ]
+    },
+    {
+      "group_id": "dataset-tianhe-withsum/0174",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/0174/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/0174/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/0174/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/0174/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/0174/E.png"
+      ]
+    },
+    {
+      "group_id": "dataset-2023-615-withsum/0128",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0128/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0128/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0128/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0128/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0128/E.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0128/F.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0128/G.png"
+      ]
+    },
+    {
+      "group_id": "dataset-tianhe-withsum/02",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/02/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/02/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/02/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/02/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/02/E.png"
+      ]
+    },
+    {
+      "group_id": "modified_select_chop(2)/0154",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0154/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0154/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0154/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0154/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0154/E.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0154/F.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0154/G.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0154/H.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0154/I.png"
+      ]
+    },
+    {
+      "group_id": "dataset-tianhe-withsum/0145",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/0145/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/0145/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/0145/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/0145/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/0145/E.png"
+      ]
+    },
+    {
+      "group_id": "modified_select_chop(2)/0173",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0173/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0173/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0173/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0173/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0173/E.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0173/F.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0173/G.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0173/H.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0173/I.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0173/J.png"
+      ]
+    },
+    {
+      "group_id": "dataset-2023-615-withsum/093",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/093/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/093/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/093/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/093/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/093/E.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/093/F.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/093/G.png"
+      ]
+    },
+    {
+      "group_id": "dataset-tianhe-withsum/0150",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/0150/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/0150/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/0150/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/0150/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/0150/E.png"
+      ]
+    },
+    {
+      "group_id": "dataset-2023-615-withsum/0141",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0141/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0141/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0141/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0141/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0141/E.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0141/F.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0141/G.png"
+      ]
+    },
+    {
+      "group_id": "modified_select_chop(3)/046",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/046/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/046/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/046/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/046/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/046/E.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/046/F.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/046/G.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/046/H.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/046/I.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/046/J.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/046/K.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/046/L.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/046/M.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/046/N.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/046/O.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/046/P.png"
+      ]
+    },
+    {
+      "group_id": "modified_select_chop(2)/025",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/025/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/025/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/025/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/025/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/025/E.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/025/F.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/025/G.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/025/H.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/025/J.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/025/K.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/025/L.png"
+      ]
+    },
+    {
+      "group_id": "dataset-2023-615-withsum/075",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/075/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/075/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/075/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/075/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/075/E.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/075/F.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/075/G.png"
+      ]
+    },
+    {
+      "group_id": "dataset-tianhe-withsum/0136",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/0136/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/0136/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/0136/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/0136/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/0136/E.png"
+      ]
+    },
+    {
+      "group_id": "dataset-2023-615-withsum/0155",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0155/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0155/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0155/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0155/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0155/E.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0155/F.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0155/G.png"
+      ]
+    },
+    {
+      "group_id": "modified_select_chop/054",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/054/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/054/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/054/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/054/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/054/E.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/054/F.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/054/G.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/054/I.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/054/J.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/054/K.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/054/L.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/054/M.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/054/N.png"
+      ]
+    },
+    {
+      "group_id": "modified_select_chop(2)/0121",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0121/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0121/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0121/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0121/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0121/E.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0121/F.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0121/G.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0121/H.png"
+      ]
+    },
+    {
+      "group_id": "dataset-2023-615-withsum/02",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/02/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/02/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/02/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/02/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/02/E.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/02/F.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/02/G.png"
+      ]
+    },
+    {
+      "group_id": "dataset-2023-615-withsum/0177",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0177/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0177/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0177/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0177/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0177/E.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0177/F.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0177/G.png"
+      ]
+    },
+    {
+      "group_id": "modified_select_chop(2)/0177",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0177/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0177/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0177/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0177/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0177/E.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0177/F.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0177/G.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0177/H.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0177/I.png"
+      ]
+    },
+    {
+      "group_id": "dataset-2023-615-withsum/0208",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0208/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0208/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0208/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0208/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0208/E.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0208/F.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0208/G.png"
+      ]
+    },
+    {
+      "group_id": "dataset-2023-615-withsum/0156",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0156/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0156/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0156/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0156/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0156/E.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0156/F.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/0156/G.png"
+      ]
+    },
+    {
+      "group_id": "modified_select_chop(3)/057",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/057/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/057/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/057/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/057/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/057/E.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/057/F.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/057/G.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/057/H.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/057/I.png"
+      ]
+    },
+    {
+      "group_id": "modified_select_chop/013",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/013/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/013/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/013/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/013/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/013/F.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/013/G.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/013/H.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/013/I.png"
+      ]
+    },
+    {
+      "group_id": "dataset-tianhe-withsum/0153",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/0153/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/0153/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/0153/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/0153/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/0153/E.png"
+      ]
+    },
+    {
+      "group_id": "modified_select_chop(3)/032",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/032/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/032/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/032/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/032/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/032/E.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/032/F.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/032/G.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/032/H.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/032/I.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/032/J.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/032/K.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/032/L.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/032/M.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/032/N.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/032/O.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/032/P.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/032/Q.png"
+      ]
+    },
+    {
+      "group_id": "dataset-tianhe-withsum/0208",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/0208/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/0208/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/0208/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/0208/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/0208/E.png"
+      ]
+    },
+    {
+      "group_id": "dataset-2023-615-withsum/085",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/085/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/085/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/085/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/085/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/085/E.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/085/F.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/085/G.png"
+      ]
+    },
+    {
+      "group_id": "modified_select_chop/030",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/030/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/030/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/030/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/030/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/030/F.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/030/I.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/030/J.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/030/K.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/030/L.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/030/M.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/030/N.png"
+      ]
+    },
+    {
+      "group_id": "modified_select_chop/0146",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0146/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0146/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0146/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0146/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0146/E.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0146/F.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0146/G.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0146/H.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0146/I.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0146/J.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0146/K.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0146/L.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0146/M.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0146/N.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0146/O.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0146/Q.png"
+      ]
+    },
+    {
+      "group_id": "modified_select_chop/0121",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0121/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0121/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0121/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0121/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0121/E.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0121/F.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0121/G.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0121/H.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0121/I.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0121/J.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0121/K.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0121/L.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0121/M.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0121/N.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0121/O.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0121/P.png"
+      ]
+    },
+    {
+      "group_id": "modified_select_chop(3)/028",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/028/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/028/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/028/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/028/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/028/E.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/028/F.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/028/G.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/028/H.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/028/I.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/028/J.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/028/K.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/028/L.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/028/M.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/028/N.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/028/O.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/028/P.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/028/Q.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/028/R.png"
+      ]
+    },
+    {
+      "group_id": "modified_select_chop/0100",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0100/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0100/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0100/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0100/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0100/E.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0100/F.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0100/G.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0100/H.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0100/I.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0100/J.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0100/K.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0100/L.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0100/M.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0100/N.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0100/O.png"
+      ]
+    },
+    {
+      "group_id": "modified_select_chop(2)/0136",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0136/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0136/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0136/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0136/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0136/E.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0136/F.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0136/G.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0136/H.png"
+      ]
+    },
+    {
+      "group_id": "modified_select_chop/02",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/02/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/02/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/02/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/02/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/02/E.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/02/F.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/02/G.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/02/H.png"
+      ]
+    },
+    {
+      "group_id": "dataset-tianhe-withsum/08",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/08/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/08/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/08/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/08/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/08/E.png"
+      ]
+    },
+    {
+      "group_id": "modified_select_chop(3)/0109",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/0109/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/0109/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/0109/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/0109/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/0109/E.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/0109/F.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/0109/G.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/0109/H.png"
+      ]
+    },
+    {
+      "group_id": "modified_select_chop(3)/095",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/095/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/095/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/095/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/095/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/095/E.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/095/F.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/095/G.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/095/H.png"
+      ]
+    },
+    {
+      "group_id": "modified_select_chop(2)/0146",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0146/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0146/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0146/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0146/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0146/E.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0146/F.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0146/G.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0146/H.png"
+      ]
+    },
+    {
+      "group_id": "modified_select_chop(2)/0161",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0161/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0161/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0161/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0161/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0161/E.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0161/F.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0161/G.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0161/H.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0161/I.png"
+      ]
+    },
+    {
+      "group_id": "modified_select_chop(2)/019",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/019/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/019/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/019/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/019/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/019/E.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/019/F.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/019/G.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/019/H.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/019/I.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/019/K.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/019/L.png"
+      ]
+    },
+    {
+      "group_id": "dataset-tianhe-withsum/0168",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/0168/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/0168/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/0168/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/0168/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-tianhe-withsum/0168/E.png"
+      ]
+    },
+    {
+      "group_id": "modified_select_chop/080",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/080/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/080/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/080/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/080/E.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/080/F.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/080/G.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/080/H.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/080/I.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/080/J.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/080/K.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/080/L.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/080/M.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/080/O.png"
+      ]
+    },
+    {
+      "group_id": "modified_select_chop(2)/0104",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0104/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0104/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0104/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0104/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0104/E.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0104/F.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0104/G.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0104/H.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0104/I.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0104/J.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0104/K.png"
+      ]
+    },
+    {
+      "group_id": "data-xiongan-withsum/06",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/data-xiongan-withsum/06/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/data-xiongan-withsum/06/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/data-xiongan-withsum/06/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/data-xiongan-withsum/06/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/data-xiongan-withsum/06/E.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/data-xiongan-withsum/06/F.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/data-xiongan-withsum/06/G.png"
+      ]
+    },
+    {
+      "group_id": "dataset-2023-615-withsum/033",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/033/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/033/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/033/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/033/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/033/E.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/033/F.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/dataset-2023-615-withsum/033/G.png"
+      ]
+    },
+    {
+      "group_id": "modified_select_chop/074",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/074/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/074/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/074/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/074/E.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/074/F.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/074/G.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/074/H.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/074/I.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/074/J.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/074/K.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/074/L.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/074/M.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/074/N.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/074/O.png"
+      ]
+    },
+    {
+      "group_id": "modified_select_chop/0193",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0193/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0193/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0193/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0193/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0193/E.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0193/F.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0193/G.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0193/H.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0193/I.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0193/J.png"
+      ]
+    },
+    {
+      "group_id": "modified_select_chop(2)/04",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/04/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/04/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/04/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/04/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/04/E.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/04/F.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/04/G.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/04/H.png"
+      ]
+    },
+    {
+      "group_id": "modified_select_chop/0122",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0122/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0122/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0122/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0122/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0122/E.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0122/H.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0122/I.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0122/J.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0122/K.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0122/L.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0122/M.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0122/N.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0122/O.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0122/P.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0122/Q.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0122/R.png"
+      ]
+    },
+    {
+      "group_id": "modified_select_chop(2)/057",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/057/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/057/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/057/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/057/E.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/057/F.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/057/G.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/057/H.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/057/I.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/057/J.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/057/K.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/057/L.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/057/M.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/057/N.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/057/O.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/057/P.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/057/Q.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/057/R.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/057/S.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/057/T.png"
+      ]
+    },
+    {
+      "group_id": "modified_select_chop(3)/022",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/022/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/022/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/022/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/022/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/022/E.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/022/F.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/022/G.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/022/H.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/022/I.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/022/J.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/022/K.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/022/L.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/022/M.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/022/N.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/022/O.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/022/P.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/022/Q.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/022/R.png"
+      ]
+    },
+    {
+      "group_id": "modified_select_chop(3)/065",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/065/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/065/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/065/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/065/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/065/E.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/065/F.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/065/G.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/065/H.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/065/I.png"
+      ]
+    },
+    {
+      "group_id": "modified_select_chop(3)/015",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/015/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/015/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/015/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/015/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/015/E.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/015/F.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/015/G.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/015/H.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/015/I.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/015/J.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/015/K.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/015/L.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/015/M.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/015/N.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/015/O.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(3)/015/P.png"
+      ]
+    },
+    {
+      "group_id": "modified_select_chop/08",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/08/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/08/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/08/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/08/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/08/F.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/08/I.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/08/J.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/08/K.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/08/L.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/08/M.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/08/N.png"
+      ]
+    },
+    {
+      "group_id": "modified_select_chop(2)/0134",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0134/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0134/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0134/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0134/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0134/E.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0134/F.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0134/G.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0134/H.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0134/I.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0134/J.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/0134/K.png"
+      ]
+    },
+    {
+      "group_id": "modified_select_chop(2)/035",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/035/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/035/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/035/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/035/E.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/035/F.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/035/G.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/035/H.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/035/I.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/035/J.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/035/K.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop(2)/035/L.png"
+      ]
+    },
+    {
+      "group_id": "modified_select_chop/0196",
+      "images": [
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0196/A.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0196/B.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0196/C.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0196/D.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0196/E.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0196/F.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0196/G.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0196/H.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0196/I.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0196/J.png",
+        "/data/ss/benchmark/dataset/dataset/dataset/modified_select_chop/0196/K.png"
+      ]
+    }
+  ],
+  "split": "test",
+  "num_groups": 200
+}

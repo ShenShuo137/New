@@ -1,0 +1,3202 @@
+[
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop(2)/0132/H.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop(2)/0132/A.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/dataset-2023-615-withsum/0137/B.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/dataset-2023-615-withsum/0137/E.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/dataset-2023-615-withsum/074/B.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/dataset-2023-615-withsum/074/E.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop/0135/L.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop/0135/K.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop(2)/047/A.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop(2)/047/G.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop/0108/D.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop/0108/L.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/dataset-tianhe-withsum/0113/D.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/dataset-tianhe-withsum/0113/B.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop(2)/084/D.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop(2)/084/G.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop(2)/081/I.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop(2)/081/F.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop(2)/0145/G.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop(2)/0145/D.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/dataset-2023-615-withsum/0107/G.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/dataset-2023-615-withsum/0107/C.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/dataset-2023-615-withsum/0116/D.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/dataset-2023-615-withsum/0116/E.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop(2)/0194/F.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop(2)/0194/D.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/dataset-2023-615-withsum/0180/B.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/dataset-2023-615-withsum/0180/C.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop(2)/0148/G.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop(2)/0148/A.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/dataset-2023-615-withsum/035/F.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/dataset-2023-615-withsum/035/B.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop/0187/E.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop/0187/I.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/dataset-2023-615-withsum/022/F.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/dataset-2023-615-withsum/022/E.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop(2)/07/B.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop(2)/07/C.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop/087/H.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop/087/K.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/data-xiongan-withsum/01/D.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/data-xiongan-withsum/01/E.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop(3)/058/F.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop(3)/058/E.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/data-xiongan-withsum/023/D.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/data-xiongan-withsum/023/F.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/dataset-tianhe-withsum/0139/E.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/dataset-tianhe-withsum/0139/D.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop(2)/083/C.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop(2)/083/F.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/dataset-tianhe-withsum/098/D.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/dataset-tianhe-withsum/098/E.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/dataset-tianhe-withsum/093/E.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/dataset-tianhe-withsum/093/A.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop/089/L.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop/089/B.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/dataset-2023-615-withsum/0195/D.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/dataset-2023-615-withsum/0195/A.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop(2)/036/E.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop(2)/036/L.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/dataset-2023-615-withsum/0120/A.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/dataset-2023-615-withsum/0120/B.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop(2)/087/C.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop(2)/087/I.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop(2)/067/K.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop(2)/067/O.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/dataset-2023-615-withsum/0229/F.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/dataset-2023-615-withsum/0229/D.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop/036/A.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop/036/I.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop/035/A.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop/035/L.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop/0141/J.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop/0141/R.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/dataset-2023-615-withsum/0182/A.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/dataset-2023-615-withsum/0182/E.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop/041/K.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop/041/G.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/dataset-tianhe-withsum/0182/B.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/dataset-tianhe-withsum/0182/A.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/dataset-tianhe-withsum/037/B.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/dataset-tianhe-withsum/037/E.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop/0172/I.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop/0172/J.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop(2)/0121/F.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop(2)/0121/C.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop(2)/0103/B.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop(2)/0103/G.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/dataset-tianhe-withsum/010/D.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/dataset-tianhe-withsum/010/B.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/dataset-2023-615-withsum/04/B.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/dataset-2023-615-withsum/04/C.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/dataset-tianhe-withsum/014/E.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/dataset-tianhe-withsum/014/A.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/dataset-2023-615-withsum/050/D.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/dataset-2023-615-withsum/050/G.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/dataset-2023-615-withsum/01/F.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/dataset-2023-615-withsum/01/A.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop(3)/0120/A.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop(3)/0120/C.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/data-xiongan-withsum/025/D.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/data-xiongan-withsum/025/F.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop(2)/0180/A.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop(2)/0180/B.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/dataset-2023-615-withsum/0169/G.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/dataset-2023-615-withsum/0169/F.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop(3)/011/E.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop(3)/011/P.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop(2)/073/B.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop(2)/073/K.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop(3)/014/B.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop(3)/014/C.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop/0137/L.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop/0137/A.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/dataset-tianhe-withsum/0136/E.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/dataset-tianhe-withsum/0136/B.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/dataset-2023-615-withsum/0155/F.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/dataset-2023-615-withsum/0155/D.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/dataset-tianhe-withsum/045/C.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/dataset-tianhe-withsum/045/B.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/dataset-tianhe-withsum/0204/E.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/dataset-tianhe-withsum/0204/D.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/dataset-2023-615-withsum/060/C.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/dataset-2023-615-withsum/060/E.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop(3)/042/E.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop(3)/042/C.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/dataset-tianhe-withsum/0162/A.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/dataset-tianhe-withsum/0162/C.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/dataset-2023-615-withsum/019/A.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/dataset-2023-615-withsum/019/B.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/dataset-2023-615-withsum/034/G.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/dataset-2023-615-withsum/034/E.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop(3)/030/K.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop(3)/030/M.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop/024/I.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop/024/E.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop(3)/062/G.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop(3)/062/F.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/dataset-tianhe-withsum/025/D.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/dataset-tianhe-withsum/025/E.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/dataset-tianhe-withsum/0135/E.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/dataset-tianhe-withsum/0135/C.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop(2)/050/S.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop(2)/050/C.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop(2)/0133/H.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop(2)/0133/C.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop(2)/0124/G.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop(2)/0124/C.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop(3)/026/J.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop(3)/026/A.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop/0196/B.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop/0196/E.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/dataset-2023-615-withsum/0147/D.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/dataset-2023-615-withsum/0147/B.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/dataset-2023-615-withsum/0118/G.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/dataset-2023-615-withsum/0118/E.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop(2)/051/C.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop(2)/051/A.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/dataset-tianhe-withsum/040/A.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/dataset-tianhe-withsum/040/C.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/dataset-2023-615-withsum/044/C.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/dataset-2023-615-withsum/044/A.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop(3)/032/C.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop(3)/032/H.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/dataset-2023-615-withsum/078/F.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/dataset-2023-615-withsum/078/B.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/dataset-2023-615-withsum/0128/C.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/dataset-2023-615-withsum/0128/B.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/dataset-2023-615-withsum/0151/B.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/dataset-2023-615-withsum/0151/D.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop(3)/059/E.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop(3)/059/G.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/dataset-tianhe-withsum/068/A.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/dataset-tianhe-withsum/068/D.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/dataset-tianhe-withsum/0157/B.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/dataset-tianhe-withsum/0157/D.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop/0186/H.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop/0186/D.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop(2)/0147/E.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop(2)/0147/A.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/dataset-2023-615-withsum/0125/E.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/dataset-2023-615-withsum/0125/C.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/data-xiongan-withsum/015/C.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/data-xiongan-withsum/015/G.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop/0123/P.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop/0123/R.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop(2)/079/E.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop(2)/079/C.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/dataset-2023-615-withsum/0143/B.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/dataset-2023-615-withsum/0143/F.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop/0107/F.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop/0107/G.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/dataset-2023-615-withsum/0218/C.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/dataset-2023-615-withsum/0218/F.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/dataset-2023-615-withsum/014/D.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/dataset-2023-615-withsum/014/E.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop(2)/01/D.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop(2)/01/F.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop(3)/044/F.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop(3)/044/M.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/dataset-2023-615-withsum/0146/E.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/dataset-2023-615-withsum/0146/B.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop(3)/04/F.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop(3)/04/A.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/dataset-tianhe-withsum/0124/B.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/dataset-tianhe-withsum/0124/D.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/dataset-tianhe-withsum/026/C.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/dataset-tianhe-withsum/026/A.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop/0181/L.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop/0181/H.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/dataset-tianhe-withsum/0208/B.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/dataset-tianhe-withsum/0208/C.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop(2)/064/O.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop(2)/064/C.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/dataset-2023-615-withsum/024/A.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/dataset-2023-615-withsum/024/D.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/dataset-tianhe-withsum/0199/E.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/dataset-tianhe-withsum/0199/D.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop(2)/0125/E.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop(2)/0125/G.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop(2)/0157/B.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop(2)/0157/F.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop/053/D.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop/053/L.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop(2)/072/C.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop(2)/072/K.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop(2)/0182/G.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop(2)/0182/F.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop(2)/0155/B.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop(2)/0155/G.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop/0121/I.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop/0121/D.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop(3)/067/D.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop(3)/067/J.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/dataset-2023-615-withsum/0228/D.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/dataset-2023-615-withsum/0228/G.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop(3)/064/C.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop(3)/064/I.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/dataset-2023-615-withsum/052/D.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/dataset-2023-615-withsum/052/A.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop/076/B.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop/076/H.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop/0130/M.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop/0130/E.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/dataset-2023-615-withsum/0177/D.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/dataset-2023-615-withsum/0177/B.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop/095/H.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop/095/F.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/dataset-2023-615-withsum/0201/G.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/dataset-2023-615-withsum/0201/F.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/dataset-tianhe-withsum/0202/C.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/dataset-tianhe-withsum/0202/A.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop(2)/0166/B.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop(2)/0166/A.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop(2)/0142/B.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop(2)/0142/G.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/dataset-2023-615-withsum/0131/F.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/dataset-2023-615-withsum/0131/B.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/dataset-2023-615-withsum/088/B.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/dataset-2023-615-withsum/088/E.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop(2)/013/D.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop(2)/013/G.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop(3)/083/F.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop(3)/083/G.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/data-xiongan-withsum/05/G.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/data-xiongan-withsum/05/F.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop/045/A.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop/045/L.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/dataset-tianhe-withsum/051/B.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/dataset-tianhe-withsum/051/D.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop/065/G.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop/065/A.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/data-xiongan-withsum/010/B.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/data-xiongan-withsum/010/C.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/dataset-tianhe-withsum/038/A.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/dataset-tianhe-withsum/038/E.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/dataset-2023-615-withsum/0145/B.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/dataset-2023-615-withsum/0145/E.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop/0174/H.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop/0174/D.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop(2)/0198/F.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop(2)/0198/D.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop(3)/035/K.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop(3)/035/N.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/dataset-2023-615-withsum/0124/A.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/dataset-2023-615-withsum/0124/E.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/dataset-tianhe-withsum/07/D.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/dataset-tianhe-withsum/07/B.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop(2)/024/E.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop(2)/024/K.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/dataset-tianhe-withsum/0143/C.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/dataset-tianhe-withsum/0143/B.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop/0194/B.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop/0194/E.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/dataset-tianhe-withsum/089/D.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/dataset-tianhe-withsum/089/B.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop/0184/J.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop/0184/C.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop(2)/082/C.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop(2)/082/H.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/dataset-tianhe-withsum/0206/E.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/dataset-tianhe-withsum/0206/B.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/dataset-2023-615-withsum/0212/G.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/dataset-2023-615-withsum/0212/B.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop(3)/0117/E.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop(3)/0117/H.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop/09/A.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop/09/F.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop(2)/02/G.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop(2)/02/D.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/dataset-tianhe-withsum/0198/D.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/dataset-tianhe-withsum/0198/E.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop(2)/0175/H.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop(2)/0175/G.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/dataset-2023-615-withsum/065/G.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/dataset-2023-615-withsum/065/D.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop/083/K.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop/083/A.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop(2)/0152/E.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop(2)/0152/D.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/dataset-2023-615-withsum/0183/E.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/dataset-2023-615-withsum/0183/B.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop/028/I.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop/028/K.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop(2)/054/R.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop(2)/054/Q.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop(2)/030/B.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop(2)/030/E.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop(3)/084/F.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop(3)/084/E.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/dataset-2023-615-withsum/042/F.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/dataset-2023-615-withsum/042/A.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/dataset-tianhe-withsum/0138/D.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/dataset-tianhe-withsum/0138/B.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop(3)/033/H.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop(3)/033/J.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/dataset-tianhe-withsum/0163/D.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/dataset-tianhe-withsum/0163/A.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop(2)/0173/B.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop(2)/0173/H.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/dataset-2023-615-withsum/070/B.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/dataset-2023-615-withsum/070/A.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/dataset-2023-615-withsum/045/F.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/dataset-2023-615-withsum/045/E.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/dataset-2023-615-withsum/0136/G.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/dataset-2023-615-withsum/0136/F.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop(3)/031/N.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop(3)/031/F.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/dataset-2023-615-withsum/0135/G.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/dataset-2023-615-withsum/0135/B.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop/0144/J.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop/0144/B.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/dataset-2023-615-withsum/033/C.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/dataset-2023-615-withsum/033/E.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/dataset-tianhe-withsum/0116/E.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/dataset-tianhe-withsum/0116/C.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop(3)/051/I.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop(3)/051/N.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop(3)/023/D.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop(3)/023/E.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop/0106/O.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop/0106/N.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop/07/F.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop/07/C.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop/094/E.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop/094/C.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/dataset-tianhe-withsum/079/C.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/dataset-tianhe-withsum/079/B.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/dataset-2023-615-withsum/0221/D.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/dataset-2023-615-withsum/0221/F.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop/0127/M.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop/0127/K.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/data-xiongan-withsum/017/D.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/data-xiongan-withsum/017/A.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop(2)/014/B.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop(2)/014/G.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/dataset-2023-615-withsum/05/C.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/dataset-2023-615-withsum/05/F.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/dataset-2023-615-withsum/0142/C.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/dataset-2023-615-withsum/0142/D.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop/0163/K.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop/0163/A.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/dataset-2023-615-withsum/057/F.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/dataset-2023-615-withsum/057/G.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop/0192/H.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop/0192/F.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop(3)/092/G.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop(3)/092/I.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop(3)/045/P.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop(3)/045/N.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop(3)/065/E.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop(3)/065/F.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/dataset-2023-615-withsum/0181/C.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/dataset-2023-615-withsum/0181/E.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop/0152/N.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop/0152/Q.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "False"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop/018/I.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/modified_select_chop/018/A.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Picture 1: <image> Picture 2: <image>\n\nYou are given two pictures: Picture 1 and Picture 2.\n\nPlease determine whether their temporal order is correct.\nPicture 1 appears earlier than Picture 2 in time.\nAnswer with 'True' if the order is correct, otherwise answer with 'False'."
+      },
+      {
+        "role": "assistant",
+        "content": "True"
+      }
+    ],
+    "images": [
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/dataset-2023-615-withsum/0130/D.png",
+      "/openbayes/home/dataset_256x256_20250723_154123/dataset_clear/dataset-2023-615-withsum/0130/G.png"
+    ]
+  }
+]
