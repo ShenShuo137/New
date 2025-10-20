@@ -1,4 +1,4 @@
-name: PR Agent - Compatible Version
+name: PR Agent
 
 on:
   pull_request:
@@ -20,14 +20,13 @@ jobs:
       with:
         python-version: '3.11'
     
-    - name: 安装兼容版本
+    - name: 安装 PR Agent
       run: |
-        pip install "openai==1.12.0"
         pip install pr-agent
-        echo "📦 安装版本："
-        pip show openai | grep Version
+        echo "📦 版本信息："
+        pip show openai litellm pr-agent | grep -E "Name:|Version:"
     
-    - name: 创建配置
+    - name: 创建配置文件
       run: |
         cat > .pr_agent.toml << 'EOF'
         [config]
@@ -37,15 +36,25 @@ jobs:
         
         [openai]
         api_base = "https://open.bigmodel.cn/api/paas/v4/"
+        
+        [litellm]
+        drop_params = true
+        
+        [pr_reviewer]
+        require_all_thresholds_for_incremental_review = false
         EOF
         
         cat > .secrets.toml << EOF
         [openai]
         api_key = "${{ secrets.ZHIPU_API_KEY }}"
         EOF
+        
+        echo "📄 配置文件："
+        cat .pr_agent.toml
     
     - name: 运行审查
       env:
         GITHUB__USER_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
+        echo "🔍 开始审查 PR #${{ github.event.pull_request.number }}"
         pr-agent --pr_url="${{ github.event.pull_request.html_url }}" review
