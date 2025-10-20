@@ -1,8 +1,9 @@
-name: PR-Agent 智能代码审查
+# .github/workflows/pr-agent.yml
+name: PR Agent
 
 on:
   pull_request:
-    types: [opened, reopened, synchronize, ready_for_review]
+    types: [opened, synchronize]
 
 permissions:
   contents: read
@@ -12,67 +13,21 @@ permissions:
 jobs:
   pr_agent_job:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
-    name: 运行 PR-Agent
-    
-    if: github.event.pull_request.draft == false
-    
     steps:
-      - name: 检出代码
-        uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
+    - name: 检出代码
+      uses: actions/checkout@v4
+    
+    - name: 设置 Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.11'
+    
+    - name: PR Agent action step
+      run: pip install pr-agent
       
-      - name: 设置 Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.11'
-      
-      - name: 安装 PR-Agent
-        run: |
-          pip install --upgrade pip
-          pip install pr-agent
-      
-      - name: 创建配置文件
-        run: |
-          cat > /tmp/pr_agent_config.toml << 'EOF'
-          [config]
-          model = "glm-4-flash"
-          git_provider = "github"
-          publish_output = true
-          
-          [openai]
-          api_base = "https://open.bigmodel.cn/api/paas/v4/"
-          api_type = "azure"
-          
-          [pr_reviewer]
-          auto_review = true
-          require_security_review = true
-          num_code_suggestions = 4
-          inline_code_comments = true
-          
-          [github]
-          # 通过环境变量传递
-          EOF
-      
-      - name: 运行代码审查
-        env:
-          # ✅ 关键：使用正确的环境变量名称
-          OPENAI_KEY: ${{ secrets.ZHIPU_API_KEY }}
-          GITHUB.USER_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          
-        run: |
-          set -x
-          
-          echo "📋 PR 信息："
-          echo "  Number: #${{ github.event.pull_request.number }}"
-          echo "  URL: ${{ github.event.pull_request.html_url }}"
-          
-          # 使用配置文件
-          export CONFIG_PATH=/tmp/pr_agent_config.toml
-          
-          # 运行审查
-          pr-agent \
-            --pr_url="${{ github.event.pull_request.html_url }}" \
-            --config_path=$CONFIG_PATH \
-            review
+    - name: 运行 PR Agent
+      env:
+        OPENAI_KEY: ${{ secrets.ZHIPU_API_KEY }}
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      run: |
+        pr-agent --pr_url="${{ github.event.pull_request.html_url }}" review
