@@ -1,4 +1,4 @@
-name: PR Agent - Downgrade OpenAI
+name: PR Agent - Downgraded OpenAI
 
 on:
   pull_request:
@@ -12,61 +12,81 @@ jobs:
   review:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v4
+    - name: 检出代码
+      uses: actions/checkout@v4
       with:
         ref: ${{ github.event.pull_request.head.sha }}
     
-    - uses: actions/setup-python@v5
+    - name: 设置 Python
+      uses: actions/setup-python@v5
       with:
         python-version: '3.11'
     
-    - name: 安装兼容版本
+    - name: 安装 PR Agent 并降级 OpenAI
       run: |
-        # 先安装旧版 OpenAI SDK（支持 proxies）
-        pip install "openai==1.12.0"
+        echo "📦 安装 PR Agent..."
+        pip install pr-agent
         
-        # 再安装 pr-agent（不会升级 openai）
-        pip install pr-agent --no-deps
+        echo "📦 当前 OpenAI 版本："
+        pip show openai | grep Version
         
-        # 安装其他依赖
-        pip install aiohttp anthropic atlassian-python-api azure-devops azure-identity \
-                    boto3 certifi dynaconf fastapi GitPython google-cloud-aiplatform \
-                    google-generativeai google-cloud-storage Jinja2 litellm loguru \
-                    msrest PyGithub PyYAML python-gitlab retry starlette-context \
-                    tiktoken ujson uvicorn tenacity gunicorn pydantic html2text giteapy
+        echo "⬇️ 强制降级到兼容版本..."
+        pip install --force-reinstall "openai==1.12.0"
         
-        echo "📦 关键版本："
+        echo "✅ 降级后版本："
         pip show openai litellm pr-agent | grep -E "Name:|Version:"
     
     - name: 创建配置文件
       run: |
-        cat > .pr_agent.toml << 'EOF'
+        # 主配置
+        cat > configuration.toml << 'EOF'
         [config]
         model = "openai/glm-4-flash"
         custom_model_max_tokens = 128000
         fallback_models = []
         
-        [openai]
-        api_base = "https://open.bigmodel.cn/api/paas/v4/"
-        
         [litellm]
         drop_params = true
+        
+        [pr_reviewer]
+        require_all_thresholds_for_incremental_review = false
         EOF
         
+        # 密钥配置
         cat > .secrets.toml << EOF
         [openai]
         api_key = "${{ secrets.ZHIPU_API_KEY }}"
+        api_base = "https://open.bigmodel.cn/api/paas/v4/"
         EOF
         
-        echo "📄 配置文件："
-        cat .pr_agent.toml
-        
-        # 验证配置文件在当前目录
-        ls -la .pr_agent.toml .secrets.toml
+        echo "📄 配置文件内容："
+        cat configuration.toml
     
-    - name: 运行审查
+    - name: 测试智谱 API（快速验证）
+      env:
+        ZHIPU_API_KEY: ${{ secrets.ZHIPU_API_KEY }}
+      run: |
+        python3 << 'EOF'
+        import os
+        from openai import OpenAI
+        
+        print("🔍 测试智谱 API...")
+        client = OpenAI(
+            api_key=os.environ["ZHIPU_API_KEY"],
+            base_url="https://open.bigmodel.cn/api/paas/v4/"
+        )
+        
+        response = client.chat.completions.create(
+            model="glm-4-flash",
+            messages=[{"role": "user", "content": "Hi"}],
+            max_tokens=10
+        )
+        print("✅ API 测试成功！")
+        EOF
+    
+    - name: 运行 PR Agent
       env:
         GITHUB__USER_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
-        echo "🔍 开始审查 PR #${{ github.event.pull_request.number }}"
+        echo "🚀 开始审查 PR #${{ github.event.pull_request.number }}"
         pr-agent --pr_url="${{ github.event.pull_request.html_url }}" review
