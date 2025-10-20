@@ -1,4 +1,4 @@
-name: PR-Agent 智能代码审查
+name: PR-Agent 智能代码审查 (Python版)
 
 on:
   pull_request:
@@ -21,15 +21,66 @@ jobs:
       github.event.sender.type != 'Bot'
     
     steps:
-      - name: PR-Agent 代码审查
-        uses: Codium-ai/pr-agent@v0.22  # ✅ 改这里！使用稳定版本
+      # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+      # 1. 检出代码
+      # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+      - name: 检出仓库代码
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0  # 获取完整历史以便分析差异
+      
+      # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+      # 2. 设置 Python 环境
+      # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+      - name: 设置 Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+      
+      # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+      # 3. 安装 PR-Agent（Python 版本）
+      # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+      - name: 安装 PR-Agent
+        run: |
+          pip install --upgrade pip
+          pip install pr-agent
+      
+      # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+      # 4. 运行 PR-Agent 审查
+      # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+      - name: 运行代码审查
         env:
+          # 智谱 GLM 配置
           OPENAI_KEY: ${{ secrets.ZHIPU_API_KEY }}
           OPENAI_API_BASE: "https://open.bigmodel.cn/api/paas/v4/"
           OPENAI_API_TYPE: "azure"
           CONFIG.MODEL: "glm-4-flash"
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           
+          # GitHub 配置
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+          GITHUB_EVENT_NAME: ${{ github.event_name }}
+          
+          # PR-Agent 配置
+          CONFIG.GIT_PROVIDER: "github"
           PR_REVIEWER.AUTO_REVIEW: "true"
           PR_REVIEWER.REQUIRE_SECURITY_REVIEW: "true"
           PR_REVIEWER.NUM_CODE_SUGGESTIONS: "4"
+          PR_REVIEWER.INLINE_CODE_COMMENTS: "true"
+          PR_DESCRIPTION.PUBLISH_DESCRIPTION_AS_COMMENT: "true"
+          PR_DESCRIPTION.ENABLE_AI_SUMMARY: "true"
+        
+        run: |
+          # 获取 PR 编号
+          if [ "${{ github.event_name }}" == "pull_request" ]; then
+            PR_NUMBER=${{ github.event.pull_request.number }}
+          else
+            PR_NUMBER=$(jq -r .issue.number "$GITHUB_EVENT_PATH")
+          fi
+          
+          echo "🔍 正在审查 PR #$PR_NUMBER"
+          
+          # 运行 PR-Agent
+          pr-agent review \
+            --pr-url="${{ github.event.pull_request.html_url || github.event.issue.pull_request.html_url }}"
