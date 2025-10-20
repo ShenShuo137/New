@@ -15,6 +15,8 @@ jobs:
     steps:
     - name: 检出代码
       uses: actions/checkout@v4
+      with:
+        ref: ${{ github.event.pull_request.head.sha }}  # 只检出 PR 分支
     
     - name: 设置 Python
       uses: actions/setup-python@v5
@@ -35,26 +37,25 @@ jobs:
         
     - name: 运行 PR Agent
       env:
-        # OpenAI 兼容 API（移除 api_type）
-        OPENAI__KEY: ${{ secrets.ZHIPU_API_KEY }}
-        OPENAI__API_BASE: "https://open.bigmodel.cn/api/paas/v4/"
-        # ❌ 移除这行：OPENAI__API_TYPE: "azure"
+        # ✅ OpenAI 兼容 API（标准格式）
+        OPENAI_API_KEY: ${{ secrets.ZHIPU_API_KEY }}
+        OPENAI_API_BASE: "https://open.bigmodel.cn/api/paas/v4/"
         
-        # GitHub Token
+        # ✅ GitHub Token
         GITHUB__USER_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         
-        # 模型配置
-        CONFIG__MODEL: "glm-4-flash"
+        # ✅ 模型配置（带 openai/ 前缀）
+        CONFIG__MODEL: "openai/glm-4-flash"
         CONFIG__CUSTOM_MODEL_MAX_TOKENS: "128000"
         CONFIG__FALLBACK_MODELS: "[]"
         
-        # 禁用额外指令（覆盖可能存在的配置）
+        # ✅ 覆盖额外配置
         PR_REVIEWER__EXTRA_INSTRUCTIONS: ""
         PR_REVIEWER__REQUIRE_SECURITY_REVIEW: "false"
         PR_REVIEWER__NUM_CODE_SUGGESTIONS: "4"
       run: |
         echo "📋 环境变量检查："
-        env | grep -E "CONFIG__|OPENAI__|PR_REVIEWER__" | grep -v "KEY" | sort
+        env | grep -E "CONFIG__|OPENAI_|PR_REVIEWER__" | grep -v "KEY" | sort
         echo ""
         echo "🔍 开始审查 PR #${{ github.event.pull_request.number }}"
         pr-agent --pr_url="${{ github.event.pull_request.html_url }}" review
