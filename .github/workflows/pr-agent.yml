@@ -13,7 +13,6 @@ permissions:
 
 jobs:
   pr_agent_job:
-    # 修正：与官方文档保持一致的命名
     if: ${{ github.event.sender.type != 'Bot' }}
     
     runs-on: ubuntu-latest
@@ -34,22 +33,39 @@ jobs:
           OPENAI.API_BASE: "https://open.bigmodel.cn/api/paas/v4/"
           
           # ═══════════════════════════════════════════════════
-          # 模型配置（使用点号格式）
+          # 模型配置
           # ═══════════════════════════════════════════════════
           config.model: "openai/glm-4-plus"
           config.fallback_models: '["openai/glm-4-air"]'
-          config.custom_model_max_tokens: "128000"
-          config.model_temperature: "0.2"
           config.language: "zh"
-          config.git_provider: "github"
-          config.verbosity_level: "1"
           
           # ═══════════════════════════════════════════════════
-          # GitHub Action 自动触发配置
+          # ⭐ 关键配置：启用自动工具
           # ═══════════════════════════════════════════════════
           github_action_config.auto_review: "true"
           github_action_config.auto_describe: "true"
           github_action_config.auto_improve: "true"
+          
+          # ⭐ 关键配置：指定触发事件（必须包含 synchronize）
+          github_action_config.pr_actions: '["opened", "reopened", "ready_for_review", "synchronize"]'
+          
+          # ═══════════════════════════════════════════════════
+          # PR审查配置
+          # ═══════════════════════════════════════════════════
+          pr_reviewer.require_score_review: "true"
+          pr_reviewer.require_tests_review: "true"
+          pr_reviewer.require_security_review: "true"
+          pr_reviewer.require_estimate_effort_to_review: "true"
+          pr_reviewer.inline_code_comments: "true"
+          pr_reviewer.num_code_suggestions: "4"
+          
+          pr_reviewer.extra_instructions: >-
+            请用中文进行详细代码审查，重点关注：
+            1. 安全漏洞（SQL注入、XSS、CSRF、硬编码密钥、敏感信息泄露）
+            2. 性能问题（N+1查询、算法复杂度、内存泄漏）
+            3. 代码质量（命名规范、重复代码、函数复杂度）
+            4. 最佳实践（类型注解、错误处理、日志记录、文档）
+            5. 测试覆盖（单元测试、边界条件、错误场景）
           
           # ═══════════════════════════════════════════════════
           # PR描述配置
@@ -58,43 +74,14 @@ jobs:
           pr_description.publish_labels: "true"
           pr_description.enable_ai_summary: "true"
           pr_description.extra_instructions: >-
-            请用中文生成PR描述，包括：
-            主要变更内容、影响范围、测试方法、风险评估
-          
-          # ═══════════════════════════════════════════════════
-          # 代码审查配置
-          # ═══════════════════════════════════════════════════
-          pr_reviewer.require_score_review: "true"
-          pr_reviewer.require_tests_review: "true"
-          pr_reviewer.require_security_review: "true"
-          pr_reviewer.require_estimate_effort_to_review: "true"
-          pr_reviewer.inline_code_comments: "true"
-          pr_reviewer.persistent_comment: "true"
-          pr_reviewer.num_code_suggestions: "4"
-          
-          pr_reviewer.extra_instructions: >-
-            请用中文进行详细代码审查，重点关注：
-            1. 安全漏洞（SQL注入、XSS、CSRF、硬编码密钥、敏感信息泄露、路径遍历）
-            2. 性能问题（N+1查询、算法复杂度、内存泄漏、无限循环）
-            3. 代码质量（命名规范、重复代码、函数复杂度、可读性）
-            4. 最佳实践（类型注解、错误处理、日志记录、文档注释）
-            5. 测试覆盖（单元测试、边界条件、错误场景）
-            团队规范：Python必须使用类型注解，所有API必须有认证，数据库操作使用参数化查询，禁止硬编码敏感信息，生产环境禁止debug模式
+            请用中文生成PR描述，包括：主要变更、影响范围、测试方法、风险评估
           
           # ═══════════════════════════════════════════════════
           # 代码改进建议配置
           # ═══════════════════════════════════════════════════
           pr_code_suggestions.num_code_suggestions: "5"
-          pr_code_suggestions.suggestions_score_threshold: "7"
-          
           pr_code_suggestions.extra_instructions: >-
-            请用中文提供具体的代码改进建议，
-            每个建议必须包含问题说明、完整修复代码、改进理由、影响评估
-          
-          # ═══════════════════════════════════════════════════
-          # 其他工具配置
-          # ═══════════════════════════════════════════════════
-          pr_update_changelog.publish_changelog: "true"
+            请用中文提供具体改进建议，包含问题说明、修复代码、改进理由、影响评估
           
       - name: ✅ 审查完成
         if: success()
@@ -112,7 +99,6 @@ jobs:
           echo "  /describe - 生成PR描述"
           echo "  /improve - 获取改进建议"
           echo "  /ask <问题> - 询问关于代码的问题"
-          echo "  /test - 生成测试用例"
           echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
       
       - name: ❌ 审查失败处理
@@ -122,22 +108,8 @@ jobs:
           echo "❌ PR-Agent 审查失败"
           echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
           echo ""
-          echo "🔍 可能的原因："
-          echo ""
-          echo "1. 智谱API配置问题"
-          echo "   • API Key未配置或已过期"
-          echo "   • 检查路径: Settings → Secrets → ZHIPU_API_KEY"
-          echo ""
-          echo "2. API额度不足"
-          echo "   • 访问 https://open.bigmodel.cn/ 查看余额"
-          echo ""
-          echo "3. 网络连接问题"
-          echo "   • GitHub Actions无法访问智谱API"
-          echo ""
-          echo "4. 配置格式错误"
-          echo "   • 检查YAML缩进和引号"
-          echo "   • 模型名称应为 openai/glm-4-plus"
-          echo ""
-          echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
-          echo "📋 请查看上方详细日志获取具体错误信息"
+          echo "🔍 常见问题排查："
+          echo "1. 检查 Settings → Secrets → ZHIPU_API_KEY"
+          echo "2. 访问 https://open.bigmodel.cn/ 查看余额"
+          echo "3. 查看上方日志获取详细错误"
           echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
