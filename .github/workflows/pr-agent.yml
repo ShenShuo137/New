@@ -1,3 +1,4 @@
+# .github/workflows/pr-agent.yml
 name: PR Agent
 
 on:
@@ -15,6 +16,8 @@ jobs:
     steps:
     - name: 检出代码
       uses: actions/checkout@v4
+      with:
+        ref: ${{ github.event.pull_request.head.sha }}  # 确保只 checkout PR 分支
     
     - name: 设置 Python
       uses: actions/setup-python@v5
@@ -24,37 +27,14 @@ jobs:
     - name: 安装 PR Agent
       run: pip install pr-agent
       
-    - name: 调试：检查配置文件
-      run: |
-        echo "📂 当前目录："
-        pwd
-        ls -la
-        echo ""
-        echo "🔍 查找配置文件："
-        find . -name "*pr_agent*" -o -name "*secrets*" 2>/dev/null || echo "未找到配置文件"
-        
     - name: 运行 PR Agent
       env:
-        # OpenAI 兼容 API（移除 api_type）
-        OPENAI__KEY: ${{ secrets.ZHIPU_API_KEY }}
-        OPENAI__API_BASE: "https://open.bigmodel.cn/api/paas/v4/"
-        # ❌ 移除这行：OPENAI__API_TYPE: "azure"
-        
-        # GitHub Token
+        OPENAI_API_KEY: ${{ secrets.ZHIPU_API_KEY }}
+        OPENAI_API_BASE: "https://open.bigmodel.cn/api/paas/v4/"
         GITHUB__USER_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         
-        # 模型配置
-        CONFIG__MODEL: "glm-4-flash"
+        CONFIG__MODEL: "openai/glm-4-flash"
         CONFIG__CUSTOM_MODEL_MAX_TOKENS: "128000"
         CONFIG__FALLBACK_MODELS: "[]"
-        
-        # 禁用额外指令（覆盖可能存在的配置）
-        PR_REVIEWER__EXTRA_INSTRUCTIONS: ""
-        PR_REVIEWER__REQUIRE_SECURITY_REVIEW: "false"
-        PR_REVIEWER__NUM_CODE_SUGGESTIONS: "4"
       run: |
-        echo "📋 环境变量检查："
-        env | grep -E "CONFIG__|OPENAI__|PR_REVIEWER__" | grep -v "KEY" | sort
-        echo ""
-        echo "🔍 开始审查 PR #${{ github.event.pull_request.number }}"
         pr-agent --pr_url="${{ github.event.pull_request.html_url }}" review
