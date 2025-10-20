@@ -1,12 +1,11 @@
 [config]
 model = "glm-4-flash"
 git_provider = "github"
-# ✅ 关键：指定模型的最大 token 数
-custom_model_max_tokens = 128000  # GLM-4-Flash 支持 128K 上下文
-# ✅ 禁用 fallback 模型
+custom_model_max_tokens = 128000
 fallback_models = []
 
 [openai]
+# api_key 从环境变量 OPENAI__API_KEY 读取
 api_base = "https://open.bigmodel.cn/api/paas/v4/"
 api_type = "azure"
 
@@ -15,7 +14,6 @@ auto_review = true
 require_security_review = true
 num_code_suggestions = 4
 inline_code_comments = true
-# 额外的审查指示
 extra_instructions = """
 请特别关注：
 1. 安全漏洞（SQL注入、XSS、认证问题）
@@ -24,15 +22,3 @@ extra_instructions = """
 4. 错误处理是否完善
 5. 是否有潜在的空指针/未定义变量
 """
-
-[pr_description]
-enable_ai_summary = true
-publish_description_as_comment = true
-publish_labels = true
-
-[pr_code_suggestions]
-num_code_suggestions = 4
-commitable_code_suggestions = true
-
-[github]
-# 从环境变量读取 GitHub Token
