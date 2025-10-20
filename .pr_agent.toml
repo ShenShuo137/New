@@ -1,0 +1,35 @@
+[config]
+model = "glm-4-flash"
+git_provider = "github"
+
+[pr_reviewer]
+# 审查严格程度
+review_strictness = "balanced"  # permissive/balanced/strict
+
+# 安全审查
+require_security_review = true
+
+# 代码建议数量
+num_code_suggestions = 4
+
+# 增量审查（只审查变更部分，节省成本）
+incremental_review = true
+
+# 自定义审查重点
+extra_instructions = """
+请特别关注：
+1. 安全漏洞（SQL注入、XSS、认证问题）
+2. 性能问题（N+1查询、循环中的IO操作）
+3. 代码可读性和可维护性
+4. 错误处理是否完善
+5. 是否有潜在的空指针/未定义变量
+"""
+
+[pr_description]
+enable_ai_summary = true
+publish_description_as_comment = true
+publish_labels = true
+
+[pr_code_suggestions]
+num_code_suggestions = 4
+commitable_code_suggestions = true

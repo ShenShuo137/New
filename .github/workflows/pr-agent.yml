@@ -1,0 +1,54 @@
+name: PR-Agent 智能代码审查
+
+on:
+  pull_request:
+    types: [opened, reopened, synchronize, ready_for_review]
+  issue_comment:
+    types: [created, edited]
+
+permissions:
+  contents: read
+  pull-requests: write
+  issues: write
+
+jobs:
+  pr_agent_job:
+    # 私有仓库也完全支持！
+    runs-on: ubuntu-latest
+    name: 运行 PR-Agent
+    
+    # 跳过草稿PR和机器人评论
+    if: |
+      github.event.pull_request.draft == false &&
+      github.event.sender.type != 'Bot'
+    
+    steps:
+      - name: PR-Agent 代码审查
+        uses: Codium-ai/pr-agent@main
+        env:
+          # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+          # 智谱GLM配置
+          # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+          OPENAI_KEY: ${{ secrets.ZHIPU_API_KEY }}
+          OPENAI_API_BASE: "https://open.bigmodel.cn/api/paas/v4/"
+          OPENAI_API_TYPE: "azure"
+          CONFIG.MODEL: "glm-4-flash"
+          
+          # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+          # GitHub Token（自动提供，无需配置）
+          # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          
+          # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+          # 审查配置
+          # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+          PR_REVIEWER.AUTO_REVIEW: "true"
+          PR_REVIEWER.REQUIRE_TESTS: "false"
+          PR_REVIEWER.REQUIRE_SECURITY_REVIEW: "true"
+          PR_REVIEWER.NUM_CODE_SUGGESTIONS: "4"
+          PR_REVIEWER.INLINE_CODE_COMMENTS: "true"
+          PR_REVIEWER.INCREMENTAL_REVIEW: "true"
+          
+          # 自动生成PR描述
+          PR_DESCRIPTION.PUBLISH_DESCRIPTION_AS_COMMENT: "true"
+          PR_DESCRIPTION.ENABLE_AI_SUMMARY: "true"
