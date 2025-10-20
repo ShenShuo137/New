@@ -32,42 +32,47 @@ jobs:
         run: |
           pip install --upgrade pip
           pip install pr-agent
-          
-      - name: 验证配置
+      
+      - name: 创建配置文件
         run: |
-          echo "🔍 验证环境变量..."
-          echo "API Key 已设置: ${{ secrets.ZHIPU_API_KEY != '' }}"
-          echo "GitHub Token 已设置: ${{ secrets.GITHUB_TOKEN != '' }}"
-          echo "PR URL: ${{ github.event.pull_request.html_url }}"
+          cat > /tmp/pr_agent_config.toml << 'EOF'
+          [config]
+          model = "glm-4-flash"
+          git_provider = "github"
+          publish_output = true
+          
+          [openai]
+          api_base = "https://open.bigmodel.cn/api/paas/v4/"
+          api_type = "azure"
+          
+          [pr_reviewer]
+          auto_review = true
+          require_security_review = true
+          num_code_suggestions = 4
+          inline_code_comments = true
+          
+          [github]
+          # 通过环境变量传递
+          EOF
       
       - name: 运行代码审查
         env:
-          # 智谱 GLM 配置
+          # ✅ 关键：使用正确的环境变量名称
           OPENAI_KEY: ${{ secrets.ZHIPU_API_KEY }}
-          OPENAI.API_BASE: "https://open.bigmodel.cn/api/paas/v4/"
-          OPENAI.API_TYPE: "azure"
-          CONFIG.MODEL: "glm-4-flash"
+          GITHUB.USER_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           
-          # GitHub 配置
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          
-          # PR-Agent 配置
-          CONFIG.GIT_PROVIDER: "github"
-          CONFIG.PUBLISH_OUTPUT: "true"
-          CONFIG.PUBLISH_OUTPUT_PROGRESS: "true"
-          PR_REVIEWER.AUTO_REVIEW: "true"
-          PR_REVIEWER.REQUIRE_SECURITY_REVIEW: "true"
-          PR_REVIEWER.NUM_CODE_SUGGESTIONS: "4"
-          PR_REVIEWER.INLINE_CODE_COMMENTS: "true"
         run: |
           set -x
           
-          echo "📋 开始审查 PR #${{ github.event.pull_request.number }}"
+          echo "📋 PR 信息："
+          echo "  Number: #${{ github.event.pull_request.number }}"
+          echo "  URL: ${{ github.event.pull_request.html_url }}"
           
-          # ✅ 使用官方文档推荐的命令格式
+          # 使用配置文件
+          export CONFIG_PATH=/tmp/pr_agent_config.toml
+          
+          # 运行审查
           pr-agent \
             --pr_url="${{ github.event.pull_request.html_url }}" \
-            review \
-            --output=markdown
-          
-          echo "✅ 审查完成"
+            --config_path=$CONFIG_PATH \
+            review
