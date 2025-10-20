@@ -27,8 +27,25 @@ jobs:
       
     - name: 运行 PR Agent
       env:
-        # ✅ 正确的环境变量名（双下划线）
+        # OpenAI API 配置
         OPENAI__API_KEY: ${{ secrets.ZHIPU_API_KEY }}
+        OPENAI__API_BASE: "https://open.bigmodel.cn/api/paas/v4/"
+        OPENAI__API_TYPE: "azure"
+        
+        # GitHub Token
         GITHUB__USER_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        
+        # ✅ 模型配置（环境变量方式）
+        CONFIG__MODEL: "glm-4-flash"
+        CONFIG__GIT_PROVIDER: "github"
+        CONFIG__CUSTOM_MODEL_MAX_TOKENS: "128000"
+        CONFIG__FALLBACK_MODELS: "[]"
+        
+        # PR Reviewer 配置
+        PR_REVIEWER__AUTO_REVIEW: "true"
+        PR_REVIEWER__REQUIRE_SECURITY_REVIEW: "true"
+        PR_REVIEWER__NUM_CODE_SUGGESTIONS: "4"
+        PR_REVIEWER__INLINE_CODE_COMMENTS: "true"
       run: |
+        echo "🔍 开始审查 PR #${{ github.event.pull_request.number }}"
         pr-agent --pr_url="${{ github.event.pull_request.html_url }}" review
