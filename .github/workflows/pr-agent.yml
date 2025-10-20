@@ -23,33 +23,75 @@ jobs:
       with:
         python-version: '3.11'
     
-    - name: 安装依赖（指定版本）
+    - name: 安装依赖
       run: |
         pip install --upgrade pip
-        pip install "openai>=1.0,<2.0"
-        pip install "litellm>=1.30"
-        pip install pr-agent
+        pip install openai requests
+    
+    - name: 测试智谱 API（独立测试）
+      env:
+        ZHIPU_API_KEY: ${{ secrets.ZHIPU_API_KEY }}
+      run: |
+        python3 << 'EOF'
+        import os
+        from openai import OpenAI
+
+        print("🔍 测试智谱 API 连接...")
         
-        echo "📦 已安装的版本："
-        pip show openai litellm pr-agent | grep -E "Name:|Version:"
+        client = OpenAI(
+            api_key=os.environ["ZHIPU_API_KEY"],
+            base_url="https://open.bigmodel.cn/api/paas/v4/"
+        )
+
+        try:
+            response = client.chat.completions.create(
+                model="glm-4-flash",
+                messages=[
+                    {"role": "user", "content": "请用一句话介绍你自己"}
+                ],
+                max_tokens=100
+            )
+            print("✅ 智谱 API 测试成功！")
+            print(f"📝 响应: {response.choices[0].message.content}")
+            print(f"📊 Token 使用: {response.usage}")
+        except Exception as e:
+            print(f"❌ 智谱 API 测试失败: {e}")
+            import traceback
+            traceback.print_exc()
+            exit(1)
+        EOF
+    
+    - name: 安装 PR Agent
+      run: |
+        pip install pr-agent
+        echo "📦 已安装版本："
+        pip show pr-agent litellm openai | grep -E "Name:|Version:"
+    
+    - name: 创建 PR-Agent 配置文件
+      run: |
+        cat > .pr_agent.toml << 'EOF'
+        [config]
+        model = "glm-4-flash"
+        git_provider = "github"
+        
+        [litellm]
+        drop_params = true
+        
+        [openai]
+        api_type = "openai"
+        EOF
+        
+        echo "📄 配置文件内容："
+        cat .pr_agent.toml
     
     - name: 运行 PR Agent
       env:
-        # 标准 OpenAI 环境变量
         OPENAI_API_KEY: ${{ secrets.ZHIPU_API_KEY }}
         OPENAI_API_BASE: "https://open.bigmodel.cn/api/paas/v4/"
-        
-        # GitHub Token
         GITHUB__USER_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         
-        # 模型配置（尝试不带前缀）
-        CONFIG__MODEL: "glm-4-flash"
-        CONFIG__MODEL_TYPE: "openai"
-        CONFIG__CUSTOM_MODEL_MAX_TOKENS: "128000"
-        CONFIG__FALLBACK_MODELS: "[]"
-        
-        # 启用调试
-        LITELLM_LOG: "INFO"
+        # 强制使用 OpenAI 提供商
+        LITELLM_DROP_PARAMS: "true"
       run: |
         echo "🔍 开始审查 PR #${{ github.event.pull_request.number }}"
         pr-agent --pr_url="${{ github.event.pull_request.html_url }}" review
