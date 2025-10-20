@@ -22,12 +22,16 @@ jobs:
       with:
         python-version: '3.11'
     
-    - name: PR Agent action step
+    - name: 安装 PR Agent
       run: pip install pr-agent
       
     - name: 运行 PR Agent
       env:
+        # OpenAI 配置
         OPENAI_KEY: ${{ secrets.ZHIPU_API_KEY }}
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        
+        # GitHub Token（dynaconf 格式）
+        GITHUB__USER_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
+        echo "🔍 审查 PR #${{ github.event.pull_request.number }}"
         pr-agent --pr_url="${{ github.event.pull_request.html_url }}" review

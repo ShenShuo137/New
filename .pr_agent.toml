@@ -11,3 +11,6 @@ auto_review = true
 require_security_review = true
 num_code_suggestions = 4
 inline_code_comments = true
+
+[github]
+# 从环境变量读取 GitHub Token
