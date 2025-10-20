@@ -3,8 +3,6 @@ name: PR-Agent 智能代码审查
 on:
   pull_request:
     types: [opened, reopened, synchronize, ready_for_review]
-  issue_comment:
-    types: [created, edited]
 
 permissions:
   contents: read
@@ -17,9 +15,7 @@ jobs:
     timeout-minutes: 10
     name: 运行 PR-Agent
     
-    if: |
-      github.event.pull_request.draft == false &&
-      github.event.sender.type != 'Bot'
+    if: github.event.pull_request.draft == false
     
     steps:
       - name: 检出代码
@@ -31,30 +27,47 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-          # 移除了 cache: 'pip'
       
-      - name: 安装依赖
+      - name: 安装 PR-Agent
         run: |
           pip install --upgrade pip
-          pip install pr-agent python-dotenv
-      
-      - name: 运行 PR-Agent
-        env:
-          OPENAI_KEY: ${{ secrets.ZHIPU_API_KEY }}
-          OPENAI_API_BASE: "https://open.bigmodel.cn/api/paas/v4/"
-          OPENAI_API_TYPE: "azure"
-          CONFIG.MODEL: "glm-4-flash"
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          CONFIG.GIT_PROVIDER: "github"
+          pip install pr-agent
+          
+      - name: 验证配置
         run: |
-          # 构建 PR URL
-          if [ "${{ github.event_name }}" == "pull_request" ]; then
-            PR_URL="${{ github.event.pull_request.html_url }}"
-          else
-            PR_URL="${{ github.event.issue.pull_request.html_url }}"
-          fi
+          echo "🔍 验证环境变量..."
+          echo "API Key 已设置: ${{ secrets.ZHIPU_API_KEY != '' }}"
+          echo "GitHub Token 已设置: ${{ secrets.GITHUB_TOKEN != '' }}"
+          echo "PR URL: ${{ github.event.pull_request.html_url }}"
+      
+      - name: 运行代码审查
+        env:
+          # 智谱 GLM 配置
+          OPENAI_KEY: ${{ secrets.ZHIPU_API_KEY }}
+          OPENAI.API_BASE: "https://open.bigmodel.cn/api/paas/v4/"
+          OPENAI.API_TYPE: "azure"
+          CONFIG.MODEL: "glm-4-flash"
           
-          echo "🔍 审查 PR: $PR_URL"
+          # GitHub 配置
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           
-          # 执行审查
-          pr-agent review --pr-url="$PR_URL"
+          # PR-Agent 配置
+          CONFIG.GIT_PROVIDER: "github"
+          CONFIG.PUBLISH_OUTPUT: "true"
+          CONFIG.PUBLISH_OUTPUT_PROGRESS: "true"
+          PR_REVIEWER.AUTO_REVIEW: "true"
+          PR_REVIEWER.REQUIRE_SECURITY_REVIEW: "true"
+          PR_REVIEWER.NUM_CODE_SUGGESTIONS: "4"
+          PR_REVIEWER.INLINE_CODE_COMMENTS: "true"
+        run: |
+          set -x
+          
+          echo "📋 开始审查 PR #${{ github.event.pull_request.number }}"
+          
+          # ✅ 使用官方文档推荐的命令格式
+          pr-agent \
+            --pr_url="${{ github.event.pull_request.html_url }}" \
+            review \
+            --output=markdown
+          
+          echo "✅ 审查完成"
