@@ -26,9 +26,8 @@ jobs:
       
     - name: 运行 PR Agent
       env:
-        # ✅ 根据官方文档：OpenAI 兼容 API 使用 api_key
+        # ✅ 只需要这两个环境变量
         OPENAI__API_KEY: ${{ secrets.ZHIPU_API_KEY }}
-        # ✅ GitHub Token
         GITHUB__USER_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
         pr-agent --pr_url="${{ github.event.pull_request.html_url }}" review

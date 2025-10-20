@@ -1,24 +1,16 @@
 [config]
-model = "glm-4-flash"
+# 使用你想要的模型
+model = "glm-4.5"  # 或改成 "glm-4.5"（如果智谱支持）
 git_provider = "github"
-custom_model_max_tokens = 128000  # ← 必须！来自官方文档 Custom models 部分
-fallback_models = []
+custom_model_max_tokens = 128000  # 智谱模型的最大 token 数
+fallback_models = []  # 不使用降级模型
 
 [openai]
-# OpenAI 兼容 API 配置（不需要 api_type）
+# OpenAI 兼容 API 配置
 api_base = "https://open.bigmodel.cn/api/paas/v4/"
-# api_key 从环境变量读取
 
 [pr_reviewer]
 auto_review = true
 require_security_review = true
 num_code_suggestions = 4
 inline_code_comments = true
-extra_instructions = """
-请特别关注：
-1. 安全漏洞（SQL注入、XSS、认证问题）
-2. 性能问题（N+1查询、循环中的IO操作）
-3. 代码可读性和可维护性
-4. 错误处理是否完善
-5. 是否有潜在的空指针/未定义变量
-"""
