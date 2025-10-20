@@ -1,4 +1,4 @@
-name: PR Agent - Downgraded OpenAI
+name: PR Agent - Compatible Versions
 
 on:
   pull_request:
@@ -12,57 +12,31 @@ jobs:
   review:
     runs-on: ubuntu-latest
     steps:
-    - name: 检出代码
-      uses: actions/checkout@v4
+    - uses: actions/checkout@v4
       with:
         ref: ${{ github.event.pull_request.head.sha }}
     
-    - name: 设置 Python
-      uses: actions/setup-python@v5
+    - uses: actions/setup-python@v5
       with:
         python-version: '3.11'
     
-    - name: 安装 PR Agent 并降级 OpenAI
+    - name: 安装兼容版本
       run: |
-        echo "📦 安装 PR Agent..."
-        pip install pr-agent
+        echo "📦 第1步：先不要安装 pr-agent"
         
-        echo "📦 当前 OpenAI 版本："
-        pip show openai | grep Version
+        echo "📦 第2步：安装兼容的 openai 和 httpx"
+        pip install "openai==1.12.0" "httpx==0.24.1"
         
-        echo "⬇️ 强制降级到兼容版本..."
-        pip install --force-reinstall "openai==1.12.0"
+        echo "📦 第3步：安装 pr-agent（不升级依赖）"
+        pip install --no-deps pr-agent
         
-        echo "✅ 降级后版本："
-        pip show openai litellm pr-agent | grep -E "Name:|Version:"
+        echo "📦 第4步：安装 pr-agent 的其他依赖"
+        pip install PyGithub GitPython litellm dynaconf Jinja2 tiktoken
+        
+        echo "✅ 最终版本："
+        pip show openai httpx pr-agent | grep -E "Name:|Version:"
     
-    - name: 创建配置文件
-      run: |
-        # 主配置
-        cat > configuration.toml << 'EOF'
-        [config]
-        model = "openai/glm-4-flash"
-        custom_model_max_tokens = 128000
-        fallback_models = []
-        
-        [litellm]
-        drop_params = true
-        
-        [pr_reviewer]
-        require_all_thresholds_for_incremental_review = false
-        EOF
-        
-        # 密钥配置
-        cat > .secrets.toml << EOF
-        [openai]
-        api_key = "${{ secrets.ZHIPU_API_KEY }}"
-        api_base = "https://open.bigmodel.cn/api/paas/v4/"
-        EOF
-        
-        echo "📄 配置文件内容："
-        cat configuration.toml
-    
-    - name: 测试智谱 API（快速验证）
+    - name: 测试 API
       env:
         ZHIPU_API_KEY: ${{ secrets.ZHIPU_API_KEY }}
       run: |
@@ -78,15 +52,32 @@ jobs:
         
         response = client.chat.completions.create(
             model="glm-4-flash",
-            messages=[{"role": "user", "content": "Hi"}],
+            messages=[{"role": "user", "content": "Hello"}],
             max_tokens=10
         )
-        print("✅ API 测试成功！")
+        print(f"✅ 成功！回复: {response.choices[0].message.content}")
+        EOF
+    
+    - name: 创建配置
+      run: |
+        cat > configuration.toml << 'EOF'
+        [config]
+        model = "openai/glm-4-flash"
+        custom_model_max_tokens = 128000
+        fallback_models = []
+        
+        [litellm]
+        drop_params = true
+        EOF
+        
+        cat > .secrets.toml << EOF
+        [openai]
+        api_key = "${{ secrets.ZHIPU_API_KEY }}"
+        api_base = "https://open.bigmodel.cn/api/paas/v4/"
         EOF
     
     - name: 运行 PR Agent
       env:
         GITHUB__USER_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
-        echo "🚀 开始审查 PR #${{ github.event.pull_request.number }}"
         pr-agent --pr_url="${{ github.event.pull_request.html_url }}" review
