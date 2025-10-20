@@ -13,51 +13,41 @@ jobs:
   pr_agent_job:
     runs-on: ubuntu-latest
     steps:
-    - name: 检出代码
-      uses: actions/checkout@v4
+    - uses: actions/checkout@v4
       with:
         ref: ${{ github.event.pull_request.head.sha }}
     
-    - name: 设置 Python
-      uses: actions/setup-python@v5
+    - uses: actions/setup-python@v5
       with:
         python-version: '3.11'
     
-    - name: 测试智谱 API（可选，用于调试）
-      env:
-        ZHIPU_KEY: ${{ secrets.ZHIPU_API_KEY }}
+    - name: 安装依赖
       run: |
-        pip install openai
-        python3 << 'EOF'
-        import os
-        from openai import OpenAI
-        client = OpenAI(
-            api_key=os.environ["ZHIPU_KEY"],
-            base_url="https://open.bigmodel.cn/api/paas/v4/"
-        )
-        response = client.chat.completions.create(
-            model="glm-4-flash",
-            messages=[{"role": "user", "content": "Hi"}]
-        )
-        print("✅ API 测试成功")
+        pip install "openai==1.12.0"  # 明确指定稳定版本
+        pip install pr-agent
+    
+    - name: 创建配置
+      run: |
+        cat > .pr_agent.toml << 'EOF'
+        [config]
+        model = "openai/glm-4-flash"
+        custom_model_max_tokens = 128000
+        fallback_models = []
+        
+        [openai]
+        api_base = "https://open.bigmodel.cn/api/paas/v4/"
+        
+        [litellm]
+        drop_params = true
+        EOF
+        
+        cat > .secrets.toml << EOF
+        [openai]
+        api_key = "${{ secrets.ZHIPU_API_KEY }}"
         EOF
     
-    - name: 安装 PR Agent
-      run: pip install pr-agent
-    
-    - name: 运行 PR Agent
+    - name: 运行审查
       env:
-        # GitHub Token
         GITHUB__USER_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        
-        # 智谱 API 配置（双下划线！）
-        OPENAI__API_KEY: ${{ secrets.ZHIPU_API_KEY }}
-        OPENAI__API_BASE: "https://open.bigmodel.cn/api/paas/v4/"
-        
-        # 模型配置（双下划线！）
-        CONFIG__MODEL: "glm-4-flash"
-        CONFIG__CUSTOM_MODEL_MAX_TOKENS: "128000"
-        CONFIG__FALLBACK_MODELS: "[]"
       run: |
-        echo "🔍 开始审查 PR #${{ github.event.pull_request.number }}"
         pr-agent --pr_url="${{ github.event.pull_request.html_url }}" review
