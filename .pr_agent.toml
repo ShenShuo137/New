@@ -1,13 +1,7 @@
 [config]
-# 使用你想要的模型
-model = "glm-4.5"  # 或改成 "glm-4.5"（如果智谱支持）
-git_provider = "github"
-custom_model_max_tokens = 128000  # 智谱模型的最大 token 数
-fallback_models = []  # 不使用降级模型
-
-[openai]
-# OpenAI 兼容 API 配置
-api_base = "https://open.bigmodel.cn/api/paas/v4/"
+model = "glm-4-flash"
+custom_model_max_tokens = 128000
+fallback_models = []
 
 [pr_reviewer]
 auto_review = true
