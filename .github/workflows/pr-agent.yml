@@ -37,6 +37,7 @@ jobs:
           # ═══════════════════════════════════════════════════
           config.model: "openai/glm-4-plus"
           config.fallback_models: '["openai/glm-4-air"]'
+          config.custom_model_max_tokens: "128000"
           config.language: "zh"
           
           # ═══════════════════════════════════════════════════
