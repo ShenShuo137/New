@@ -326,7 +326,7 @@ class VIPSystem:
             (referrer_id,)
         )
         
-        # 给被推荐人奖励
+        #给被推荐人奖励
         cursor.execute(
             "UPDATE users SET points = points + 50 WHERE user_id = ?",
             (self.user_id,)
