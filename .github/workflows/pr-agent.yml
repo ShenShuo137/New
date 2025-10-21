@@ -1,4 +1,4 @@
-name: PR-Agent 智谱GLM 代码审查
+name: 智能代码审查 (PR-Agent + CodeQL)
 
 on:
   pull_request:
@@ -10,13 +10,17 @@ permissions:
   contents: read
   pull-requests: write
   issues: write
+  security-events: write  # ⭐ 新增：CodeQL 需要这个权限
 
 jobs:
+  # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  # Job 1: PR-Agent (AI 智能审查)
+  # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
   pr_agent_job:
     if: ${{ github.event.sender.type != 'Bot' }}
     
     runs-on: ubuntu-latest
-    name: 智谱GLM代码审查
+    name: 🤖 AI智能审查 (GLM-4-Plus)
     
     steps:
       - name: PR Agent action step
@@ -84,11 +88,11 @@ jobs:
           pr_code_suggestions.extra_instructions: >-
             请用中文提供具体改进建议，包含问题说明、修复代码、改进理由、影响评估
           
-      - name: ✅ 审查完成
+      - name: ✅ AI审查完成
         if: success()
         run: |
           echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
-          echo "✅ PR-Agent 审查完成！"
+          echo "✅ PR-Agent 智能审查完成！"
           echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
           echo "🤖 使用模型: 智谱 GLM-4-Plus"
           echo "🌐 审查语言: 中文"
@@ -102,7 +106,7 @@ jobs:
           echo "  /ask <问题> - 询问关于代码的问题"
           echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
       
-      - name: ❌ 审查失败处理
+      - name: ❌ AI审查失败处理
         if: failure()
         run: |
           echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
@@ -113,4 +117,177 @@ jobs:
           echo "1. 检查 Settings → Secrets → ZHIPU_API_KEY"
           echo "2. 访问 https://open.bigmodel.cn/ 查看余额"
           echo "3. 查看上方日志获取详细错误"
+          echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+
+  # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  # Job 2: CodeQL (安全扫描) ⭐ 新增的部分
+  # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  codeql_analysis:
+    # ⭐ 只在 PR 事件时运行（避免 issue_comment 时重复运行）
+    if: github.event_name == 'pull_request'
+    
+    runs-on: ubuntu-latest
+    name: 🔍 安全扫描 (CodeQL)
+    
+    # ⭐ 多语言支持（如果项目包含多种语言）
+    strategy:
+      fail-fast: false
+      matrix:
+        language: ['python']  
+        # 如果项目有其他语言，添加到这里：
+        # language: ['python', 'javascript', 'java']
+    
+    steps:
+      # ═══════════════════════════════════════════════════
+      # 步骤1: 检出代码
+      # ═══════════════════════════════════════════════════
+      - name: 检出代码
+        uses: actions/checkout@v4
+      
+      # ═══════════════════════════════════════════════════
+      # 步骤2: 初始化 CodeQL（完全自动，无需配置）
+      # ═══════════════════════════════════════════════════
+      - name: 初始化 CodeQL
+        uses: github/codeql-action/init@v3
+        with:
+          languages: ${{ matrix.language }}
+          
+          # ⭐ 使用扩展查询集（包含更多安全规则）
+          queries: +security-and-quality
+          
+          # ⭐ 可选：自定义查询配置
+          # config-file: ./.github/codeql/codeql-config.yml
+      
+      # ═══════════════════════════════════════════════════
+      # 步骤3: 自动构建（Python 会自动跳过，Java 需要构建）
+      # ═══════════════════════════════════════════════════
+      - name: 自动构建
+        uses: github/codeql-action/autobuild@v3
+      
+      # ═══════════════════════════════════════════════════
+      # 步骤4: 执行 CodeQL 分析
+      # ═══════════════════════════════════════════════════
+      - name: 执行 CodeQL 分析
+        uses: github/codeql-action/analyze@v3
+        with:
+          category: "/language:${{ matrix.language }}"
+          # ✅ 结果会自动上传到 Security → Code scanning alerts
+      
+      - name: ✅ 安全扫描完成
+        if: success()
+        run: |
+          echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+          echo "✅ CodeQL 安全扫描完成！"
+          echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+          echo ""
+          echo "🔍 扫描范围："
+          echo "  • SQL 注入漏洞"
+          echo "  • XSS 跨站脚本"
+          echo "  • 路径遍历攻击"
+          echo "  • 命令注入"
+          echo "  • 硬编码密钥"
+          echo "  • 资源泄露"
+          echo "  • 不安全的反序列化"
+          echo ""
+          echo "📊 查看结果："
+          echo "  • Security → Code scanning alerts"
+          echo "  • Pull request → Files changed (代码行标注)"
+          echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+      
+      - name: ❌ 安全扫描失败处理
+        if: failure()
+        run: |
+          echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+          echo "❌ CodeQL 扫描失败"
+          echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+          echo ""
+          echo "🔍 可能的原因："
+          echo "1. 代码语法错误"
+          echo "2. 依赖项缺失（Java 项目）"
+          echo "3. 构建失败"
+          echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+
+  # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  # Job 3: 审查总结 ⭐ 可选：生成综合报告
+  # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  review_summary:
+    # ⭐ 等待前两个 job 完成后运行
+    needs: [pr_agent_job, codeql_analysis]
+    
+    # ⭐ 即使某个 job 失败也运行
+    if: always() && github.event_name == 'pull_request'
+    
+    runs-on: ubuntu-latest
+    name: 📊 审查总结
+    
+    steps:
+      - name: 生成综合报告
+        run: |
+          echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+          echo "🎯 代码审查流程已完成"
+          echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+          echo ""
+          echo "✅ 已完成的审查："
+          echo ""
+          echo "┌────────────────────────────────────────────────────────┐"
+          echo "│ 1️⃣ PR-Agent (AI 智能审查)                              │"
+          echo "│                                                         │"
+          echo "│ 🤖 技术：大语言模型 (GLM-4-Plus)                       │"
+          echo "│ 🎯 优势：理解业务逻辑、上下文推理                       │"
+          echo "│ 📍 查看：PR 评论区                                      │"
+          echo "│                                                         │"
+          echo "│ 擅长发现：                                              │"
+          echo "│  • 业务逻辑错误                                        │"
+          echo "│  • 架构设计问题                                        │"
+          echo "│  • 代码可读性问题                                      │"
+          echo "│  • 最佳实践偏离                                        │"
+          echo "└────────────────────────────────────────────────────────┘"
+          echo ""
+          echo "┌────────────────────────────────────────────────────────┐"
+          echo "│ 2️⃣ CodeQL (深度安全扫描)                               │"
+          echo "│                                                         │"
+          echo "│ 🔍 技术：语义代码分析 + 数据流追踪                     │"
+          echo "│ 🎯 优势：精确的漏洞定位、零误报                        │"
+          echo "│ 📍 查看：Security → Code scanning alerts               │"
+          echo "│                                                         │"
+          echo "│ 擅长发现：                                              │"
+          echo "│  • SQL 注入 (CWE-89)                                   │"
+          echo "│  • XSS 攻击 (CWE-79)                                   │"
+          echo "│  • 路径遍历 (CWE-22)                                   │"
+          echo "│  • 命令注入 (CWE-78)                                   │"
+          echo "│  • 资源泄露 (CWE-772)                                  │"
+          echo "└────────────────────────────────────────────────────────┘"
+          echo ""
+          echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+          echo "📖 下一步行动："
+          echo ""
+          echo "1. 查看 PR 评论中的 AI 审查建议"
+          echo "2. 检查 Security 标签中的安全告警"
+          echo "3. 优先修复标记为 'Critical' 或 'High' 的问题"
+          echo "4. 推送修复后会自动重新审查"
+          echo ""
+          echo "💡 提示：两个工具互补使用，覆盖更全面！"
+          echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+      
+      - name: 检查审查状态
+        run: |
+          PR_AGENT_STATUS="${{ needs.pr_agent_job.result }}"
+          CODEQL_STATUS="${{ needs.codeql_analysis.result }}"
+          
+          echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+          echo "📊 审查状态统计"
+          echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+          
+          if [ "$PR_AGENT_STATUS" == "success" ]; then
+            echo "✅ PR-Agent: 成功"
+          else
+            echo "❌ PR-Agent: 失败 ($PR_AGENT_STATUS)"
+          fi
+          
+          if [ "$CODEQL_STATUS" == "success" ]; then
+            echo "✅ CodeQL: 成功"
+          else
+            echo "❌ CodeQL: 失败 ($CODEQL_STATUS)"
+          fi
+          
           echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
